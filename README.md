@@ -112,7 +112,7 @@ A collection of **awesome** web components.
 
 * [**graphicsmagick** - is the swiss army knife of image processing. Comprised of 267K physical lines of source code in the base package (or 1,225K including 3rd party libraries) it provides a robust and efficient collection of tools and libraries which support reading, writing, and manipulating an image in over 88 major formats including important formats like DPX, GIF, JPEG, JPEG-2000, PNG, PDF, PNM, and TIFF.](http://www.graphicsmagick.org/)
 
-  ​
+
 
 
 ## Respond page
@@ -126,8 +126,9 @@ A collection of **awesome** web components.
 
 * [**AlloyFinger** - super tiny size multi-touch gestures library for the web](https://github.com/AlloyTeam/AlloyFinger)
 
-  ​
-
+ 
+ 
+ 
 ## WebGL
 
 * [stack.gl](http://stack.gl/)
