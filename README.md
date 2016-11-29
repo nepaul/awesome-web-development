@@ -1,4 +1,4 @@
-# awesome-web-components
+# Awesome Web Components
 
 A collection of **awesome** web components.
 
@@ -76,7 +76,7 @@ A collection of **awesome** web components.
   * [**material-design-lite** - Material Design Components in HTML/CSS/JS](https://github.com/google/material-design-lite)
   * [**Materialize** -  A modern responsive front-end framework based on Material Design](http://materializecss.com/)
   * [**material-ui** - React Components that Implement Google's Material Design](https://github.com/callemall/material-ui)
-* [**bootstrap-material-design** - Material Design for Bootstrap is a theme for Bootstrap 3 which lets you use the new [Google Material Design](http://www.google.com/design/spec/material-design/) in your favorite front-end framework](http://fezvrasta.github.io/bootstrap-material-design/)
+* [**bootstrap-material-design** - Material Design for Bootstrap is a theme for Bootstrap 3 which lets you use the new [Google Material Design]in your favorite front-end framework](http://fezvrasta.github.io/bootstrap-material-design/)
 
 
 
