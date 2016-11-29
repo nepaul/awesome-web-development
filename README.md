@@ -23,10 +23,7 @@ Table of Contents
       * [WebGL](#webgl)
       * [New Feature Introduction](#new-feature-introduction)
       * [Typography Stylesheet](#typography-stylesheet)
-      * [Contribution](#contribution)
-      * [License](#license)
-
-       ​
+ 
 
 
 ## Chart
