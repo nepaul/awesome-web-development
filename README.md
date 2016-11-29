@@ -2,6 +2,7 @@
 
 A collection of **awesome** web components.
 
+[TOC]
 
 
 ## Chart
@@ -67,6 +68,7 @@ A collection of **awesome** web components.
 
 
 
+
 ## CSS Framework
 
 * [**Bootstrap** - May be the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web](http://getbootstrap.com/)
@@ -126,9 +128,9 @@ A collection of **awesome** web components.
 
 * [**AlloyFinger** - super tiny size multi-touch gestures library for the web](https://github.com/AlloyTeam/AlloyFinger)
 
+
  
- 
- 
+
 ## WebGL
 
 * [stack.gl](http://stack.gl/)
