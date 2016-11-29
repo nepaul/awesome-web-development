@@ -2,24 +2,29 @@
 
 A collection of **awesome** web components.
 
-*    [Table of Content](#awesome-web-components)
-     * [Chart](#chart)
-     * [File Upload](#file-upload)
-     * [Player](#player)
-     * [Notification ](#notification)
-     * [Alert](#alert)
-     * [Authentication](#authentication)
-     * [Animate](#animate)
-     * [CSS Framework](#css-framework)
-     * [Modal](#modal)
-     * [Drag](#drag)
-     * [Editor](#editor)
-     * [Image](#image)
-     * [Respond page](#respond-page)
-     * [Touch](#touch)
-     * [WebGL](#webgl)
-     * [New Feature Introduction](#new-feature-introduction)
-     * [Typography Stylesheet](#typography-stylesheet)
+Table of Contents
+=================
+
+   * [Awesome Web Components](#awesome-web-components)
+      * [Chart](#chart)
+      * [File Upload](#file-upload)
+      * [Player](#player)
+      * [Notification ](#notification)
+      * [Alert](#alert)
+      * [Authentication](#authentication)
+      * [Animate](#animate)
+      * [CSS Framework](#css-framework)
+      * [Modal](#modal)
+      * [Drag](#drag)
+      * [Editor](#editor)
+      * [Image](#image)
+      * [Respond page](#respond-page)
+      * [Touch](#touch)
+      * [WebGL](#webgl)
+      * [New Feature Introduction](#new-feature-introduction)
+      * [Typography Stylesheet](#typography-stylesheet)
+      * [Contribution](#contribution)
+      * [License](#license)
 
        ​
 
