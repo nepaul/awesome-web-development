@@ -2,10 +2,12 @@
 
 A collection of **awesome** web components.
 
+
 Table of Contents
 =================
 
    * [Awesome Web Components](#awesome-web-components)
+   * [Table of Contents](#table-of-contents)
       * [Chart](#chart)
       * [File Upload](#file-upload)
       * [Player](#player)
@@ -15,15 +17,22 @@ Table of Contents
       * [Animate](#animate)
       * [CSS Framework](#css-framework)
       * [Modal](#modal)
+      * [Popover](#popover)
       * [Drag](#drag)
       * [Editor](#editor)
       * [Image](#image)
       * [Respond page](#respond-page)
       * [Touch](#touch)
       * [WebGL](#webgl)
+      * [QRCode](#qrcode)
       * [New Feature Introduction](#new-feature-introduction)
       * [Typography Stylesheet](#typography-stylesheet)
- 
+      * [Compatibility](#compatibility)
+      * [Tools](#tools)
+      * [CDN](#cdn)
+      * [Contribution](#contribution)
+      * [License](#license)
+
 
 
 ## Chart
@@ -112,6 +121,14 @@ Table of Contents
 
 
 
+## Popover
+
+* [**webui-popover** - A lightWeight popover plugin with jquery, enchance the popover plugin of bootstrap with some awesome new features. It works well with bootstrap, but bootstrap is not necessary!](https://github.com/sandywalker/webui-popover)
+
+
+
+
+
 ## Drag
 
 * [**Dragula** - Browser support includes every sane browser and **IE7+**. Framework support includes vanilla JavaScript, Angular, and React](https://github.com/bevacqua/dragula)
@@ -155,6 +172,13 @@ Table of Contents
 ## WebGL
 
 * [stack.gl](http://stack.gl/)
+* [**three.js** - A JavaScript 3D Library which makes WebGL simpler.](https://threejs.org/)
+
+
+
+
+## QRCode
+* [**qrcodejs** - just for making QRCode and no other depedencies. It supports Cross-browser with HTML5 Canvas and table tag in DOM](https://github.com/davidshimjs/qrcodejs)
 
 
 
@@ -171,6 +195,28 @@ Table of Contents
 * [**typo.css** - 一致化浏览器排版效果，构建最适合中文阅读的网页排版，包括桌面和移动平台](https://github.com/sofish/typo.css)
 * [**中文文案排版指北**](https://github.com/sparanoid/chinese-copywriting-guidelines)
 * [**yue.css** - A typography stylesheet for readable content](https://github.com/lepture/yue.css)
+
+
+
+
+## Compatibility
+
+* [**html5shiv** - This script is the defacto way to enable use of HTML5 sectioning elements in legacy Internet Explorer](https://github.com/aFarkas/html5shiv)
+
+
+
+
+## Tools
+
+* [**fountainjs** - One Yeoman generator for all your frontend projects](http://fountainjs.io/)
+
+
+
+
+## CDN
+
+* [**JSDELIVR** - A free super-fast CDN
+for developers and webmasters](http://www.jsdelivr.com/)
 
 
 
