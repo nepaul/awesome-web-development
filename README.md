@@ -3,37 +3,41 @@
 A collection of **awesome** web components.
 
 
+
 Table of Contents
 =================
 
-* [Chart](#chart)
-* [File Upload](#file-upload)
-* [Loader](#loader)
-* [Icon](#icon)
-* [Player](#player)
-* [Notification ](#notification)
-* [Alert](#alert)
-* [Authentication](#authentication)
-* [Animate](#animate)
-* [CSS Framework](#css-framework)
-* [Modal](#modal)
-* [Popover](#popover)
-* [Drag](#drag)
-* [Editor](#editor)
-* [Image](#image)
-* [Respond page](#respond-page)
-* [Touch](#touch)
-* [WebGL](#webgl)
-* [QRCode](#qrcode)
-* [New Feature Introduction](#new-feature-introduction)
-* [Typography Stylesheet](#typography-stylesheet)
-* [Compatibility](#compatibility)
-* [Print](#print)
-* [Tools](#tools)
-* [CDN](#cdn)
-* [HTTP Client](#http-client)
-
-  ​
+* [Table of Contents](#table-of-contents)
+     * [Chart](#chart)
+     * [File Upload](#file-upload)
+     * [Loader](#loader)
+     * [Icon](#icon)
+     * [Player](#player)
+     * [Notification ](#notification)
+     * [Alert](#alert)
+     * [Authentication](#authentication)
+     * [Animate](#animate)
+     * [CSS Framework](#css-framework)
+     * [Modal](#modal)
+     * [Popover](#popover)
+     * [Drag](#drag)
+     * [Editor](#editor)
+     * [Image](#image)
+     * [Respond page](#respond-page)
+     * [Touch](#touch)
+     * [WebGL](#webgl)
+     * [Scroll](#scroll)
+     * [Tweening Engine](#tweening-engine)
+     * [QRCode](#qrcode)
+     * [New Feature Introduction](#new-feature-introduction)
+     * [Typography Stylesheet](#typography-stylesheet)
+     * [Compatibility](#compatibility)
+     * [Print](#print)
+     * [Tools](#tools)
+     * [Test](#test)
+     * [CDN](#cdn)
+     * [HTTP Client](#http-client)
+     * [Contribution](#contribution)​
 
 ## Chart
 
@@ -69,6 +73,7 @@ Table of Contents
 
 * [**Font Awesome** - The iconic font and CSS toolkit](http://fontawesome.io/)
 * [:thumbsup:**cssicon** - icon set made with pure css code, no dependencies, "grab and go" icons](http://cssicon.space/#/)
+* [**ionicons** - The premium icon font for [Ionic Framework](http://ionicframework.com/)](http://ionicons.com/)
 
 
 
@@ -108,9 +113,12 @@ Table of Contents
 ## Animate
 
 * [**animate.css** - A cross-browser library of CSS animations. As easy to use as an easy thing](https://github.com/daneden/animate.css)
+* [:thumbsup::thumbsup::thumbsup:**AniJS** - A Library to Raise your Web Design without Coding](http://anijs.github.io/)
+* [**Velocity.js** - Velocity is an animation engine with the same API as jQuery's *$.animate()*. It works with and without jQuery. It's incredibly fast, and it features **color animation**, **transforms**, **loops**, **easings**, **SVG support**, and **scrolling**. It is the best of jQuery and CSS transitions combined](http://velocityjs.org/)
+* [:thumbsup:**snabbt.js** - Fast animations with Javascript and CSS transforms](https://github.com/daniel-lundin/snabbt.js)
 * [**css-loaders** - A collection of loading spinners animated with CSS](https://github.com/lukehaas/css-loaders)
-
-
+* [**Hover.css** - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.](https://github.com/IanLunn/Hover/)
+* [**Odometer** - a Javascript and CSS library for smoothly transitioning numbers](https://github.com/HubSpot/odometer)
 
 
 ## CSS Framework
@@ -190,7 +198,20 @@ Table of Contents
 
 
 
+## Scroll
+
+- [**iScrolljs** - iScroll is a high performance, small footprint, dependency free, multi-platform javascript scroller](https://github.com/cubiq/iscroll/)
+
+
+
+## Tweening Engine
+
+* [**tween.js** - JavaScript tweening engine for easy animations, incorporating optimised Robert Penner's equations](https://github.com/tweenjs/tween.js)
+
+
+
 ## QRCode
+
 * [**qrcodejs** - just for making QRCode and no other depedencies. It supports Cross-browser with HTML5 Canvas and table tag in DOM](https://github.com/davidshimjs/qrcodejs)
 
 
@@ -226,11 +247,18 @@ Table of Contents
 
 
 
+
 ## Tools
 
 * [**fountainjs** - One Yeoman generator for all your frontend projects](http://fountainjs.io/)
 * [**jsfiddle** - online web developemnt editor](https://jsfiddle.net/)
 
+
+
+
+## Test
+
+- [**Macaca** - Solution for Automation Test with Ease](https://macacajs.com/)
 
 
 
