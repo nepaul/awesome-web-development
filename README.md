@@ -4,10 +4,12 @@ A collection of **awesome** web components.
 
 
 
+
 Table of Contents
 =================
 
 * [Table of Contents](#table-of-contents)
+     * [CodeStyleGuide](#codestyleguide)
      * [Chart](#chart)
      * [File Upload](#file-upload)
      * [Loader](#loader)
@@ -27,6 +29,7 @@ Table of Contents
      * [Touch](#touch)
      * [WebGL](#webgl)
      * [Scroll](#scroll)
+     * [Search](#search)
      * [Tweening Engine](#tweening-engine)
      * [QRCode](#qrcode)
      * [New Feature Introduction](#new-feature-introduction)
@@ -37,7 +40,14 @@ Table of Contents
      * [Test](#test)
      * [CDN](#cdn)
      * [HTTP Client](#http-client)
-     * [Contribution](#contribution)​
+
+
+
+## CodeStyleGuide
+
+- [**mdo code guide - **Standards for developing flexible, durable, and sustainable HTML and CSS.](https://github.com/mdo/code-guide)
+
+
 
 ## Chart
 
@@ -66,6 +76,8 @@ Table of Contents
 ## Loader
 
 * [**css loader** - Simple loaders for your web applications using only one div and pure CSS](http://www.raphaelfabeni.com.br/css-loader/)
+* [**Single Element CSS Spinners** - Each spinner consists of a single `div` with a class of `loader` and content text of "Loading...". The text is for screen readers and can be used as a fallback state for older browsers](https://github.com/lukehaas/css-loaders)
+
 
 
 
@@ -121,6 +133,8 @@ Table of Contents
 * [**Odometer** - a Javascript and CSS library for smoothly transitioning numbers](https://github.com/HubSpot/odometer)
 
 
+
+
 ## CSS Framework
 
 * [**Bootstrap** - May be the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web](http://getbootstrap.com/)
@@ -172,6 +186,7 @@ Table of Contents
 * [**BigScreen** - A simple library for using the JavaScript Fullscreen API](https://brad.is/coding/BigScreen/)
 * [:thumber **imagemagick** - Use ImageMagick to create, edit, compose, or convert bitmap images](https://www.imagemagick.org/script/index.php)
 * [:clap:**graphicsmagick** - is the swiss army knife of image processing. Comprised of 267K physical lines of source code in the base package (or 1,225K including 3rd party libraries) it provides a robust and efficient collection of tools and libraries which support reading, writing, and manipulating an image in over 88 major formats including important formats like DPX, GIF, JPEG, JPEG-2000, PNG, PDF, PNM, and TIFF.](http://www.graphicsmagick.org/)
+* [**PhotoSwipe** - JavaScript image gallery for mobile and desktop](https://github.com/dimsemenov/photoswipe)
 
 
 
@@ -204,9 +219,17 @@ Table of Contents
 
 
 
+
+## Search
+
+- [:thumbsup::thumbsup::thumbsup:**List.js** - Tiny, invisible and simple, yet powerful and incredibly fast vanilla JavaScript that adds *search*, *sort*, *filters* and *flexibility* to plain HTML *lists*, *tables*, or anything.](http://listjs.com/)
+
+
+
 ## Tweening Engine
 
 * [**tween.js** - JavaScript tweening engine for easy animations, incorporating optimised Robert Penner's equations](https://github.com/tweenjs/tween.js)
+
 
 
 
@@ -259,6 +282,7 @@ Table of Contents
 ## Test
 
 - [**Macaca** - Solution for Automation Test with Ease](https://macacajs.com/)
+
 
 
 
