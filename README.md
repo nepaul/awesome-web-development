@@ -8,38 +8,41 @@ A collection of **awesome** web components.
 Table of Contents
 =================
 
-* [Table of Contents](#table-of-contents)
-     * [CodeStyleGuide](#codestyleguide)
-     * [Chart](#chart)
-     * [File Upload](#file-upload)
-     * [Loader](#loader)
-     * [Icon](#icon)
-     * [Player](#player)
-     * [Notification ](#notification)
-     * [Alert](#alert)
-     * [Authentication](#authentication)
-     * [Animate](#animate)
-     * [CSS Framework](#css-framework)
-     * [Modal](#modal)
-     * [Popover](#popover)
-     * [Drag](#drag)
-     * [Editor](#editor)
-     * [Image](#image)
-     * [Respond page](#respond-page)
-     * [Touch](#touch)
-     * [WebGL](#webgl)
-     * [Scroll](#scroll)
-     * [Search](#search)
-     * [Tweening Engine](#tweening-engine)
-     * [QRCode](#qrcode)
-     * [New Feature Introduction](#new-feature-introduction)
-     * [Typography Stylesheet](#typography-stylesheet)
-     * [Compatibility](#compatibility)
-     * [Print](#print)
-     * [Tools](#tools)
-     * [Test](#test)
-     * [CDN](#cdn)
-     * [HTTP Client](#http-client)
+  * [Table of Contents](#table-of-contents)
+    * [CodeStyleGuide](#codestyleguide)
+    * [Chart](#chart)
+    * [File Upload](#file-upload)
+    * [Loader](#loader)
+    * [Icon](#icon)
+    * [Video Player](#video-player)
+    * [Notification ](#notification)
+    * [Alert](#alert)
+    * [Authentication](#authentication)
+    * [Animate](#animate)
+    * [CSS Framework](#css-framework)
+    * [Modal](#modal)
+    * [Popover](#popover)
+    * [Drag](#drag)
+    * [Editor](#editor)
+    * [Image](#image)
+    * [Respond page](#respond-page)
+    * [Touch](#touch)
+    * [WebGL](#webgl)
+    * [Scroll](#scroll)
+    * [Search](#search)
+    * [Tweening Engine](#tweening-engine)
+    * [QRCode](#qrcode)
+    * [Emoji](#emoji)
+    * [New Feature Introduction](#new-feature-introduction)
+    * [Typography Stylesheet](#typography-stylesheet)
+    * [Compatibility](#compatibility)
+    * [Print](#print)
+    * [Tools](#tools)
+    * [Test](#test)
+    * [CDN](#cdn)
+    * [HTTP Client](#http-client)
+    * [Contribution](#contribution)
+    * [License](#license)
 
 
 
@@ -77,8 +80,7 @@ Table of Contents
 
 * [**css loader** - Simple loaders for your web applications using only one div and pure CSS](http://www.raphaelfabeni.com.br/css-loader/)
 * [**Single Element CSS Spinners** - Each spinner consists of a single `div` with a class of `loader` and content text of "Loading...". The text is for screen readers and can be used as a fallback state for older browsers](https://github.com/lukehaas/css-loaders)
-
-
+* [:+1::+1:**nprogress** - For slim progress bars like on YouTube, Medium, etc [http://ricostacruz.com/nprogress](http://ricostacruz.com/nprogress)](https://github.com/rstacruz/nprogress/)
 
 
 ## Icon
@@ -90,12 +92,13 @@ Table of Contents
 
 
 
-## Player
+## Video Player
 
 * [**video.js** - An HTML5 & Flash video player](https://github.com/videojs/video.js)
 * [**jwplayer** - May be the world's most popular embeddable media player](https://github.com/jwplayer/jwplayer)
 * [**APlayer** - A beautiful html5 music player](https://github.com/DIYgod/APlayer)
 * [**Broadway** - A JavaScript H.264 decoder](https://github.com/mbebenita/Broadway)
+* [**flowplayer** - The HTML5 video player for the web](https://github.com/flowplayer/flowplayer)
 
 
 
@@ -122,6 +125,8 @@ Table of Contents
 
 
 
+
+
 ## Animate
 
 * [**animate.css** - A cross-browser library of CSS animations. As easy to use as an easy thing](https://github.com/daneden/animate.css)
@@ -131,6 +136,7 @@ Table of Contents
 * [**css-loaders** - A collection of loading spinners animated with CSS](https://github.com/lukehaas/css-loaders)
 * [**Hover.css** - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.](https://github.com/IanLunn/Hover/)
 * [**Odometer** - a Javascript and CSS library for smoothly transitioning numbers](https://github.com/HubSpot/odometer)
+* ​[ :heartbeat::heartbeat:**anime.js** - JavaScript Animation Engine](https://github.com/juliangarnier/anime)
 
 
 
@@ -145,6 +151,8 @@ Table of Contents
   * [**Materialize** -  A modern responsive front-end framework based on Material Design](http://materializecss.com/)
   * [**material-ui** - React Components that Implement Google's Material Design](https://github.com/callemall/material-ui)
 * [**bootstrap-material-design** - Material Design for Bootstrap is a theme for Bootstrap 3 which lets you use the new [Google Material Design]in your favorite front-end framework](http://fezvrasta.github.io/bootstrap-material-design/)
+* [**bulma** A **modern** CSS framework based on **Flexbox**](http://bulma.io/)
+* [**Primer CSS** - Primer is the CSS toolkit that powers GitHub's front-end design. It's purposefully limited to common components to provide our developers with the most flexibility, and to keep GitHub uniquely *GitHubby*. It's built with SCSS and available via NPM, so it's easy to include all or part of it within your own project](https://github.com/primer/primer-css)
 
 
 
@@ -240,6 +248,10 @@ Table of Contents
 
 
 
+## Emoji
+
+- [**twemoji** - Twitter Emoji for Everyone](https://github.com/twitter/twemoji)
+
 ## New Feature Introduction
 
 * [**intro.js** - A better way for new feature introduction and step-by-step users guide for your website and project](https://github.com/usablica/intro.js)
@@ -274,16 +286,20 @@ Table of Contents
 ## Tools
 
 * [**fountainjs** - One Yeoman generator for all your frontend projects](http://fountainjs.io/)
-* [**jsfiddle** - online web developemnt editor](https://jsfiddle.net/)
-
-
+* [**Sizzy** - A tool for developing responsive websites crazy-fast](https://github.com/kitze/sizzy)
+* [:pencil2:**jsfiddle** - online web developemnt editor](https://jsfiddle.net/)
+* [:pencil2:**codepen.io** - CodePen is a **social development environment**for front-end designers and developers. 👋](http://codepen.io)
+* [**nodemon** - Monitor for any changes in your node.js application and automatically restart the server - perfect for development](https://github.com/remy/nodemon)
+* [:+1:**json-server** Mock Get a full fake REST API with zero coding in less than 30 seconds (seriously)](https://github.com/remy/nodemon)
+* [**Mock** - A simulation data generator](https://github.com/nuysoft/Mock)
+* [​:+1:​​:+1:​​:+1:​**Emmet** -  the essential toolkit for web-developers](https://emmet.io/)
 
 
 ## Test
 
 - [**Macaca** - Solution for Automation Test with Ease](https://macacajs.com/)
-
-
+- [**ava** - 🚀 Futuristic JavaScript test runner: Even though JavaScript is single-threaded, IO in Node.js can happen in parallel due to its async nature. AVA takes advantage of this and runs your tests concurrently, which is especially beneficial for IO heavy tests. In addition, test files are run in parallel as separate processes, giving you even better performance and an isolated environment for each test file. [Switching](https://github.com/sindresorhus/pageres/commit/663be15acb3dd2eb0f71b1956ef28c2cd3fdeed0) from Mocha to AVA in Pageres brought the test time down from 31 to 11 seconds. Having tests run concurrently forces you to write atomic tests, meaning tests don't depend on global state or the state of other tests, which is a great thing!](https://github.com/avajs/ava)
+- [:+1:**jest** - facebook Delightful JavaScript Testing](https://facebook.github.io/jest/)
 
 
 ## CDN
