@@ -8,41 +8,45 @@ A collection of **awesome** web components.
 Table of Contents
 =================
 
-  * [Table of Contents](#table-of-contents)
-    * [CodeStyleGuide](#codestyleguide)
-    * [Chart](#chart)
-    * [File Upload](#file-upload)
-    * [Loader](#loader)
-    * [Icon](#icon)
-    * [Video Player](#video-player)
-    * [Notification ](#notification)
-    * [Alert](#alert)
-    * [Authentication](#authentication)
-    * [Animate](#animate)
-    * [CSS Framework](#css-framework)
-    * [Modal](#modal)
-    * [Popover](#popover)
-    * [Drag](#drag)
-    * [Editor](#editor)
-    * [Image](#image)
-    * [Respond page](#respond-page)
-    * [Touch](#touch)
-    * [WebGL](#webgl)
-    * [Scroll](#scroll)
-    * [Search](#search)
-    * [Tweening Engine](#tweening-engine)
-    * [QRCode](#qrcode)
-    * [Emoji](#emoji)
-    * [New Feature Introduction](#new-feature-introduction)
-    * [Typography Stylesheet](#typography-stylesheet)
-    * [Compatibility](#compatibility)
-    * [Print](#print)
-    * [Tools](#tools)
-    * [Test](#test)
-    * [CDN](#cdn)
-    * [HTTP Client](#http-client)
-    * [Contribution](#contribution)
-    * [License](#license)
+* [CodeStyleGuide](#codestyleguide)
+* [Reactive Framework](#reactive-framework)
+* [Chart &amp; Visual data analysis](#chart--visual-data-analysis)
+* [File Upload](#file-upload)
+* [Loader](#loader)
+* [Icon](#icon)
+* [Video Player](#video-player)
+* [Notification ](#notification)
+* [Alert](#alert)
+* [Authentication](#authentication)
+* [Animate](#animate)
+* [CSS Framework](#css-framework)
+* [Modal](#modal)
+* [Popper](#popper)
+* [Drag](#drag)
+* [Menus](#menus)
+* [Editor](#editor)
+* [Highlight](#highlight)
+* [Clipboard](#clipboard)
+* [Image](#image)
+* [Respond page](#respond-page)
+* [Touch](#touch)
+* [WebGL](#webgl)
+* [Scroll](#scroll)
+* [Search](#search)
+* [Tweening Engine](#tweening-engine)
+* [QRCode](#qrcode)
+* [Emoji](#emoji)
+* [New Feature Introduction](#new-feature-introduction)
+* [Typography Stylesheet](#typography-stylesheet)
+* [Compatibility](#compatibility)
+* [Print](#print)
+* [Tools](#tools)
+* [Mock](#mock)
+* [Test](#test)
+* [CDN](#cdn)
+* [HTTP Client](#http-client)
+* [Contribution](#contribution)
+* [License](#license)
 
 
 
@@ -51,8 +55,12 @@ Table of Contents
 - [**mdo code guide - **Standards for developing flexible, durable, and sustainable HTML and CSS.](https://github.com/mdo/code-guide)
 
 
+## Reactive Framework
 
-## Chart
+- [**ReactiveX** - An API for asynchronous programmingwith observable streams](http://reactivex.io/)
+- [**Cycle.js** - A functional and reactive JavaScript framework for predictable code](https://cycle.js.org/)
+
+## Chart & Visual data analysis
 
 * [**Highcharts** - Interactive JavaScript charts for your web pages](http://www.highcharts.com/) 
 * [**echarts** -  An easy of adding intuitive, interactive, and highly customizable charts](https://github.com/ecomfe/echarts)
@@ -63,8 +71,7 @@ Table of Contents
   * [**plotly.js** -  A high-level, declarative charting library whitch is build on top of d3.js and stack.gl](https://plot.ly/javascript/)
   * [**vega** - A *visualization grammar*, a declarative format for creating, saving, and sharing interactive visualization designs. Describe data visualizations in a JSON format, and generate interactive views using either HTML5 Canvas or SVG.](https://vega.github.io/vega/)
 * [**Leaflet** - An open-source JavaScript libraryfor mobile-friendly interactive maps](http://leafletjs.com/)
-
-
+* [**deck.gl** - A WebGL-powered framework for visual exploratory data analysis of large datasets.](https://uber.github.io/deck.gl/#/)
 
 
 ## File Upload
@@ -72,8 +79,6 @@ Table of Contents
 * [**dropzonejs** - an open source library that provides drag’n’drop file uploads with image previews](http://www.dropzonejs.com/)
 * [**jQuery File Upload Plugin**](https://github.com/blueimp/jQuery-File-Upload)
 * [**Web Uploader** - 一个以HTML5为主 FLASH为辅, 各种老旧浏览器兼容性好(IE6+ Andorid 4+ IOS 6+) ](https://github.com/fex-team/webuploader)
-
-
 
 
 ## Loader
@@ -88,8 +93,8 @@ Table of Contents
 * [**Font Awesome** - The iconic font and CSS toolkit](http://fontawesome.io/)
 * [:thumbsup:**cssicon** - icon set made with pure css code, no dependencies, "grab and go" icons](http://cssicon.space/#/)
 * [**ionicons** - The premium icon font for [Ionic Framework](http://ionicframework.com/)](http://ionicons.com/)
-
-
+* [**featcher** -  a collection of **simply beautiful open source icons**. Each icon is designed on a 24x24 grid with an emphasis on simplicity, consistency and readability](https://github.com/colebemis/feather)
+* [**Titanic** - A collection of animated icons + javascript library.](https://github.com/icons8/titanic)
 
 
 ## Video Player
@@ -101,14 +106,10 @@ Table of Contents
 * [**flowplayer** - The HTML5 video player for the web](https://github.com/flowplayer/flowplayer)
 
 
-
-
 ## Notification 
 
 * [**toastr** - A Javascript library fo non-blocking notifications](https://github.com/CodeSeven/toastr)
 * [Angular Toastr](https://github.com/Foxandxss/angular-toastr)
-
-
 
 
 ## Alert
@@ -116,15 +117,9 @@ Table of Contents
 * [**sweetalert** - A beautiful replacement for JavaScript's "alert"](https://github.com/t4t5/sweetalert)
 
 
-
-
 ## Authentication
 
 * [**satellizer** - A token-based AngularJS Authentication](https://github.com/sahat/satellizer)
-
-
-
-
 
 
 ## Animate
@@ -136,9 +131,7 @@ Table of Contents
 * [**css-loaders** - A collection of loading spinners animated with CSS](https://github.com/lukehaas/css-loaders)
 * [**Hover.css** - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.](https://github.com/IanLunn/Hover/)
 * [**Odometer** - a Javascript and CSS library for smoothly transitioning numbers](https://github.com/HubSpot/odometer)
-* ​[ :heartbeat::heartbeat:**anime.js** - JavaScript Animation Engine](https://github.com/juliangarnier/anime)
-
-
+* [ :heartbeat::heartbeat:**anime.js** - JavaScript Animation Engine](https://github.com/juliangarnier/anime)
 
 
 ## CSS Framework
@@ -153,8 +146,7 @@ Table of Contents
 * [**bootstrap-material-design** - Material Design for Bootstrap is a theme for Bootstrap 3 which lets you use the new [Google Material Design]in your favorite front-end framework](http://fezvrasta.github.io/bootstrap-material-design/)
 * [**bulma** A **modern** CSS framework based on **Flexbox**](http://bulma.io/)
 * [**Primer CSS** - Primer is the CSS toolkit that powers GitHub's front-end design. It's purposefully limited to common components to provide our developers with the most flexibility, and to keep GitHub uniquely *GitHubby*. It's built with SCSS and available via NPM, so it's easy to include all or part of it within your own project](https://github.com/primer/primer-css)
-
-
+* [**Semantic-UI** - A UI component framework based around useful principles from natural language.](https://github.com/semantic-org/semantic-ui/)
 
 
 ## Modal
@@ -163,13 +155,10 @@ Table of Contents
 * [**vex** - A modern dialog library which is highly configurable and easy to style](https://github.com/hubspot/vex)
 
 
-
-
-## Popover
+## Popper
 
 * [**webui-popover** - A lightWeight popover plugin with jquery, enchance the popover plugin of bootstrap with some awesome new features. It works well with bootstrap, but bootstrap is not necessary!](https://github.com/sandywalker/webui-popover)
-
-
+* [**popper.js** - A kickass library to manage your poppers](https://github.com/FezVrasta/popper.js)
 
 
 
@@ -178,15 +167,25 @@ Table of Contents
 * [**Dragula** - Browser support includes every sane browser and **IE7+**. Framework support includes vanilla JavaScript, Angular, and React](https://github.com/bevacqua/dragula)
 
 
+## Menus
 
+- [**Snap.js** - A Library for creating beautiful mobile shelfs in Javascript (Facebook and Path style side menus)](https://github.com/jakiestfu/Snap.js/)
 
 ## Editor
 
 * [**Ace** - A standalone code editor written in JavaScript](https://github.com/ajaxorg/ace)
 * [**draft.js** - A framework for building rich text editors in React, powered by an immutable model and abstracting over cross-browser differences](https://facebook.github.io/draft-js/)
+* [**pell** - pell is the simplest and smallest WYSIWYG text editor for web, with no dependencies](https://github.com/jaredreich/pell)
 
 
+## Highlight
 
+- [**Highlight.js** - Highlight.js is a syntax highlighter written in JavaScript. It works in the browser as well as on the server. It works with pretty much any markup, doesn’t depend on any framework and has automatic language detection.](https://github.com/isagalaev/highlight.js)
+- [**HR.js** - Tiny JavaScript plugin for highlighting and replacing text in the DOM](https://github.com/mburakerman/hrjs/)
+
+## Clipboard
+
+- [**clipboard.js** - A modern approach to copy text to clipboard. No Flash. No frameworks. Just 3kb gzipped](https://github.com/zenorocha/clipboard.js)
 
 ## Image
 
@@ -195,8 +194,7 @@ Table of Contents
 * [:thumber **imagemagick** - Use ImageMagick to create, edit, compose, or convert bitmap images](https://www.imagemagick.org/script/index.php)
 * [:clap:**graphicsmagick** - is the swiss army knife of image processing. Comprised of 267K physical lines of source code in the base package (or 1,225K including 3rd party libraries) it provides a robust and efficient collection of tools and libraries which support reading, writing, and manipulating an image in over 88 major formats including important formats like DPX, GIF, JPEG, JPEG-2000, PNG, PDF, PNM, and TIFF.](http://www.graphicsmagick.org/)
 * [**PhotoSwipe** - JavaScript image gallery for mobile and desktop](https://github.com/dimsemenov/photoswipe)
-
-
+* [**image-compressor** - A simple JavaScript image compressor. Uses the Browser's native canvas.toBlobhttps://developer.mozilla.org/en-US/docs/Web/API/HTMLCanvasElement/toBlob API to do the compression work. General use this to precompress a client image file before upload it.](**image-compressor** - A simple JavaScript image compressor. Uses the Browser's native canvas.toBlobhttps://developer.mozilla.org/en-US/docs/Web/API/HTMLCanvasElement/toBlob API to do the compression work. General use this to precompress a client image file before upload it.)
 
 
 ## Respond page
@@ -204,14 +202,10 @@ Table of Contents
 * [**Respond.js** - A fast & lightweight polyfill for min/max-width CSS3 Media Queries (for IE 6-8, and more)](https://github.com/scottjehl/Respond)
 
 
-
-
 ## Touch
 
 * [**AlloyFinger** - super tiny size multi-touch gestures library for the web](https://github.com/AlloyTeam/AlloyFinger)
 
-
- 
 
 ## WebGL
 
@@ -219,13 +213,9 @@ Table of Contents
 * [**three.js** - A JavaScript 3D Library which makes WebGL simpler.](https://threejs.org/)
 
 
-
-
 ## Scroll
 
 - [**iScrolljs** - iScroll is a high performance, small footprint, dependency free, multi-platform javascript scroller](https://github.com/cubiq/iscroll/)
-
-
 
 
 ## Search
@@ -239,13 +229,10 @@ Table of Contents
 * [**tween.js** - JavaScript tweening engine for easy animations, incorporating optimised Robert Penner's equations](https://github.com/tweenjs/tween.js)
 
 
-
-
 ## QRCode
 
 * [**qrcodejs** - just for making QRCode and no other depedencies. It supports Cross-browser with HTML5 Canvas and table tag in DOM](https://github.com/davidshimjs/qrcodejs)
-
-
+* [**qrious** - Pure JavaScript library for QR code generation using canvas](https://github.com/neocotic/qrious)
 
 
 ## Emoji
@@ -257,15 +244,11 @@ Table of Contents
 * [**intro.js** - A better way for new feature introduction and step-by-step users guide for your website and project](https://github.com/usablica/intro.js)
 
 
-
-
 ## Typography Stylesheet
 
 * [**typo.css** - 一致化浏览器排版效果，构建最适合中文阅读的网页排版，包括桌面和移动平台](https://github.com/sofish/typo.css)
 * [**中文文案排版指北**](https://github.com/sparanoid/chinese-copywriting-guidelines)
 * [**yue.css** - A typography stylesheet for readable content](https://github.com/lepture/yue.css)
-
-
 
 
 ## Compatibility
@@ -274,13 +257,9 @@ Table of Contents
 * [**es6 promise** - A polyfill for ES6-style Promises](https://github.com/stefanpenner/es6-promise)
 
 
-
-
 ## Print
 
 * [**Gutenber** - Modern framework to print correctly](https://github.com/BafS/Gutenberg)
-
-
 
 
 ## Tools
@@ -291,9 +270,15 @@ Table of Contents
 * [:pencil2:**codepen.io** - CodePen is a **social development environment**for front-end designers and developers. 👋](http://codepen.io)
 * [**nodemon** - Monitor for any changes in your node.js application and automatically restart the server - perfect for development](https://github.com/remy/nodemon)
 * [:+1:**json-server** Mock Get a full fake REST API with zero coding in less than 30 seconds (seriously)](https://github.com/remy/nodemon)
-* [**Mock** - A simulation data generator](https://github.com/nuysoft/Mock)
-* [​:+1:​​:+1:​​:+1:​**Emmet** -  the essential toolkit for web-developers](https://emmet.io/)
+* [:+1::+1::+1:**Emmet** -  the essential toolkit for web-developers](https://emmet.io/)
+* [**BrowserStack** - Instant access to all real mobile and desktop browsers. Say goodbye to your lab of devices and virtual machines.](https://www.browserstack.com/)
+* [**LogRocket** - Records everything users do on your site, helping you reproduce bugs and fix issues faster.](https://logrocket.com/)
 
+
+## Mock
+
+- [**Easy-Mock** - 一个可视化，并且能快速生成 **模拟数据** 的持久化服务。](https://www.easy-mock.com)
+- [**Mock** - A simulation data generator](https://github.com/nuysoft/Mock)
 
 ## Test
 
@@ -305,8 +290,6 @@ Table of Contents
 ## CDN
 
 * [**JSDELIVR** - A free super-fast CDNfor developers and webmasters](http://www.jsdelivr.com/)
-
-
 
 
 ## HTTP Client
