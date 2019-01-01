@@ -8,45 +8,55 @@ A collection of **awesome** web components.
 Table of Contents
 =================
 
-* [CodeStyleGuide](#codestyleguide)
-* [Reactive Framework](#reactive-framework)
-* [Chart &amp; Visual data analysis](#chart--visual-data-analysis)
-* [File Upload](#file-upload)
-* [Loader](#loader)
-* [Icon](#icon)
-* [Video Player](#video-player)
-* [Notification ](#notification)
-* [Alert](#alert)
-* [Authentication](#authentication)
-* [Animate](#animate)
-* [CSS Framework](#css-framework)
-* [Modal](#modal)
-* [Popper](#popper)
-* [Drag](#drag)
-* [Menus](#menus)
-* [Editor](#editor)
-* [Highlight](#highlight)
-* [Clipboard](#clipboard)
-* [Image](#image)
-* [Respond page](#respond-page)
-* [Touch](#touch)
-* [WebGL](#webgl)
-* [Scroll](#scroll)
-* [Search](#search)
-* [Tweening Engine](#tweening-engine)
-* [QRCode](#qrcode)
-* [Emoji](#emoji)
-* [New Feature Introduction](#new-feature-introduction)
-* [Typography Stylesheet](#typography-stylesheet)
-* [Compatibility](#compatibility)
-* [Print](#print)
-* [Tools](#tools)
-* [Mock](#mock)
-* [Test](#test)
-* [CDN](#cdn)
-* [HTTP Client](#http-client)
-* [Contribution](#contribution)
-* [License](#license)
+- [Awesome Web Components](#awesome-web-components)
+- [Table of Contents](#table-of-contents)
+  - [CodeStyleGuide](#codestyleguide)
+  - [Reactive Framework](#reactive-framework)
+  - [Chart & Visual data analysis](#chart--visual-data-analysis)
+  - [File Upload](#file-upload)
+  - [Loader](#loader)
+  - [Icon](#icon)
+  - [Video Player](#video-player)
+  - [Notification](#notification)
+  - [Alert](#alert)
+  - [Authentication](#authentication)
+  - [Animate](#animate)
+  - [UI Kits](#ui-kits)
+    - [Vue](#vue)
+    - [React](#react)
+  - [Modal](#modal)
+  - [Popper](#popper)
+  - [Drag](#drag)
+  - [Menus](#menus)
+  - [Editor](#editor)
+  - [Highlight](#highlight)
+  - [Clipboard](#clipboard)
+  - [Image](#image)
+  - [Respond page](#respond-page)
+  - [Touch](#touch)
+  - [WebGL](#webgl)
+  - [Scroll](#scroll)
+  - [Search](#search)
+  - [Tweening Engine](#tweening-engine)
+  - [QRCode](#qrcode)
+  - [Emoji](#emoji)
+  - [New Feature Introduction](#new-feature-introduction)
+  - [Typography Stylesheet](#typography-stylesheet)
+  - [Compatibility](#compatibility)
+  - [Print](#print)
+  - [Tools](#tools)
+  - [Mock](#mock)
+  - [Test](#test)
+  - [CDN](#cdn)
+  - [HTTP Client](#http-client)
+  - [Compile & Pack](#compile--pack)
+    - [Webpack](#webpack)
+  - [Static Sites](#static-sites)
+  - [Audio & Video](#audio--video)
+  - [Universal](#universal)
+  - [Web DB](#web-db)
+  - [Contribution](#contribution)
+  - [License](#license)
 
 
 
@@ -134,7 +144,7 @@ Table of Contents
 * [ :heartbeat::heartbeat:**anime.js** - JavaScript Animation Engine](https://github.com/juliangarnier/anime)
 
 
-## CSS Framework
+## UI Kits
 
 * [**Bootstrap** - May be the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web](http://getbootstrap.com/)
   * [**Flat-UI** - Based on Bootstrap, a comfortable, responsive, and functional framework that simplifies the development of websites](https://github.com/designmodo/Flat-UI)
@@ -147,6 +157,14 @@ Table of Contents
 * [**bulma** A **modern** CSS framework based on **Flexbox**](http://bulma.io/)
 * [**Primer CSS** - Primer is the CSS toolkit that powers GitHub's front-end design. It's purposefully limited to common components to provide our developers with the most flexibility, and to keep GitHub uniquely *GitHubby*. It's built with SCSS and available via NPM, so it's easy to include all or part of it within your own project](https://github.com/primer/primer-css)
 * [**Semantic-UI** - A UI component framework based around useful principles from natural language.](https://github.com/semantic-org/semantic-ui/)
+  
+### Vue
+* [vux: Mobile UI Components based on Vue & WeUI](https://github.com/airyland/vux)
+* [vuesax: New Framework Components for Vue.js 2](https://github.com/lusaxweb/vuesax)
+
+### React
+* [evergreen:  Evergreen React UI Framework by Segment](https://github.com/segmentio/evergreen)
+* [office-ui-fabric-react: React components for building experiences for Office and Office 365. ](https://github.com/OfficeDev/office-ui-fabric-react)
 
 
 ## Modal
@@ -165,6 +183,8 @@ Table of Contents
 ## Drag
 
 * [**Dragula** - Browser support includes every sane browser and **IE7+**. Framework support includes vanilla JavaScript, Angular, and React](https://github.com/bevacqua/dragula)
+* [Vue.Draggable: Vue component allowing drag-and-drop sorting in sync with View-Model. Based on Sortable.js](https://github.com/SortableJS/Vue.Draggable)
+* [Sortable — is a JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery required. Supports Meteor, AngularJS, React, Polymer, Vue, Knockout and any CSS library, e.g. Bootstrap.](https://github.com/SortableJS/Sortable)
 
 
 ## Menus
@@ -296,6 +316,35 @@ Table of Contents
 
 * [**axios** - Promise based HTTP client for the browser and node.js](https://github.com/mzabriskie/axios)
 
+
+## Compile & Pack
+
+* 👍 [Parcel: Blazing fast, zero configuration web application bundler](https://parceljs.org/)
+
+### Webpack
+* [Happypack: Happiness in the form of faster webpack build times.](https://github.com/amireh/happypack)
+* [webpack-bundle-analyzer: Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap](https://github.com/webpack-contrib/webpack-bundle-analyzer)
+
+
+## Static Sites
+
+* [Gatsby: Blazing fast modern site generator for React
+Go beyond static sites: build blogs, e-commerce sites, full-blown apps, and more with Gatsby.](https://github.com/gatsbyjs/gatsby)
+
+
+## Audio & Video
+
+* [SoundManager2:A JavaScript Sound API supporting MP3, MPEG4 and HTML5 audio + RTMP, providing reliable cross-browser/platform audio control in as little as 12 KB. BSD licensed.](https://github.com/scottschiller/soundmanager2/)
+
+
+## Universal
+
+* [Nuxt: Universal Vue.js Applications](https://nuxtjs.org/)
+
+
+## Web DB
+
+* [PouchDB is an open-source JavaScript database inspired by Apache CouchDB that is designed to run well within the browser.](https://pouchdb.com/)
 
 
 ## Contribution
