@@ -10,10 +10,12 @@ Table of Contents
 
 - [Awesome Web Components](#awesome-web-components)
 - [Table of Contents](#table-of-contents)
-  - [CodeStyleGuide](#codestyleguide)
+  - [Guidelines](#guidelines)
   - [Reactive Framework](#reactive-framework)
   - [Chart & Visual data analysis](#chart--visual-data-analysis)
-  - [File Upload](#file-upload)
+  - [File](#file)
+    - [Upload](#upload)
+    - [Save](#save)
   - [Loader](#loader)
   - [Icon](#icon)
   - [Video Player](#video-player)
@@ -24,6 +26,7 @@ Table of Contents
   - [UI Kits](#ui-kits)
     - [Vue](#vue)
     - [React](#react)
+    - [Wechat](#wechat)
   - [Modal](#modal)
   - [Popper](#popper)
   - [Drag](#drag)
@@ -45,6 +48,7 @@ Table of Contents
   - [Compatibility](#compatibility)
   - [Print](#print)
   - [Tools](#tools)
+    - [Docs](#docs)
   - [Mock](#mock)
   - [Test](#test)
   - [CDN](#cdn)
@@ -60,8 +64,8 @@ Table of Contents
 
 
 
-## CodeStyleGuide
-
+## Guidelines
+* [👍 A set of best practices for JavaScript projects](https://github.com/elsewhencode/project-guidelines)
 - [**mdo code guide - **Standards for developing flexible, durable, and sustainable HTML and CSS.](https://github.com/mdo/code-guide)
 
 
@@ -84,11 +88,14 @@ Table of Contents
 * [**deck.gl** - A WebGL-powered framework for visual exploratory data analysis of large datasets.](https://uber.github.io/deck.gl/#/)
 
 
-## File Upload
-
+## File
+### Upload
 * [**dropzonejs** - an open source library that provides drag’n’drop file uploads with image previews](http://www.dropzonejs.com/)
 * [**jQuery File Upload Plugin**](https://github.com/blueimp/jQuery-File-Upload)
 * [**Web Uploader** - 一个以HTML5为主 FLASH为辅, 各种老旧浏览器兼容性好(IE6+ Andorid 4+ IOS 6+) ](https://github.com/fex-team/webuploader)
+### Save
+* [👍👍 FileSaver.js: An HTML5 saveAs() FileSaver implementation](https://github.com/eligrey/FileSaver.js)
+
 
 
 ## Loader
@@ -159,13 +166,19 @@ Table of Contents
 * [**Semantic-UI** - A UI component framework based around useful principles from natural language.](https://github.com/semantic-org/semantic-ui/)
   
 ### Vue
+* [Muse-UI: Material Design UI library for Vuejs 2.0 ](https://muse-ui.org)
+* [buefy: Lightweight UI components for Vue.js based on **Bulma** ](https://github.com/buefy/buefy)
 * [vux: Mobile UI Components based on Vue & WeUI](https://github.com/airyland/vux)
 * [vuesax: New Framework Components for Vue.js 2](https://github.com/lusaxweb/vuesax)
+* [mint-ui: Mobile UI elements for Vue.js by Eleme](https://github.com/ElemeFE/mint-ui)
+* [AT-UI: A fresh and flat UI-Kit specially for desktop application, made with ♥ by Vue.js 2.0 ](https://github.com/at-ui/at-ui)
 
 ### React
 * [evergreen:  Evergreen React UI Framework by Segment](https://github.com/segmentio/evergreen)
 * [office-ui-fabric-react: React components for building experiences for Office and Office 365. ](https://github.com/OfficeDev/office-ui-fabric-react)
 
+### Wechat
+* [MinUI: MinUI 是基于微信小程序自定义组件特性开发而成的一套简洁、易用、高效的组件库，适用场景广，覆盖小程序原生框架，各种小程序组件主流框架等，并且提供了专门的命令行工具](https://github.com/meili/minui)
 
 ## Modal
 
@@ -236,6 +249,8 @@ Table of Contents
 ## Scroll
 
 - [**iScrolljs** - iScroll is a high performance, small footprint, dependency free, multi-platform javascript scroller](https://github.com/cubiq/iscroll/)
+- [👍👍 
+ScrollReveal is a JavaScript library for easily animating elements as they enter/leave the viewport. It was designed to be robust and flexible, but hopefully you’ll be surprised below at how easy it is to pick up.](https://github.com/scrollreveal/scrollreveal)
 
 
 ## Search
@@ -294,6 +309,9 @@ Table of Contents
 * [**BrowserStack** - Instant access to all real mobile and desktop browsers. Say goodbye to your lab of devices and virtual machines.](https://www.browserstack.com/)
 * [**LogRocket** - Records everything users do on your site, helping you reproduce bugs and fix issues faster.](https://logrocket.com/)
 
+### Docs
+* [ESDoc - Good Documentation for JavaScript](https://github.com/esdoc/esdoc)
+* [docsify: A magical documentation site generator.](https://docsify.js.org)
 
 ## Mock
 
@@ -320,6 +338,7 @@ Table of Contents
 ## Compile & Pack
 
 * 👍 [Parcel: Blazing fast, zero configuration web application bundler](https://parceljs.org/)
+* [Prepack: A tool for making JavaScript code run faster.](https://prepack.io/)
 
 ### Webpack
 * [Happypack: Happiness in the form of faster webpack build times.](https://github.com/amireh/happypack)
