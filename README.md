@@ -23,6 +23,7 @@ Table of Contents
   - [Alert](#alert)
   - [Authentication](#authentication)
   - [Animate](#animate)
+  - [Images](#images)
   - [UI Kits](#ui-kits)
     - [Vue](#vue)
     - [React](#react)
@@ -40,6 +41,7 @@ Table of Contents
   - [WebGL](#webgl)
   - [Scroll](#scroll)
   - [Search](#search)
+  - [Slider|Swiper](#sliderswiper)
   - [Tweening Engine](#tweening-engine)
   - [QRCode](#qrcode)
   - [Emoji](#emoji)
@@ -47,6 +49,7 @@ Table of Contents
   - [Typography Stylesheet](#typography-stylesheet)
   - [Compatibility](#compatibility)
   - [Print](#print)
+  - [PDF](#pdf)
   - [Tools](#tools)
     - [Docs](#docs)
   - [Mock](#mock)
@@ -76,10 +79,13 @@ Table of Contents
 
 ## Chart & Visual data analysis
 
+* [antv: AntV 是蚂蚁金服全新一代数据可视化解决方案，致力于提供一套简单
+方便、专业可靠、无限可能的数据可视化最佳实践。G2 G6 F2 L7...](https://antv.alipay.com/zh-cn/index.html)
 * [**Highcharts** - Interactive JavaScript charts for your web pages](http://www.highcharts.com/) 
 * [**echarts** -  An easy of adding intuitive, interactive, and highly customizable charts](https://github.com/ecomfe/echarts)
 * [**chartist-js** - Simple responsive charts](https://gionkunz.github.io/chartist-js/)
 * [**D3.js** - A JavaScript library for manipulating documents based on data using HTML, SVG and CSS](https://d3js.org/)
+  * [d3-flame-graph: A D3.js plugin that produces flame graphs from hierarchical data.](https://github.com/spiermar/d3-flame-graph)
   * **[NVD3 - Re-usable charts for d3.js](http://nvd3.org/)**
   * [**c3.js** - D3-based reusable chart library](http://c3js.org/)
   * [**plotly.js** -  A high-level, declarative charting library whitch is build on top of d3.js and stack.gl](https://plot.ly/javascript/)
@@ -149,6 +155,12 @@ Table of Contents
 * [**Hover.css** - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.](https://github.com/IanLunn/Hover/)
 * [**Odometer** - a Javascript and CSS library for smoothly transitioning numbers](https://github.com/HubSpot/odometer)
 * [ :heartbeat::heartbeat:**anime.js** - JavaScript Animation Engine](https://github.com/juliangarnier/anime)
+* [SpriteJS is a cross-platform lightweight 2D render object model. Draw graphics on a canvas through simple object-oriented dom-like API. Vue & React/Preact supported.](https://github.com/spritejs/spritejs)
+
+## Images
+
+* [watermarkjs: Watermarking for the browser](https://github.com/brianium/watermarkjs)
+
 
 
 ## UI Kits
@@ -198,6 +210,7 @@ Table of Contents
 * [**Dragula** - Browser support includes every sane browser and **IE7+**. Framework support includes vanilla JavaScript, Angular, and React](https://github.com/bevacqua/dragula)
 * [Vue.Draggable: Vue component allowing drag-and-drop sorting in sync with View-Model. Based on Sortable.js](https://github.com/SortableJS/Vue.Draggable)
 * [Sortable — is a JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery required. Supports Meteor, AngularJS, React, Polymer, Vue, Knockout and any CSS library, e.g. Bootstrap.](https://github.com/SortableJS/Sortable)
+* [✨🌟 react-beautiful-dnd: Beautiful and accessible drag and drop for lists with React](https://github.com/atlassian/react-beautiful-dnd)
 
 
 ## Menus
@@ -258,6 +271,10 @@ ScrollReveal is a JavaScript library for easily animating elements as they enter
 - [:thumbsup::thumbsup::thumbsup:**List.js** - Tiny, invisible and simple, yet powerful and incredibly fast vanilla JavaScript that adds *search*, *sort*, *filters* and *flexibility* to plain HTML *lists*, *tables*, or anything.](http://listjs.com/)
 
 
+## Slider|Swiper
+
+* [iSlider: Smooth mobile touch slider for Mobile WebApp, HTML5 App, Hybrid App](https://github.com/BE-FE/iSlider)
+
 
 ## Tweening Engine
 
@@ -295,6 +312,11 @@ ScrollReveal is a JavaScript library for easily animating elements as they enter
 ## Print
 
 * [**Gutenber** - Modern framework to print correctly](https://github.com/BafS/Gutenberg)
+
+
+## PDF
+
+* [React-PDF: Create PDF files using React ](https://github.com/diegomura/react-pdf)
 
 
 ## Tools
