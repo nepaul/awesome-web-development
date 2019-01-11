@@ -30,6 +30,7 @@ Table of Contents
   - [UI Kits](#ui-kits)
     - [Vue](#vue)
     - [React](#react)
+    - [Out-of-box UI solution](#out-of-box-ui-solution)
     - [Wechat](#wechat)
     - [Others](#others)
   - [Modal](#modal)
@@ -70,6 +71,8 @@ Table of Contents
   - [Polyfill](#polyfill)
   - [Gestures](#gestures)
   - [Screenshots](#screenshots)
+  - [AR](#ar)
+  - [Regex](#regex)
   - [Contribution](#contribution)
   - [License](#license)
 
@@ -214,6 +217,9 @@ Table of Contents
 * [evergreen:  Evergreen React UI Framework by Segment](https://github.com/segmentio/evergreen)
 * [office-ui-fabric-react: React components for building experiences for Office and Office 365. ](https://github.com/OfficeDev/office-ui-fabric-react)
 
+### Out-of-box UI solution 
+* [ANT DESIGN PRO: An out-of-box UI solution for enterprise applications as a React boilerplate.](https://pro.ant.design/)
+
 ### Wechat
 * [MinUI: MinUI 是基于微信小程序自定义组件特性开发而成的一套简洁、易用、高效的组件库，适用场景广，覆盖小程序原生框架，各种小程序组件主流框架等，并且提供了专门的命令行工具](https://github.com/meili/minui)
 
@@ -253,6 +259,8 @@ Table of Contents
 * [**pell** - pell is the simplest and smallest WYSIWYG text editor for web, with no dependencies](https://github.com/jaredreich/pell)
 * [tinymce: The world's most popular JavaScript library for **rich text editing**. Available for React, Vue and Angular ](https://github.com/tinymce/tinymce)
 * 👍✨🌟💗[Microsoft/monaco-editor: A browser based code editor which powers **VS Code**](https://github.com/Microsoft/monaco-editor)
+* [ckeditor: Smart **WYSIWYG** HTML editor](https://ckeditor.com/)
+* ✨✨✨✨✨❤️ [stackedit: In-browser **Markdown** editor](https://github.com/benweet/stackedit)
 
 
 ## Highlight
@@ -361,6 +369,7 @@ ScrollReveal is a JavaScript library for easily animating elements as they enter
 ### Docs
 * [ESDoc - Good Documentation for JavaScript](https://github.com/esdoc/esdoc)
 * [docsify: A magical documentation site generator.](https://docsify.js.org)
+* [Docute: Effortless documentation, done right. ](https://github.com/leptosia/docute)
 
 ## Mock
 
@@ -433,6 +442,15 @@ Go beyond static sites: build blogs, e-commerce sites, full-blown apps, and more
 
 ## Screenshots
 * 👍✨💗 [html2canvas: Screenshots with JavaScript](https://github.com/niklasvh/html2canvas/)
+
+
+## AR
+* [AR.js: 
+Efficient Augmented Reality for the Web - 60fps on mobile!](https://github.com/jeromeetienne/AR.js/)
+
+
+## Regex
+* [XRegExp provides augmented (and extensible) JavaScript regular expressions. You get modern syntax and flags beyond what browsers support natively. XRegExp is also a regex utility belt with tools to make your grepping and parsing easier, while freeing you from regex cross-browser inconsistencies and other annoyances.XRegExp supports all native ES6 regular expression syntax. It supports ES5+ browsers, and you can use it with Node.js or as a RequireJS module.](https://github.com/slevithan/xregexp)
 
 
 ## Contribution
