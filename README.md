@@ -73,6 +73,8 @@ Table of Contents
   - [Screenshots](#screenshots)
   - [AR](#ar)
   - [Regex](#regex)
+  - [figerprint](#figerprint)
+  - [Validation](#validation)
   - [Contribution](#contribution)
   - [License](#license)
 
@@ -103,6 +105,9 @@ Table of Contents
   * [**vega** - A *visualization grammar*, a declarative format for creating, saving, and sharing interactive visualization designs. Describe data visualizations in a JSON format, and generate interactive views using either HTML5 Canvas or SVG.](https://vega.github.io/vega/)
 * [**Leaflet** - An open-source JavaScript libraryfor mobile-friendly interactive maps](http://leafletjs.com/)
 * [**deck.gl** - A WebGL-powered framework for visual exploratory data analysis of large datasets.](https://uber.github.io/deck.gl/#/)
+* [goiojs: A Declarative **3D** Globe Data Visualization Library built with Three.js](https://giojs.org/)
+* [flowchartjs: Draws simple SVG flow chart diagrams from textual representation of the diagram ](https://github.com/adrai/flowchart.js)
+* 😋 [rough: Create graphics with a **hand-drawn**, sketchy, appearance ](https://github.com/pshihn/rough)
 
 
 ## File
@@ -222,6 +227,7 @@ Table of Contents
 
 ### Wechat
 * [MinUI: MinUI 是基于微信小程序自定义组件特性开发而成的一套简洁、易用、高效的组件库，适用场景广，覆盖小程序原生框架，各种小程序组件主流框架等，并且提供了专门的命令行工具](https://github.com/meili/minui)
+* [wxapp-market: 小程序营销组件 大转盘 刮刮乐 老虎机 水果机 九宫格翻纸牌 摇一摇 手势解锁](https://github.com/o2team/wxapp-market)
 
 ### Others
 * [SUI Mobile 是阿里巴巴国际UED前端团队出品的移动端 UI库](https://github.com/sdc-alibaba/SUI-Mobile)
@@ -252,6 +258,7 @@ Table of Contents
 
 - [**Snap.js** - A Library for creating beautiful mobile shelfs in Javascript (Facebook and Path style side menus)](https://github.com/jakiestfu/Snap.js/)
 
+
 ## Editor
 
 * [**Ace** - A standalone code editor written in JavaScript](https://github.com/ajaxorg/ace)
@@ -267,6 +274,7 @@ Table of Contents
 
 - [**Highlight.js** - Highlight.js is a syntax highlighter written in JavaScript. It works in the browser as well as on the server. It works with pretty much any markup, doesn’t depend on any framework and has automatic language detection.](https://github.com/isagalaev/highlight.js)
 - [**HR.js** - Tiny JavaScript plugin for highlighting and replacing text in the DOM](https://github.com/mburakerman/hrjs/)
+
 
 ## Clipboard
 
@@ -396,8 +404,11 @@ ScrollReveal is a JavaScript library for easily animating elements as they enter
 
 ## Compile & Pack
 
+* [FLOW IS A STATIC TYPE CHECKER FOR JAVASCRIPT.](https://flow.org/)
 * 👍 [Parcel: Blazing fast, zero configuration web application bundler](https://parceljs.org/)
+* [Prettier is an opinionated code formatter](https://github.com/prettier/prettier)
 * [Prepack: A tool for making JavaScript code run faster.](https://prepack.io/)
+
 
 ### Webpack
 * [Happypack: Happiness in the form of faster webpack build times.](https://github.com/amireh/happypack)
@@ -451,6 +462,14 @@ Efficient Augmented Reality for the Web - 60fps on mobile!](https://github.com/j
 
 ## Regex
 * [XRegExp provides augmented (and extensible) JavaScript regular expressions. You get modern syntax and flags beyond what browsers support natively. XRegExp is also a regex utility belt with tools to make your grepping and parsing easier, while freeing you from regex cross-browser inconsistencies and other annoyances.XRegExp supports all native ES6 regular expression syntax. It supports ES5+ browsers, and you can use it with Node.js or as a RequireJS module.](https://github.com/slevithan/xregexp)
+
+
+## figerprint
+* [Fingerprintjs2: odern & flexible browser fingerprinting library](http://valve.github.io/fingerprintjs2/)
+
+
+## Validation
+* [v8n: JavaScript fluent validation library ](https://github.com/imbrn/v8n)
 
 
 ## Contribution
