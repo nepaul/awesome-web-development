@@ -75,6 +75,10 @@ Table of Contents
   - [Regex](#regex)
   - [figerprint](#figerprint)
   - [Validation](#validation)
+  - [Boilerplate](#boilerplate)
+  - [Dropload](#dropload)
+  - [Game && Engine](#game--engine)
+  - [Functional](#functional)
   - [Contribution](#contribution)
   - [License](#license)
 
@@ -417,8 +421,8 @@ ScrollReveal is a JavaScript library for easily animating elements as they enter
 
 ## Static Sites
 
-* [Gatsby: Blazing fast modern site generator for React
-Go beyond static sites: build blogs, e-commerce sites, full-blown apps, and more with Gatsby.](https://github.com/gatsbyjs/gatsby)
+* [Gatsby: Blazing fast modern site generator for React Go beyond static sites: build blogs, e-commerce sites, full-blown apps, and more with Gatsby.](https://github.com/gatsbyjs/gatsby)
+* [react-static:  A progressive static site generator for React. ](https://github.com/nozzle/react-static)
 
 
 ## Audio & Video
@@ -470,6 +474,22 @@ Efficient Augmented Reality for the Web - 60fps on mobile!](https://github.com/j
 
 ## Validation
 * [v8n: JavaScript fluent validation library ](https://github.com/imbrn/v8n)
+
+
+## Boilerplate
+* [react-firebase-starter: Boilerplate (seed) project for creating web apps with **React.js, GraphQL.js and Relay** ](https://github.com/kriasoft/react-firebase-starter)
+
+
+## Dropload
+* [ximan/dropload: a javascript implementation of pull to refresh and up to loadmore ](https://github.com/ximan/dropload)
+
+
+## Game && Engine
+* 👍👍👍 [phaser: Phaser is a fun, free and fast **2D** game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.](https://phaser.io/)
+
+
+## Functional
+* [ramda: Practical functional Javascript ](https://github.com/ramda/ramda)
 
 
 ## Contribution
