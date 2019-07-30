@@ -22,7 +22,7 @@ Table of Contents
   - [Notification](#Notification)
   - [Alert](#Alert)
   - [Authentication](#Authentication)
-  - [Animate](#Animate)
+  - [Animations](#Animations)
   - [Images](#Images)
     - [Compression](#Compression)
     - [Lazyload](#Lazyload)
@@ -56,6 +56,7 @@ Table of Contents
   - [PDF](#PDF)
   - [Tools](#Tools)
     - [APIs & Mock](#APIs--Mock)
+    - [Deploy](#Deploy)
     - [Docs](#Docs)
   - [Mock](#Mock)
   - [Test](#Test)
@@ -73,7 +74,7 @@ Table of Contents
   - [Screenshots](#Screenshots)
   - [AR](#AR)
   - [Regex](#Regex)
-  - [figerprint](#figerprint)
+  - [Figerprint](#Figerprint)
   - [Validation](#Validation)
   - [Boilerplate](#Boilerplate)
   - [Dropload](#Dropload)
@@ -88,7 +89,7 @@ Table of Contents
 
 ## Guidelines
 * [👍 A set of best practices for JavaScript projects](https://github.com/elsewhencode/project-guidelines)
-- [**mdo code guide - **Standards for developing flexible, durable, and sustainable HTML and CSS.](https://github.com/mdo/code-guide)
+- [**mdo code guide** Standards for developing flexible, durable, and sustainable HTML and CSS.](https://github.com/mdo/code-guide)
 
 
 ## Reactive Framework
@@ -130,14 +131,14 @@ Table of Contents
 
 * [**css loader** - Simple loaders for your web applications using only one div and pure CSS](http://www.raphaelfabeni.com.br/css-loader/)
 * [**Single Element CSS Spinners** - Each spinner consists of a single `div` with a class of `loader` and content text of "Loading...". The text is for screen readers and can be used as a fallback state for older browsers](https://github.com/lukehaas/css-loaders)
-* [:+1::+1:**nprogress** - For slim progress bars like on YouTube, Medium, etc [http://ricostacruz.com/nprogress](http://ricostacruz.com/nprogress)](https://github.com/rstacruz/nprogress/)
+* [👍👍 **nprogress** - For slim progress bars like on YouTube, Medium ](https://github.com/rstacruz/nprogress/)
 
 
 ## Icon
 
 * [**Font Awesome** - The iconic font and CSS toolkit](http://fontawesome.io/)
 * [:thumbsup:**cssicon** - icon set made with pure css code, no dependencies, "grab and go" icons](http://cssicon.space/#/)
-* [**ionicons** - The premium icon font for [Ionic Framework](http://ionicframework.com/)](http://ionicons.com/)
+* [**ionicons** - The premium icon font for Ionic Framework](http://ionicons.com/)
 * [**featcher** -  a collection of **simply beautiful open source icons**. Each icon is designed on a 24x24 grid with an emphasis on simplicity, consistency and readability](https://github.com/colebemis/feather)
 * [**Titanic** - A collection of animated icons + javascript library.](https://github.com/icons8/titanic)
 
@@ -167,11 +168,12 @@ Table of Contents
 * [**satellizer** - A token-based AngularJS Authentication](https://github.com/sahat/satellizer)
 
 
-## Animate
+## Animations
 
+* [❗️ lottie for web: Render After Effects animations natively on Web, Android and iOS, and React Native](https://github.com/airbnb/lottie-web)
+* [❗️ **Velocity.js** - Velocity is an animation engine with the same API as jQuery's *$.animate()*. It works with and without jQuery. It's incredibly fast, and it features **color animation**, **transforms**, **loops**, **easings**, **SVG support**, and **scrolling**. It is the best of jQuery and CSS transitions combined](http://velocityjs.org/)
 * [**animate.css** - A cross-browser library of CSS animations. As easy to use as an easy thing](https://github.com/daneden/animate.css)
 * [:thumbsup::thumbsup::thumbsup:**AniJS** - A Library to Raise your Web Design without Coding](http://anijs.github.io/)
-* [**Velocity.js** - Velocity is an animation engine with the same API as jQuery's *$.animate()*. It works with and without jQuery. It's incredibly fast, and it features **color animation**, **transforms**, **loops**, **easings**, **SVG support**, and **scrolling**. It is the best of jQuery and CSS transitions combined](http://velocityjs.org/)
 * [:thumbsup:**snabbt.js** - Fast animations with Javascript and CSS transforms](https://github.com/daniel-lundin/snabbt.js)
 * [**css-loaders** - A collection of loading spinners animated with CSS](https://github.com/lukehaas/css-loaders)
 * [**Hover.css** - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.](https://github.com/IanLunn/Hover/)
@@ -180,9 +182,10 @@ Table of Contents
 * [SpriteJS is a cross-platform lightweight 2D render object model. Draw graphics on a canvas through simple object-oriented dom-like API. Vue & React/Preact supported.](https://github.com/spritejs/spritejs)
 
 ## Images
-
 * [watermarkjs: Watermarking for the browser](https://github.com/brianium/watermarkjs)
 * [**fancyBox** - A tool that offers a nice and elegant way to add zooming functionality for images, html content and multi-media on your webpages](http://fancyapps.com/fancybox/)
+* [mo · js is a javascript motion graphics library that is a fast, retina ready, modular and open source. In comparison to other libraries, it have a different syntax and code animation structure approach. The declarative API provides you a complete control over the animation, making it customizable with ease. The library provides built-in components to start animating from scratch like html, shape, swirl, burst and stagger, but also bring you tools to help craft your animation in a most natural way. Using mojs on your site will enhance the user experience, enrich your content visually and create delightful animations precisely.](https://github.com/mojs/mojs)
+* [**Anime.js** (/ˈæn.ə.meɪ/) is a lightweight JavaScript animation library with a simple, yet powerful API.It works with CSS properties, SVG, DOM attributes and JavaScript Objects.](https://animejs.com/)
 * [**BigScreen** - A simple library for using the JavaScript Fullscreen API](https://brad.is/coding/BigScreen/)
 * [:thumber **imagemagick** - Use ImageMagick to create, edit, compose, or convert bitmap images](https://www.imagemagick.org/script/index.php)
 * [:clap:**graphicsmagick** - is the swiss army knife of image processing. Comprised of 267K physical lines of source code in the base package (or 1,225K including 3rd party libraries) it provides a robust and efficient collection of tools and libraries which support reading, writing, and manipulating an image in over 88 major formats including important formats like DPX, GIF, JPEG, JPEG-2000, PNG, PDF, PNM, and TIFF.](http://www.graphicsmagick.org/)
@@ -382,6 +385,9 @@ ScrollReveal is a JavaScript library for easily animating elements as they enter
 
 * 👍👍 ✨ [API Blueprint is simple and accessible to everybody involved in the API lifecycle. Its syntax is concise yet expressive. With API Blueprint you can quickly design and prototype APIs to be created or document and test already deployed mission-critical APIs.](https://apiblueprint.org/)
 
+### Deploy
+* [Now — Global Serverless Deployments. Now makes serverless application deployment easy. Don’t spend time configuring the cloud. Just push your code.](https://zeit.co/now)
+
 
 ### Docs
 * [ESDoc - Good Documentation for JavaScript](https://github.com/esdoc/esdoc)
@@ -396,8 +402,8 @@ ScrollReveal is a JavaScript library for easily animating elements as they enter
 ## Test
 
 - [**Macaca** - Solution for Automation Test with Ease](https://macacajs.com/)
-- [**ava** - 🚀 Futuristic JavaScript test runner: Even though JavaScript is single-threaded, IO in Node.js can happen in parallel due to its async nature. AVA takes advantage of this and runs your tests concurrently, which is especially beneficial for IO heavy tests. In addition, test files are run in parallel as separate processes, giving you even better performance and an isolated environment for each test file. [Switching](https://github.com/sindresorhus/pageres/commit/663be15acb3dd2eb0f71b1956ef28c2cd3fdeed0) from Mocha to AVA in Pageres brought the test time down from 31 to 11 seconds. Having tests run concurrently forces you to write atomic tests, meaning tests don't depend on global state or the state of other tests, which is a great thing!](https://github.com/avajs/ava)
-- [:+1:**jest** - facebook Delightful JavaScript Testing](https://facebook.github.io/jest/)
+- [**ava** - 🚀 Futuristic JavaScript test runner: Even though JavaScript is single-threaded, IO in Node.js can happen in parallel due to its async nature. AVA takes advantage of this and runs your tests concurrently, which is especially beneficial for IO heavy tests. In addition, test files are run in parallel as separate processes, giving you even better performance and an isolated environment for each test file. from Mocha to AVA in Pageres brought the test time down from 31 to 11 seconds. Having tests run concurrently forces you to write atomic tests, meaning tests don't depend on global state or the state of other tests, which is a great thing!](https://github.com/avajs/ava)
+- [👍 **jest** - facebook Delightful JavaScript Testing](https://facebook.github.io/jest/)
 
 
 ## CDN
@@ -473,7 +479,7 @@ Efficient Augmented Reality for the Web - 60fps on mobile!](https://github.com/j
 * [XRegExp provides augmented (and extensible) JavaScript regular expressions. You get modern syntax and flags beyond what browsers support natively. XRegExp is also a regex utility belt with tools to make your grepping and parsing easier, while freeing you from regex cross-browser inconsistencies and other annoyances.XRegExp supports all native ES6 regular expression syntax. It supports ES5+ browsers, and you can use it with Node.js or as a RequireJS module.](https://github.com/slevithan/xregexp)
 
 
-## figerprint
+## Figerprint
 * [Fingerprintjs2: odern & flexible browser fingerprinting library](http://valve.github.io/fingerprintjs2/)
 
 
