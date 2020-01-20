@@ -93,39 +93,39 @@ Table of Contents
 
 
 ## Guidelines
-* [👍 A set of best practices for JavaScript projects](https://github.com/elsewhencode/project-guidelines)
-- [**mdo code guide** Standards for developing flexible, durable, and sustainable HTML and CSS.](https://github.com/mdo/code-guide)
+* [👍 A set of best practices for JavaScript projects](https://github.com/elsewhencode/project-guidelines) <img src="https://img.shields.io/github/stars/elsewhencode/project-guidelines?style=social" height="16">
+- [**mdo code guide** Standards for developing flexible, durable, and sustainable HTML and CSS.](https://github.com/mdo/code-guide) <img src="https://img.shields.io/github/stars/mdo/code-guide?style=social" height="16">
 
 
 ## CSS Utils
-* [Normalize.css - A modern, HTML5-ready alternative to CSS resets. Normalize.css makes browsers render all elements more consistently and in line with modern standards. It precisely targets only the styles that need normalizing.](http://necolas.github.io/normalize.css/)
-* [sanitize.css is a CSS library that provides consistent, cross-browser default styling of HTML elements alongside useful defaults. It is developed alongside normalize.css, which means every normalization is included, and every normalization and opinion are clearly marked and documented.](https://github.com/csstools/sanitize.css)
-* [CSSFX: Beautifully simple click-to-copy CSS effects](https://github.com/jolaleye/cssfx)
+* [Normalize.css - A modern, HTML5-ready alternative to CSS resets. Normalize.css makes browsers render all elements more consistently and in line with modern standards. It precisely targets only the styles that need normalizing.](http://necolas.github.io/normalize.css/) <img src="https://img.shields.io/github/stars/necolas/normalize.css?style=social" height="16">
+* [sanitize.css is a CSS library that provides consistent, cross-browser default styling of HTML elements alongside useful defaults. It is developed alongside normalize.css, which means every normalization is included, and every normalization and opinion are clearly marked and documented.](https://github.com/csstools/sanitize.css) <img src="https://img.shields.io/github/stars/csstools/sanitize.css?style=social" height="16">
+* [CSSFX: Beautifully simple click-to-copy CSS effects](https://github.com/jolaleye/cssfx) <img src="https://img.shields.io/github/stars/jolaleye/cssfx?style=social" height="16">
 
 
 ## Reactive Framework
 
 - [**ReactiveX** - An API for asynchronous programmingwith observable streams](http://reactivex.io/)
-- [**Cycle.js** - A functional and reactive JavaScript framework for predictable code](https://cycle.js.org/)
+- [**Cycle.js** - A functional and reactive JavaScript framework for predictable code](https://cycle.js.org/) <img src="https://img.shields.io/github/stars/cyclejs/cyclejs?style=social" height="16">
 
 ## Chart & Visual data analysis
 
 * [antv: AntV 是蚂蚁金服全新一代数据可视化解决方案，致力于提供一套简单
 方便、专业可靠、无限可能的数据可视化最佳实践。G2 G6 F2 L7...](https://antv.alipay.com/zh-cn/index.html)
-* [**Highcharts** - Interactive JavaScript charts for your web pages](http://www.highcharts.com/) 
-* [**echarts** -  An easy of adding intuitive, interactive, and highly customizable charts](https://github.com/ecomfe/echarts)
-* [**chartist-js** - Simple responsive charts](https://gionkunz.github.io/chartist-js/)
-* [**D3.js** - A JavaScript library for manipulating documents based on data using HTML, SVG and CSS](https://d3js.org/)
-  * [d3-flame-graph: A D3.js plugin that produces flame graphs from hierarchical data.](https://github.com/spiermar/d3-flame-graph)
-  * **[NVD3 - Re-usable charts for d3.js](http://nvd3.org/)**
-  * [**c3.js** - D3-based reusable chart library](http://c3js.org/)
-  * [**plotly.js** -  A high-level, declarative charting library whitch is build on top of d3.js and stack.gl](https://plot.ly/javascript/)
-  * [**vega** - A *visualization grammar*, a declarative format for creating, saving, and sharing interactive visualization designs. Describe data visualizations in a JSON format, and generate interactive views using either HTML5 Canvas or SVG.](https://vega.github.io/vega/)
-* [**Leaflet** - An open-source JavaScript libraryfor mobile-friendly interactive maps](http://leafletjs.com/)
-* [**deck.gl** - A WebGL-powered framework for visual exploratory data analysis of large datasets.](https://uber.github.io/deck.gl/#/)
-* [goiojs: A Declarative **3D** Globe Data Visualization Library built with Three.js](https://giojs.org/)
-* [flowchartjs: Draws simple SVG flow chart diagrams from textual representation of the diagram ](https://github.com/adrai/flowchart.js)
-* 😋 [rough: Create graphics with a **hand-drawn**, sketchy, appearance ](https://github.com/pshihn/rough)
+* [**Highcharts** - Interactive JavaScript charts for your web pages](http://www.highcharts.com/) <img src="https://img.shields.io/github/stars/highcharts/highcharts?style=social" height="16"> 
+* [**echarts** -  An easy of adding intuitive, interactive, and highly customizable charts](https://github.com/ecomfe/echarts) <img src="https://img.shields.io/github/stars/ecomfe/echarts?style=social" height="16">
+* [**chartist-js** - Simple responsive charts](https://gionkunz.github.io/chartist-js/) <img src="https://img.shields.io/github/stars/gionkunz/chartist-js?style=social" height="16">
+* [**D3.js** - A JavaScript library for manipulating documents based on data using HTML, SVG and CSS](https://d3js.org/) <img src="https://img.shields.io/github/stars/d3/d3?style=social" height="16">
+  * [d3-flame-graph: A D3.js plugin that produces flame graphs from hierarchical data.](https://github.com/spiermar/d3-flame-graph) <img src="https://img.shields.io/github/stars/spiermar/d3-flame-graph?style=social" height="16">
+  * **[NVD3 - Re-usable charts for d3.js](http://nvd3.org/)** <img src="https://img.shields.io/github/stars/novus/nvd3?style=social" height="16">
+  * [**c3.js** - D3-based reusable chart library](http://c3js.org/) <img src="https://img.shields.io/github/stars/c3js/c3?style=social" height="16">
+  * [**plotly.js** -  A high-level, declarative charting library whitch is build on top of d3.js and stack.gl](https://plot.ly/javascript/) 
+  * [**vega** - A *visualization grammar*, a declarative format for creating, saving, and sharing interactive visualization designs. Describe data visualizations in a JSON format, and generate interactive views using either HTML5 Canvas or SVG.](https://vega.github.io/vega/) <img src="https://img.shields.io/github/stars/vega/vega?style=social" height="16">
+* [**Leaflet** - An open-source JavaScript libraryfor mobile-friendly interactive maps](http://leafletjs.com/) <img src="https://img.shields.io/github/stars/Leaflet/Leaflet?style=social" height="16">
+* [**deck.gl** - A WebGL-powered framework for visual exploratory data analysis of large datasets.](https://uber.github.io/deck.gl/#/) <img src="https://img.shields.io/github/stars/uber/deck.gl?style=social" height="16">
+* [goiojs: A Declarative **3D** Globe Data Visualization Library built with Three.js](https://giojs.org/) <img src="https://img.shields.io/github/stars/syt123450/giojs?style=social" height="16">
+* [flowchartjs: Draws simple SVG flow chart diagrams from textual representation of the diagram ](https://github.com/adrai/flowchart.js) <img src="https://img.shields.io/github/stars/adrai/flowchart.js?style=social" height="16">
+* 😋 [rough: Create graphics with a **hand-drawn**, sketchy, appearance ](https://github.com/pshihn/rough) <img src="https://img.shields.io/github/stars/pshihn/rough?style=social" height="16">
 
 
 ## File
