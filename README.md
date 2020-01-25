@@ -12,6 +12,7 @@ Table of Contents
 - [Table of Contents](#table-of-contents)
   - [Guidelines](#guidelines)
   - [CSS Utils](#css-utils)
+  - [Machine Learning](#machine-learning)
   - [Reactive Framework](#reactive-framework)
   - [Chart & Visual data analysis](#chart--visual-data-analysis)
   - [File](#file)
@@ -46,7 +47,7 @@ Table of Contents
   - [Clipboard](#clipboard)
   - [Respond page](#respond-page)
   - [Touch](#touch)
-  - [WebGL](#webgl)
+  - [3D](#3d)
   - [Scroll](#scroll)
   - [Search](#search)
   - [Slider|Swiper](#sliderswiper)
@@ -103,6 +104,10 @@ Table of Contents
 * [CSSFX: Beautifully simple click-to-copy CSS effects](https://github.com/jolaleye/cssfx) <img src="https://img.shields.io/github/stars/jolaleye/cssfx?style=social" height="16">
 
 
+## Machine Learning
+* [Neuro.js is machine learning framework for building AI assistants and chat-bots.](https://github.com/intelligo-systems/neuro) ![](https://img.shields.io/github/stars/intelligo-systems/neuro?style=social)
+
+
 ## Reactive Framework
 
 - [**ReactiveX** - An API for asynchronous programmingwith observable streams](http://reactivex.io/)
@@ -143,6 +148,7 @@ Table of Contents
 * [**css loader** - Simple loaders for your web applications using only one div and pure CSS](http://www.raphaelfabeni.com.br/css-loader/)
 * [**Single Element CSS Spinners** - Each spinner consists of a single `div` with a class of `loader` and content text of "Loading...". The text is for screen readers and can be used as a fallback state for older browsers](https://github.com/lukehaas/css-loaders)
 * [👍👍 **nprogress** - For slim progress bars like on YouTube, Medium ](https://github.com/rstacruz/nprogress/)
+* [https://loading.io/](https://loading.io/)
 
 
 ## Icon
@@ -326,10 +332,11 @@ Table of Contents
 * [**AlloyFinger** - super tiny size multi-touch gestures library for the web](https://github.com/AlloyTeam/AlloyFinger)
 
 
-## WebGL
+## 3D
 
 * [stack.gl](http://stack.gl/)
 * [**three.js** - A JavaScript 3D Library which makes WebGL simpler.](https://threejs.org/)
+* [whs.js: Super-fast 3D framework for Web Applications 🥇 & Games 🎮. Based on Three.js ](https://github.com/WhitestormJS/whs.js) ![](https://img.shields.io/github/stars/WhitestormJS/whs.js?style=social)
 
 
 ## Scroll
@@ -416,8 +423,11 @@ ScrollReveal is a JavaScript library for easily animating elements as they enter
 * [ESDoc - Good Documentation for JavaScript](https://github.com/esdoc/esdoc)
 * [docsify: A magical documentation site generator.](https://docsify.js.org)
 * [Docute: Effortless documentation, done right. ](https://github.com/leptosia/docute)
+* [documentation.js The documentation system for modern JavaScript](https://github.com/documentationjs/documentation) ![](https://img.shields.io/github/stars/documentationjs/documentation?style=social)
+
 
 ### Images
+* 👍👍 [Make images smaller using best-in-class codecs, right in the browser. by GoogleChormeLabs](https://squoosh.app/)
 * [TinyPNG client for Mac](https://github.com/kyleduo/TinyPNG4Mac)
 
 
