@@ -11,6 +11,7 @@ Table of Contents
 - [Awesome Web Components](#awesome-web-components)
 - [Table of Contents](#table-of-contents)
   - [Guidelines](#guidelines)
+  - [Prototypes sites](#prototypes-sites)
   - [CSS Utils](#css-utils)
   - [Machine Learning](#machine-learning)
   - [Reactive Framework](#reactive-framework)
@@ -96,6 +97,9 @@ Table of Contents
 ## Guidelines
 * [👍 A set of best practices for JavaScript projects](https://github.com/elsewhencode/project-guidelines) <img src="https://img.shields.io/github/stars/elsewhencode/project-guidelines?style=social" height="16">
 - [**mdo code guide** Standards for developing flexible, durable, and sustainable HTML and CSS.](https://github.com/mdo/code-guide) <img src="https://img.shields.io/github/stars/mdo/code-guide?style=social" height="16">
+
+## Prototypes sites
+* [Foundation: The most advanced responsive front-end framework in the world. ](https://get.foundation/)
 
 
 ## CSS Utils
@@ -309,6 +313,7 @@ Table of Contents
 * ✨✨✨✨✨❤️ [stackedit: In-browser **Markdown** editor](https://github.com/benweet/stackedit)
 * [Quill: Your powerful rich text editor.](https://quilljs.com/)
   * [react-quill](https://www.npmjs.com/package/react-quill)
+* [Rete.js: JavaScript(TypeScript) framework for visual programming. Rete is a modular framework for visual programming. Rete allows you to create node-based editor directly in the browser. You can define nodes and workers that allow users to create instructions for processing data in your editor without a single line of code.](https://github.com/retejs/rete) ![](https://img.shields.io/github/stars/retejs/rete?style=social)
 
 
 ## Highlight
@@ -344,6 +349,7 @@ Table of Contents
 - [**iScrolljs** - iScroll is a high performance, small footprint, dependency free, multi-platform javascript scroller](https://github.com/cubiq/iscroll/)
 - [👍👍 
 ScrollReveal is a JavaScript library for easily animating elements as they enter/leave the viewport. It was designed to be robust and flexible, but hopefully you’ll be surprised below at how easy it is to pick up.](https://github.com/scrollreveal/scrollreveal)
+* [Parallax.js: Simple parallax scrolling effect inspired by Spotify.com implemented as a jQuery plugin](https://github.com/pixelcog/parallax.js) ![](https://img.shields.io/github/stars/pixelcog/parallax.js?style=social)
 
 
 ## Search
