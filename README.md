@@ -11,8 +11,12 @@ Table of Contents
 - [Awesome Web Components](#awesome-web-components)
 - [Table of Contents](#table-of-contents)
   - [Guidelines](#guidelines)
+  - [Some Read List](#some-read-list)
+    - [JavaScript](#javascript)
   - [Prototypes sites](#prototypes-sites)
-  - [CSS Utils](#css-utils)
+  - [Utils](#utils)
+    - [CSS Utils](#css-utils)
+    - [JavaScript Utils](#javascript-utils)
   - [Machine Learning](#machine-learning)
   - [Reactive Framework](#reactive-framework)
   - [Chart & Visual data analysis](#chart--visual-data-analysis)
@@ -97,16 +101,29 @@ Table of Contents
 ## Guidelines
 * [👍 A set of best practices for JavaScript projects](https://github.com/elsewhencode/project-guidelines) <img src="https://img.shields.io/github/stars/elsewhencode/project-guidelines?style=social" height="16">
 - [**mdo code guide** Standards for developing flexible, durable, and sustainable HTML and CSS.](https://github.com/mdo/code-guide) <img src="https://img.shields.io/github/stars/mdo/code-guide?style=social" height="16">
+- [Auto Lab @JingDong: Front-End Coding Guidelines, HTML, CSS, JavaScript, Images, Names](https://guide.aotu.io/index.html)
+
+## Some Read List
+### JavaScript
+* [The JavaScript Way: A modern introduction to an essential language.](https://github.com/thejsway/thejsway) ![](https://img.shields.io/github/stars/thejsway/thejsway?style=social)
+* [What the f*ck JavaScript? A list of funny and tricky JavaScript examples. JavaScript is a great language. It has a simple syntax, large ecosystem and, what is most important, a great community. At the same time, we all know that JavaScript is quite a funny language with tricky parts. Some of them can quickly turn our everyday job into hell, and some of them can make us laugh out loud.](https://github.com/denysdovhan/wtfjs) ![](https://img.shields.io/github/stars/denysdovhan/wtfjs?style=social)
+
 
 ## Prototypes sites
 * [Foundation: The most advanced responsive front-end framework in the world. ](https://get.foundation/)
 
 
-## CSS Utils
+## Utils
+### CSS Utils
 * [Normalize.css - A modern, HTML5-ready alternative to CSS resets. Normalize.css makes browsers render all elements more consistently and in line with modern standards. It precisely targets only the styles that need normalizing.](http://necolas.github.io/normalize.css/) <img src="https://img.shields.io/github/stars/necolas/normalize.css?style=social" height="16">
 * [sanitize.css is a CSS library that provides consistent, cross-browser default styling of HTML elements alongside useful defaults. It is developed alongside normalize.css, which means every normalization is included, and every normalization and opinion are clearly marked and documented.](https://github.com/csstools/sanitize.css) <img src="https://img.shields.io/github/stars/csstools/sanitize.css?style=social" height="16">
 * [CSSFX: Beautifully simple click-to-copy CSS effects](https://github.com/jolaleye/cssfx) <img src="https://img.shields.io/github/stars/jolaleye/cssfx?style=social" height="16">
-
+### JavaScript Utils
+* [createjs: A suite of modular libraries and tools which work together or independently to enable rich interactive content on open web technologies via HTML5.](https://createjs.com/)
+  * [SoundJS: A Javascript library for working with Audio. It provides a consistent API for loading and playing audio on different browsers and devices. Currently supports WebAudio, HTML5 Audio, Cordova / PhoneGap, and a Flash fallback. ](https://github.com/CreateJS/SoundJS) ![](https://img.shields.io/github/stars/CreateJS/SoundJS?style=social)
+  * [EaselJS: The Easel Javascript library provides a full, hierarchical display list, a core interaction model, and helper classes to make working with the HTML5 Canvas element much easier.](https://github.com/CreateJS/EaselJS) ![](https://img.shields.io/github/stars/CreateJS/EaselJS?style=social)
+  * [PreloadJS: PreloadJS makes preloading assets & getting aggregate progress events easier in JavaScript. It uses XHR2 when available, and falls back to tag-based loading when not. ](https://github.com/CreateJS/PreloadJS) ![](https://img.shields.io/github/stars/CreateJS/PreloadJS?style=social)
+  * [TweenJS: A simple but powerful tweening / animation library for Javascript. Part of the CreateJS suite of libraries. ](https://github.com/CreateJS/TweenJS) ![](https://img.shields.io/github/stars/CreateJS/TweenJS?style=social)
 
 ## Machine Learning
 * [Neuro.js is machine learning framework for building AI assistants and chat-bots.](https://github.com/intelligo-systems/neuro) ![](https://img.shields.io/github/stars/intelligo-systems/neuro?style=social)
