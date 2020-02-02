@@ -46,6 +46,7 @@ Table of Contents
   - [Modal](#modal)
   - [Popper](#popper)
   - [Drag](#drag)
+    - [Flip](#flip)
   - [Menus](#menus)
   - [Editor](#editor)
   - [Highlight](#highlight)
@@ -53,7 +54,7 @@ Table of Contents
   - [Respond page](#respond-page)
   - [Touch](#touch)
   - [3D](#3d)
-  - [Scroll](#scroll)
+  - [Scroll & Parallax](#scroll--parallax)
   - [Search](#search)
   - [Slider|Swiper](#sliderswiper)
   - [Tweening Engine](#tweening-engine)
@@ -69,6 +70,7 @@ Table of Contents
     - [Deploy](#deploy)
     - [Docs](#docs)
     - [Images](#images-1)
+    - [Icons](#icons)
   - [Mock](#mock)
   - [Test](#test)
   - [CDN](#cdn)
@@ -170,6 +172,7 @@ Table of Contents
 * [**Single Element CSS Spinners** - Each spinner consists of a single `div` with a class of `loader` and content text of "Loading...". The text is for screen readers and can be used as a fallback state for older browsers](https://github.com/lukehaas/css-loaders)
 * [👍👍 **nprogress** - For slim progress bars like on YouTube, Medium ](https://github.com/rstacruz/nprogress/)
 * [https://loading.io/](https://loading.io/)
+* [SpinKit: A collection of loading indicators animated with CSS](https://github.com/tobiasahlin/SpinKit) ![](https://img.shields.io/github/stars/tobiasahlin/SpinKit?style=social)
 
 
 ## Icon
@@ -219,6 +222,9 @@ Table of Contents
 * [ :heartbeat::heartbeat:**anime.js** - JavaScript Animation Engine](https://github.com/juliangarnier/anime)
 * [SpriteJS is a cross-platform lightweight 2D render object model. Draw graphics on a canvas through simple object-oriented dom-like API. Vue & React/Preact supported.](https://github.com/spritejs/spritejs)
 * [cssfx: A carefully crafted collection designed with a focus on fluidity, simplicity, and ease of use. Powered by **CSS with minimal markup**. Completely open source and MIT licensed.](https://cssfx.dev/)
+* [countUp.js: Animates a numerical value by counting to it](https://github.com/inorganik/CountUp.js) ![](https://img.shields.io/github/stars/inorganik/CountUp.js?style=social)
+* [dynamics.js: Dynamics.js is a JavaScript library to create physics-based animations](https://github.com/michaelvillar/dynamics.js) ![](https://img.shields.io/github/stars/michaelvillar/dynamics.js?style=social)
+* [React-Motion: A spring that solves your animation problems.](https://github.com/chenglou/react-motion) ![](https://img.shields.io/github/stars/chenglou/react-motion?style=social)
 
 ## Images
 * [watermarkjs: Watermarking for the browser](https://github.com/brianium/watermarkjs)
@@ -311,7 +317,8 @@ Table of Contents
 * [Sortable — is a JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery required. Supports Meteor, AngularJS, React, Polymer, Vue, Knockout and any CSS library, e.g. Bootstrap.](https://github.com/SortableJS/Sortable)
 * [✨🌟 react-beautiful-dnd: Beautiful and accessible drag and drop for lists with React](https://github.com/atlassian/react-beautiful-dnd)
 * [VvvebJs: Drag and drop website builder javascript library. http://www.vvveb.com/vvvebjs/editor.html](https://github.com/givanz/VvvebJs)
-
+### Flip
+* [react-flip-move: Effortless animation between DOM changes (eg. list reordering) using the FLIP technique. ](https://github.com/joshwcomeau/react-flip-move) ![](https://img.shields.io/github/stars/joshwcomeau/react-flip-move?style=social)
 
 ## Menus
 
@@ -361,12 +368,13 @@ Table of Contents
 * [whs.js: Super-fast 3D framework for Web Applications 🥇 & Games 🎮. Based on Three.js ](https://github.com/WhitestormJS/whs.js) ![](https://img.shields.io/github/stars/WhitestormJS/whs.js?style=social)
 
 
-## Scroll
+## Scroll & Parallax
 
 - [**iScrolljs** - iScroll is a high performance, small footprint, dependency free, multi-platform javascript scroller](https://github.com/cubiq/iscroll/)
 - [👍👍 
 ScrollReveal is a JavaScript library for easily animating elements as they enter/leave the viewport. It was designed to be robust and flexible, but hopefully you’ll be surprised below at how easy it is to pick up.](https://github.com/scrollreveal/scrollreveal)
 * [Parallax.js: Simple parallax scrolling effect inspired by Spotify.com implemented as a jQuery plugin](https://github.com/pixelcog/parallax.js) ![](https://img.shields.io/github/stars/pixelcog/parallax.js?style=social)
+* [rellax: Lightweight, vanilla javascript parallax library](https://github.com/dixonandmoe/rellax) ![](https://img.shields.io/github/stars/dixonandmoe/rellax?style=social)
 
 
 ## Search
@@ -441,18 +449,18 @@ ScrollReveal is a JavaScript library for easily animating elements as they enter
 ### Deploy
 * [Now — Global Serverless Deployments. Now makes serverless application deployment easy. Don’t spend time configuring the cloud. Just push your code.](https://zeit.co/now)
 
-
 ### Docs
 * [ESDoc - Good Documentation for JavaScript](https://github.com/esdoc/esdoc)
 * [docsify: A magical documentation site generator.](https://docsify.js.org)
 * [Docute: Effortless documentation, done right. ](https://github.com/leptosia/docute)
 * [documentation.js The documentation system for modern JavaScript](https://github.com/documentationjs/documentation) ![](https://img.shields.io/github/stars/documentationjs/documentation?style=social)
 
-
 ### Images
 * 👍👍 [Make images smaller using best-in-class codecs, right in the browser. by GoogleChormeLabs](https://squoosh.app/)
 * [TinyPNG client for Mac](https://github.com/kyleduo/TinyPNG4Mac)
 
+### Icons
+* [iconmonstr: Discover 4486+ free icons in 310 collections](https://iconmonstr.com/)
 
 ## Mock
 
