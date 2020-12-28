@@ -426,7 +426,7 @@ A collection of **awesome** web components.
 - [:pencil2:**jsfiddle** - online web developemnt editor](https://jsfiddle.net/)
 - [:pencil2:**codepen.io** - CodePen is a **social development environment**for front-end designers and developers. 👋](http://codepen.io)
 - [**nodemon** - Monitor for any changes in your node.js application and automatically restart the server - perfect for development](https://github.com/remy/nodemon)
-- [:+1:**json-server** Mock Get a full fake REST API with zero coding in less than 30 seconds (seriously)](https://github.com/remy/nodemon)
+- [:+1:**json-server** Mock Get a full fake REST API with zero coding in less than 30 seconds (seriously)](https://github.com/typicode/json-server)
 - [:+1::+1::+1:**Emmet** - the essential toolkit for web-developers](https://emmet.io/)
 - [**BrowserStack** - Instant access to all real mobile and desktop browsers. Say goodbye to your lab of devices and virtual machines.](https://www.browserstack.com/)
 - [**LogRocket** - Records everything users do on your site, helping you reproduce bugs and fix issues faster.](https://logrocket.com/)
