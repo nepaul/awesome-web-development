@@ -117,6 +117,7 @@ A collection of **awesome** web components.
 
 ### CSS Utils
 
+- [tailwindcss: Rapidly build modern websites without ever leaving your HTML. A utility-first CSS framework packed with classes like flex, pt-4, text-center and rotate-90 that can be composed to build any design, directly in your markup.](https://tailwindcss.com/) <img src="https://img.shields.io/github/stars/tailwindlabs/tailwindcss?style=social" height="16">
 - [Normalize.css - A modern, HTML5-ready alternative to CSS resets. Normalize.css makes browsers render all elements more consistently and in line with modern standards. It precisely targets only the styles that need normalizing.](http://necolas.github.io/normalize.css/) <img src="https://img.shields.io/github/stars/necolas/normalize.css?style=social" height="16">
 - [sanitize.css is a CSS library that provides consistent, cross-browser default styling of HTML elements alongside useful defaults. It is developed alongside normalize.css, which means every normalization is included, and every normalization and opinion are clearly marked and documented.](https://github.com/csstools/sanitize.css) <img src="https://img.shields.io/github/stars/csstools/sanitize.css?style=social" height="16">
 - [CSSFX: Beautifully simple click-to-copy CSS effects](https://github.com/jolaleye/cssfx) <img src="https://img.shields.io/github/stars/jolaleye/cssfx?style=social" height="16">
@@ -156,6 +157,8 @@ A collection of **awesome** web components.
 - [goiojs: A Declarative **3D** Globe Data Visualization Library built with Three.js](https://giojs.org/) <img src="https://img.shields.io/github/stars/syt123450/giojs?style=social" height="16">
 - [flowchartjs: Draws simple SVG flow chart diagrams from textual representation of the diagram](https://github.com/adrai/flowchart.js) <img src="https://img.shields.io/github/stars/adrai/flowchart.js?style=social" height="16">
 - 😋 [rough: Create graphics with a hand-drawn, sketchy, appearance](https://github.com/pshihn/rough) <img src="https://img.shields.io/github/stars/pshihn/rough?style=social" height="16">
+- [revogrid: Powerful data grid component built with StencilJS. Support Millions of cells and thousands columns easy and efficiently for fast data rendering. Easy to use.](https://github.com/revolist/revogrid) <img src="https://img.shields.io/github/stars/revolist/revogrid?style=social" height="16">
+- [mapbox-gl-js: Mapbox GL JS is a JavaScript library for interactive, customizable vector maps on the web. It takes map styles that conform to the Mapbox Style Specification, applies them to vector tiles that conform to the Mapbox Vector Tile Specification, and renders them using WebGL.Mapbox GL JS is part of the cross-platform Mapbox GL ecosystem, which also includes compatible native SDKs for applications on Android, iOS, macOS, Qt, and React Native. Mapbox provides building blocks to add location features like maps, search, and navigation into any experience you create. To get started with GL JS or any of our other building blocks, sign up for a Mapbox account.](https://github.com/mapbox/mapbox-gl-js) <img src="https://img.shields.io/github/stars/mapbox/mapbox-gl-js?style=social" height="16">
 
 ## File
 
@@ -279,6 +282,7 @@ A collection of **awesome** web components.
 - [mint-ui: Mobile UI elements for Vue.js by Eleme](https://github.com/ElemeFE/mint-ui)
 - [AT-UI: A fresh and flat UI-Kit specially for desktop application, made with ♥ by Vue.js 2.0](https://github.com/at-ui/at-ui)
 - [NutUI 2(JingDong): A light mobile Toolkit based on Vue](https://github.com/jdf2e/nutui)
+- [element-plus: Vue 3.0 Composition API; Written in TypeScript](https://github.com/element-plus/element-plus) <img src="https://img.shields.io/github/stars/element-plus/element-plus?style=social" height="16">
 
 ### React
 
