@@ -27,11 +27,13 @@ A collection of **awesome** web components.
   - [Authentication](#authentication)
   - [Animations](#animations)
   - [Images](#images)
+    - [Tools](#tools)
     - [Sprite](#sprite)
     - [Compression](#compression)
     - [Lazyload](#lazyload)
     - [Filters](#filters)
     - [Lightbox gallery](#lightbox-gallery)
+  - [Font](#font)
   - [UI Kits](#ui-kits)
     - [Vue](#vue)
     - [React](#react)
@@ -61,7 +63,9 @@ A collection of **awesome** web components.
   - [Compatibility](#compatibility)
   - [Print](#print)
   - [PDF](#pdf)
-  - [Tools](#tools)
+  - [Sheet](#sheet)
+  - [Tools](#tools-1)
+    - [Debug](#debug)
     - [APIs & Mock](#apis--mock)
     - [Deploy](#deploy)
     - [Docs](#docs)
@@ -99,8 +103,8 @@ A collection of **awesome** web components.
 
 - [👍 A set of best practices for JavaScript projects](https://github.com/elsewhencode/project-guidelines) <img src="https://img.shields.io/github/stars/elsewhencode/project-guidelines?style=social" height="16">
 
-* [**mdo code guide** Standards for developing flexible, durable, and sustainable HTML and CSS.](https://github.com/mdo/code-guide) <img src="https://img.shields.io/github/stars/mdo/code-guide?style=social" height="16">
-* [Auto Lab @JingDong: Front-End Coding Guidelines, HTML, CSS, JavaScript, Images, Names](https://guide.aotu.io/index.html)
+- [**mdo code guide** Standards for developing flexible, durable, and sustainable HTML and CSS.](https://github.com/mdo/code-guide) <img src="https://img.shields.io/github/stars/mdo/code-guide?style=social" height="16">
+- [Auto Lab @JingDong: Front-End Coding Guidelines, HTML, CSS, JavaScript, Images, Names](https://guide.aotu.io/index.html)
 
 ## Some Read List
 
@@ -237,6 +241,10 @@ A collection of **awesome** web components.
 - [:clap:**graphicsmagick** - is the swiss army knife of image processing. Comprised of 267K physical lines of source code in the base package (or 1,225K including 3rd party libraries) it provides a robust and efficient collection of tools and libraries which support reading, writing, and manipulating an image in over 88 major formats including important formats like DPX, GIF, JPEG, JPEG-2000, PNG, PDF, PNM, and TIFF.](http://www.graphicsmagick.org/)
 - [**PhotoSwipe** - JavaScript image gallery for mobile and desktop](https://github.com/dimsemenov/photoswipe)
 
+### Tools
+
+- [plaiceholder](https://github.com/joe-bell/plaiceholder): "Plaiceholder" is a collection of Node.js helpers for creating low quality image placeholders, with several approaches to choose from: 1. CSS (recommended); 2. SVG; 3. Base64; 4. Blurehash; 5. Blurehash to CSS(Experimental 🧪) ![](https://img.shields.io/github/stars/joe-bell/plaiceholder?style=social)
+
 ### Sprite
 
 - [sprintf-js is a complete open source JavaScript sprintf implementation for the browser and Node.js.](https://github.com/alexei/sprintf.js)
@@ -258,6 +266,12 @@ A collection of **awesome** web components.
 ### Lightbox gallery
 
 - [spotlight: Web's most easy to integrate lightbox gallery library. Super-lightweight, outstanding performance, no dependencies.](https://github.com/nextapps-de/spotlight)
+
+## Font
+
+- ![](https://img.shields.io/github/stars/wordshub/free-font?style=social)  [free-font](https://github.com/wordshub/free-font):  汉字字体制作是一个庞大的工程，不同于西文字库，汉字常用字库表就有 6763 个汉字，GBK标准中共有20902 个汉字，而新出版的 GB_18064，共有六万多个字符。而且汉字的字形相对较为复杂，一套中文字体的完成需要耗费大量专业人士的精力和时间，我们倡导大家使用正版字体，为中文字体的制作创造一个良性的环境。
+  
+  然而目前国内字体的授权体系还不是那么完善，不同的厂商对不同的使用场景都不同的授权，而授权协议里不那么好理解的专业术语往往也使用户望而却步。对于哪些刚起步的创业公司或者个人来讲动辄几千的授权费用也是一笔不小的开支，这里收录了一些在网上收集整理的可以免费商用的中文字体供大家使用。
 
 ## UI Kits
 
@@ -346,6 +360,7 @@ A collection of **awesome** web components.
 - [Quill: Your powerful rich text editor.](https://quilljs.com/)
   - [react-quill](https://www.npmjs.com/package/react-quill)
 - [Rete.js: JavaScript(TypeScript) framework for visual programming. Rete is a modular framework for visual programming. Rete allows you to create node-based editor directly in the browser. You can define nodes and workers that allow users to create instructions for processing data in your editor without a single line of code.](https://github.com/retejs/rete) ![](https://img.shields.io/github/stars/retejs/rete?style=social)
+- ![](https://img.shields.io/github/stars/Vanessa219/vditor?style=social) [Vditor: Vditor 是一款浏览器端的 Markdown 编辑器，支持所见即所得、即时渲染（类似 Typora）和分屏预览模式。它使用 TypeScript 实现，支持原生 JavaScript、Vue、React、Angular，提供桌面版。](https://github.com/Vanessa219/vditor)
 
 ## Highlight
 
@@ -368,7 +383,7 @@ A collection of **awesome** web components.
 
 - [stack.gl](http://stack.gl/)
 - [**three.js** - A JavaScript 3D Library which makes WebGL simpler.](https://threejs.org/)
-- [whs.js: Super-fast 3D framework for Web Applications 🥇 & Games 🎮. Based on Three.js](https://github.com/WhitestormJS/whs.js) ![](https://img.shields.io/github/stars/WhitestormJS/whs.js?style=social)
+- ![](https://img.shields.io/github/stars/WhitestormJS/whs.js?style=social) [whs.js: Super-fast 3D framework for Web Applications 🥇 & Games 🎮. Based on Three.js](https://github.com/WhitestormJS/whs.js)
 
 ## Scroll & Parallax
 
@@ -376,8 +391,8 @@ A collection of **awesome** web components.
 - [👍👍
   ScrollReveal is a JavaScript library for easily animating elements as they enter/leave the viewport. It was designed to be robust and flexible, but hopefully you’ll be surprised below at how easy it is to pick up.](https://github.com/scrollreveal/scrollreveal)
 
-* [Parallax.js: Simple parallax scrolling effect inspired by Spotify.com implemented as a jQuery plugin](https://github.com/pixelcog/parallax.js) ![](https://img.shields.io/github/stars/pixelcog/parallax.js?style=social)
-* [rellax: Lightweight, vanilla javascript parallax library](https://github.com/dixonandmoe/rellax) ![](https://img.shields.io/github/stars/dixonandmoe/rellax?style=social)
+- [Parallax.js: Simple parallax scrolling effect inspired by Spotify.com implemented as a jQuery plugin](https://github.com/pixelcog/parallax.js) ![](https://img.shields.io/github/stars/pixelcog/parallax.js?style=social)
+- [rellax: Lightweight, vanilla javascript parallax library](https://github.com/dixonandmoe/rellax) ![](https://img.shields.io/github/stars/dixonandmoe/rellax?style=social)
 
 ## Search
 
@@ -423,6 +438,10 @@ A collection of **awesome** web components.
 
 - [React-PDF: Create PDF files using React](https://github.com/diegomura/react-pdf)
 
+## Sheet
+
+- ![](https://img.shields.io/github/stars/mengshukeji/luckysheet?style=social) [LuckySheet: 🚀Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.](https://github.com/mengshukeji/luckysheet)
+
 ## Tools
 
 - [**fountainjs** - One Yeoman generator for all your frontend projects](http://fountainjs.io/)
@@ -435,9 +454,14 @@ A collection of **awesome** web components.
 - [**BrowserStack** - Instant access to all real mobile and desktop browsers. Say goodbye to your lab of devices and virtual machines.](https://www.browserstack.com/)
 - [**LogRocket** - Records everything users do on your site, helping you reproduce bugs and fix issues faster.](https://logrocket.com/)
 
+### Debug
+
+- <img src="https://img.shields.io/github/stars/Tencent/vConsole?style=social" height="16"> [vConsole: A lightweight, extendable front-end developer tool for mobile web page.](https://github.com/Tencent/vConsole)
+
 ### APIs & Mock
 
 - 👍👍 ✨ [API Blueprint is simple and accessible to everybody involved in the API lifecycle. Its syntax is concise yet expressive. With API Blueprint you can quickly design and prototype APIs to be created or document and test already deployed mission-critical APIs.](https://apiblueprint.org/)
+- <img src="https://img.shields.io/github/stars/slatedocs/slate?style=social" height="16"> [SLATE: Slate helps you create beautiful, intelligent, responsive API documentation.(语雀 部分功能基于此开发)](https://github.com/slatedocs/slate)
 
 ### Deploy
 
@@ -448,7 +472,7 @@ A collection of **awesome** web components.
 - [ESDoc - Good Documentation for JavaScript](https://github.com/esdoc/esdoc)
 - [docsify: A magical documentation site generator.](https://docsify.js.org)
 - [Docute: Effortless documentation, done right.](https://github.com/leptosia/docute)
-- [documentation.js The documentation system for modern JavaScript](https://github.com/documentationjs/documentation) ![](https://img.shields.io/github/stars/documentationjs/documentation?style=social)
+- ![](https://img.shields.io/github/stars/documentationjs/documentation?style=social) [documentation.js The documentation system for modern JavaScript](https://github.com/documentationjs/documentation)
 
 ### Images
 
@@ -458,11 +482,14 @@ A collection of **awesome** web components.
 ### Icons
 
 - [iconmonstr: Discover 4486+ free icons in 310 collections](https://iconmonstr.com/)
+- ![](https://img.shields.io/github/stars/bytedance/IconPark?style=social) [IconPark:IconPark gives access to more than 2000 high-quality icons, and introduces an interface for customizing your icons. Instead of using various SVG source files to achieve different themes, We implement a technology transforming attributes of a single SVG source file into multiple themes. Besides, we provide cross-platform components, including react-icons, vue-icons and svg-icons. So whether you are a designer or a developer, you can use them in your designs or your projects for free.](https://github.com/bytedance/IconPark)
+- ![](https://img.shields.io/github/stars/tabler/tabler-icons?style=social) [Tabler Icons: A set of over 1250 free MIT-licensed high-quality SVG icons for you to use in your web projects. Each icon is designed on a 24x24 grid and a 2px stroke.](https://github.com/tabler/tabler-icons)
 
 ## Mock
 
 - [**Easy-Mock** - 一个可视化，并且能快速生成 **模拟数据** 的持久化服务。](https://www.easy-mock.com)
 - [**Mock** - A simulation data generator](https://github.com/nuysoft/Mock)
+- ![](https://img.shields.io/github/stars/Marak/faker.js?style=social) [faker.js: generate massive amounts of fake data in the browser and node.js](https://github.com/Marak/faker.js)
 
 ## Test
 
