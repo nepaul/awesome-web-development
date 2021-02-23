@@ -13,9 +13,9 @@ A collection of **awesome** web components.
   - [Utils](#utils)
     - [CSS Utils](#css-utils)
     - [JavaScript Utils](#javascript-utils)
-  - [Machine Learning](#machine-learning)
+  - [Machine Learning & AI](#machine-learning--ai)
   - [Reactive Framework](#reactive-framework)
-  - [Chart & Visual data analysis](#chart--visual-data-analysis)
+  - [Chart & Data Visualization](#chart--data-visualization)
   - [File](#file)
     - [Upload](#upload)
     - [Save](#save)
@@ -96,6 +96,7 @@ A collection of **awesome** web components.
   - [Record and replay](#record-and-replay)
   - [Router](#router)
   - [Math](#math)
+  - [WebAssembly](#webassembly)
   - [Contribution](#contribution)
   - [License](#license)
 
@@ -134,16 +135,21 @@ A collection of **awesome** web components.
   - [PreloadJS: PreloadJS makes preloading assets & getting aggregate progress events easier in JavaScript. It uses XHR2 when available, and falls back to tag-based loading when not.](https://github.com/CreateJS/PreloadJS) ![](https://img.shields.io/github/stars/CreateJS/PreloadJS?style=social)
   - [TweenJS: A simple but powerful tweening / animation library for Javascript. Part of the CreateJS suite of libraries.](https://github.com/CreateJS/TweenJS) ![](https://img.shields.io/github/stars/CreateJS/TweenJS?style=social)
 
-## Machine Learning
+## Machine Learning & AI
 
 - [Neuro.js is machine learning framework for building AI assistants and chat-bots.](https://github.com/intelligo-systems/neuro) ![](https://img.shields.io/github/stars/intelligo-systems/neuro?style=social)
+- <img src="https://img.shields.io/github/stars/cube-js/cube.js?style=social" height="16"> [cube.js: Cube.js is an open-source analytical API platform. It is primarily used to build internal business intelligence tools or add customer-facing analytics to existing applications.](https://github.com/cube-js/cube.js)
+
+  Cube.js was designed to work with Serverless Query Engines like AWS Athena and Google BigQuery. Multi-stage querying approach makes it suitable for handling trillions of data points. Most modern RDBMS work with Cube.js as well and can be tuned for adequate performance.
+
+  Unlike others, it is not a monolith application, but a set of modules, which does one thing well. Cube.js provides modules to run transformations and modeling in data warehouse, querying and caching, managing API gateway and building UI on top of that.
 
 ## Reactive Framework
 
 - [**ReactiveX** - An API for asynchronous programmingwith observable streams](http://reactivex.io/)
-- [**Cycle.js** - A functional and reactive JavaScript framework for predictable code](https://cycle.js.org/) <img src="https://img.shields.io/github/stars/cyclejs/cyclejs?style=social" height="16">
+- <img src="https://img.shields.io/github/stars/cyclejs/cyclejs?style=social" height="16"> [**Cycle.js** - A functional and reactive JavaScript framework for predictable code](https://cycle.js.org/)
 
-## Chart & Visual data analysis
+## Chart & Data Visualization
 
 - [antv: AntV 是蚂蚁金服全新一代数据可视化解决方案，致力于提供一套简单
   方便、专业可靠、无限可能的数据可视化最佳实践。G2 G6 F2 L7...](https://antv.alipay.com/zh-cn/index.html)
@@ -162,7 +168,8 @@ A collection of **awesome** web components.
 - [flowchartjs: Draws simple SVG flow chart diagrams from textual representation of the diagram](https://github.com/adrai/flowchart.js) <img src="https://img.shields.io/github/stars/adrai/flowchart.js?style=social" height="16">
 - 😋 [rough: Create graphics with a hand-drawn, sketchy, appearance](https://github.com/pshihn/rough) <img src="https://img.shields.io/github/stars/pshihn/rough?style=social" height="16">
 - [revogrid: Powerful data grid component built with StencilJS. Support Millions of cells and thousands columns easy and efficiently for fast data rendering. Easy to use.](https://github.com/revolist/revogrid) <img src="https://img.shields.io/github/stars/revolist/revogrid?style=social" height="16">
-- [mapbox-gl-js: Mapbox GL JS is a JavaScript library for interactive, customizable vector maps on the web. It takes map styles that conform to the Mapbox Style Specification, applies them to vector tiles that conform to the Mapbox Vector Tile Specification, and renders them using WebGL.Mapbox GL JS is part of the cross-platform Mapbox GL ecosystem, which also includes compatible native SDKs for applications on Android, iOS, macOS, Qt, and React Native. Mapbox provides building blocks to add location features like maps, search, and navigation into any experience you create. To get started with GL JS or any of our other building blocks, sign up for a Mapbox account.](https://github.com/mapbox/mapbox-gl-js) <img src="https://img.shields.io/github/stars/mapbox/mapbox-gl-js?style=social" height="16">
+- <img src="https://img.shields.io/github/stars/mapbox/mapbox-gl-js?style=social" height="16"> [mapbox-gl-js: Mapbox GL JS is a JavaScript library for interactive, customizable vector maps on the web. It takes map styles that conform to the Mapbox Style Specification, applies them to vector tiles that conform to the Mapbox Vector Tile Specification, and renders them using WebGL.Mapbox GL JS is part of the cross-platform Mapbox GL ecosystem, which also includes compatible native SDKs for applications on Android, iOS, macOS, Qt, and React Native. Mapbox provides building blocks to add location features like maps, search, and navigation into any experience you create. To get started with GL JS or any of our other building blocks, sign up for a Mapbox account.](https://github.com/mapbox/mapbox-gl-js)
+- <img src="https://img.shields.io/github/stars/riccardoscalco/textures?style=social" height="16"> [textures.js: Textures.js is a JavaScript library for creating SVG patterns. Made on top of d3.js, it is designed for data visualization.](https://github.com/riccardoscalco/textures)
 
 ## File
 
@@ -223,12 +230,13 @@ A collection of **awesome** web components.
 - [**css-loaders** - A collection of loading spinners animated with CSS](https://github.com/lukehaas/css-loaders)
 - [**Hover.css** - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.](https://github.com/IanLunn/Hover/)
 - [**Odometer** - a Javascript and CSS library for smoothly transitioning numbers](https://github.com/HubSpot/odometer)
-- [:heartbeat::heartbeat:anime.js - JavaScript Animation Engine](https://github.com/juliangarnier/anime)
+- [💗 💗 anime.js - JavaScript Animation Engine](https://github.com/juliangarnier/anime)
 - [SpriteJS is a cross-platform lightweight 2D render object model. Draw graphics on a canvas through simple object-oriented dom-like API. Vue & React/Preact supported.](https://github.com/spritejs/spritejs)
 - [cssfx: A carefully crafted collection designed with a focus on fluidity, simplicity, and ease of use. Powered by **CSS with minimal markup**. Completely open source and MIT licensed.](https://cssfx.dev/)
 - [countUp.js: Animates a numerical value by counting to it](https://github.com/inorganik/CountUp.js) ![](https://img.shields.io/github/stars/inorganik/CountUp.js?style=social)
 - [dynamics.js: Dynamics.js is a JavaScript library to create physics-based animations](https://github.com/michaelvillar/dynamics.js) ![](https://img.shields.io/github/stars/michaelvillar/dynamics.js?style=social)
 - [React-Motion: A spring that solves your animation problems.](https://github.com/chenglou/react-motion) ![](https://img.shields.io/github/stars/chenglou/react-motion?style=social)
+- ![](https://img.shields.io/github/stars/tholman/elevator.js?style=social)[elevator.js: Finally, a **"back to top"** button that behaves like a real elevator, by adding elevator music to quietly soothe the awkwardness that can ensue when being smoothly scrolled to the top of the screen.](https://github.com/tholman/elevator.js)
 
 ## Images
 
@@ -238,7 +246,7 @@ A collection of **awesome** web components.
 - [**Anime.js** (/ˈæn.ə.meɪ/) is a lightweight JavaScript animation library with a simple, yet powerful API.It works with CSS properties, SVG, DOM attributes and JavaScript Objects.](https://animejs.com/)
 - [**BigScreen** - A simple library for using the JavaScript Fullscreen API](https://brad.is/coding/BigScreen/)
 - [:thumber **imagemagick** - Use ImageMagick to create, edit, compose, or convert bitmap images](https://www.imagemagick.org/script/index.php)
-- [:clap:**graphicsmagick** - is the swiss army knife of image processing. Comprised of 267K physical lines of source code in the base package (or 1,225K including 3rd party libraries) it provides a robust and efficient collection of tools and libraries which support reading, writing, and manipulating an image in over 88 major formats including important formats like DPX, GIF, JPEG, JPEG-2000, PNG, PDF, PNM, and TIFF.](http://www.graphicsmagick.org/)
+- [👏 **graphicsmagick** - is the swiss army knife of image processing. Comprised of 267K physical lines of source code in the base package (or 1,225K including 3rd party libraries) it provides a robust and efficient collection of tools and libraries which support reading, writing, and manipulating an image in over 88 major formats including important formats like DPX, GIF, JPEG, JPEG-2000, PNG, PDF, PNM, and TIFF.](http://www.graphicsmagick.org/)
 - [**PhotoSwipe** - JavaScript image gallery for mobile and desktop](https://github.com/dimsemenov/photoswipe)
 
 ### Tools
@@ -533,6 +541,10 @@ A collection of **awesome** web components.
 
 ## Store
 
+- <img src="https://img.shields.io/github/stars/localForage/localForage?style=social" height="16"> [localForage](https://github.com/localForage/localForage): localForage is a fast and simple storage library for JavaScript. localForage improves the offline experience of your web app by using asynchronous storage (IndexedDB or WebSQL) with a simple, localStorage-like API.
+
+  localForage uses localStorage in browsers with no IndexedDB or WebSQL support. See the wiki for detailed compatibility info.
+
 - 👍👍👍 [Store.js: Cross-browser storage for all use cases, used across the web.](https://github.com/marcuswestin/store.js)
 
 ### Web DB
@@ -596,6 +608,15 @@ A collection of **awesome** web components.
 ## Math
 
 - ![](https://img.shields.io/github/stars/josdejong/mathjs?style=social) [mathjs](https://mathjs.org/): An extensive math library for JavaScript and Node.js
+
+## WebAssembly
+
+- <img src="https://img.shields.io/github/stars/emscripten-core/emscripten?style=social" height="16">  [emscripten: Emscripten compiles C and C++ to WebAssembly using LLVM and Binaryen. Emscripten output can run on the Web, in Node.js, and in wasm runtimes.](https://github.com/emscripten-core/emscripten)
+  
+  Emscripten provides Web support for popular portable APIs such as OpenGL and SDL2, allowing complex graphical native applications to be ported, such as the Unity game engine and Google Earth. It can probably port your codebase, too!
+
+  While Emscripten mostly focuses on compiling C and C++ using Clang, it can be integrated with other LLVM-using compilers (for example, Rust has Emscripten integration, with the wasm32-unknown-emscripten and asmjs-unknown-emscripten targets).
+- <img src="https://img.shields.io/github/stars/wasmerio/wasmer?style=social" height="16"> [Wasmer: Wasmer enables super lightweight containers based on WebAssembly that can run anywhere: from Desktop to the Cloud and IoT devices, and also embedded in any programming language.](https://github.com/wasmerio/wasmer)
 
 ## Contribution
 
