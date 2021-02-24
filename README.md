@@ -71,6 +71,7 @@ A collection of **awesome** web components.
     - [Docs](#docs)
     - [Images](#images-1)
     - [Icons](#icons)
+    - [Project Manage](#project-manage)
   - [Mock](#mock)
   - [Test](#test)
   - [CDN](#cdn)
@@ -493,6 +494,18 @@ A collection of **awesome** web components.
 - ![](https://img.shields.io/github/stars/bytedance/IconPark?style=social) [IconPark:IconPark gives access to more than 2000 high-quality icons, and introduces an interface for customizing your icons. Instead of using various SVG source files to achieve different themes, We implement a technology transforming attributes of a single SVG source file into multiple themes. Besides, we provide cross-platform components, including react-icons, vue-icons and svg-icons. So whether you are a designer or a developer, you can use them in your designs or your projects for free.](https://github.com/bytedance/IconPark)
 - ![](https://img.shields.io/github/stars/tabler/tabler-icons?style=social) [Tabler Icons: A set of over 1250 free MIT-licensed high-quality SVG icons for you to use in your web projects. Each icon is designed on a 24x24 grid and a 2px stroke.](https://github.com/tabler/tabler-icons)
 
+### Project Manage
+
+- <img src="https://img.shields.io/github/stars/lerna/lerna?style=social" height="16"> [Lerna: A tool for managing JavaScript projects with multiple packages.](https://github.com/lerna/lerna)
+
+  Splitting up large codebases into separate independently versioned packages is extremely useful for code sharing. However, making changes across many repositories is messy and difficult to track, and testing across repositories becomes complicated very quickly.
+  
+  To solve these (and many other) problems, some projects will organize their codebases into multi-package repositories (sometimes called monorepos). Projects like Babel, React, Angular, Ember, Meteor, Jest, and many others develop all of their packages within a single repository.
+
+  Lerna is a tool that optimizes the workflow around managing multi-package repositories with git and npm.
+
+  Lerna can also reduce the time and space requirements for numerous copies of packages in development and build environments - normally a downside of dividing a project into many separate NPM packages. See the hoist documentation for details.
+
 ## Mock
 
 - [**Easy-Mock** - 一个可视化，并且能快速生成 **模拟数据** 的持久化服务。](https://www.easy-mock.com)
@@ -504,6 +517,9 @@ A collection of **awesome** web components.
 - [**Macaca** - Solution for Automation Test with Ease](https://macacajs.com/)
 - [**ava** - 🚀 Futuristic JavaScript test runner: Even though JavaScript is single-threaded, IO in Node.js can happen in parallel due to its async nature. AVA takes advantage of this and runs your tests concurrently, which is especially beneficial for IO heavy tests. In addition, test files are run in parallel as separate processes, giving you even better performance and an isolated environment for each test file. from Mocha to AVA in Pageres brought the test time down from 31 to 11 seconds. Having tests run concurrently forces you to write atomic tests, meaning tests don't depend on global state or the state of other tests, which is a great thing!](https://github.com/avajs/ava)
 - [👍 **jest** - facebook Delightful JavaScript Testing](https://facebook.github.io/jest/)
+- <img src="https://img.shields.io/github/stars/cucumber/cucumber-js?style=social" height="16"> [Cucumber.js(BBD): Cucumber is a tool for running automated tests written in plain language. Because they're written in plain language, they can be read by anyone on your team. Because they can be read by anyone, you can use them to help improve communication, collaboration and trust on your team.](https://github.com/cucumber/cucumber-js)
+
+  Cucumber.js is the JavaScript implementation of Cucumber and runs on the maintained Node.js versions.
 
 ## CDN
 
@@ -520,6 +536,9 @@ A collection of **awesome** web components.
 - 👍 [Parcel: Blazing fast, zero configuration web application bundler](https://parceljs.org/)
 - [Prettier is an opinionated code formatter](https://github.com/prettier/prettier)
 - [Prepack: A tool for making JavaScript code run faster.](https://prepack.io/)
+- <img src="https://img.shields.io/github/stars/evanw/esbuild?style=social" height="16"> [esbuild: An extremely fast JavaScript bundle](https://github.com/evanw/esbuild)
+
+  <img src="https://github.com/evanw/esbuild/blob/master/images/benchmark.svg">
 
 ### Webpack
 
