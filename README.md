@@ -505,6 +505,15 @@ A collection of **awesome** web components.
   Lerna is a tool that optimizes the workflow around managing multi-package repositories with git and npm.
 
   Lerna can also reduce the time and space requirements for numerous copies of packages in development and build environments - normally a downside of dividing a project into many separate NPM packages. See the hoist documentation for details.
+- <img src="https://img.shields.io/github/stars/pnpm/pnpm?style=social" height="16"> [pnpm: Fast, disk space efficient package manager](https://github.com/pnpm/pnpm)
+
+  - Fast. Up to 2x faster than the alternatives (see benchmark).
+  - Efficient. Files inside node_modules are linked from a single content-addressable storage.
+  - Great for monorepos.
+  - Strict. A package can access only dependencies that are specified in its package.json.
+  - Deterministic. Has a lockfile called pnpm-lock.yaml.
+  - Works everywhere. Supports Windows, Linux, and macOS.
+  - Battle-tested. Used in production by teams of all sizes since 2016.
 
 ## Mock
 
