@@ -78,6 +78,7 @@ A collection of **awesome** web components.
   - [HTTP Client/Request](#http-clientrequest)
   - [Compile & Pack](#compile--pack)
     - [Webpack](#webpack)
+    - [Desktop Apps](#desktop-apps)
   - [Static Sites](#static-sites)
   - [Audio & Video](#audio--video)
   - [Universal](#universal)
@@ -553,6 +554,12 @@ A collection of **awesome** web components.
 
 - [Happypack: Happiness in the form of faster webpack build times.](https://github.com/amireh/happypack)
 - [webpack-bundle-analyzer: Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap](https://github.com/webpack-contrib/webpack-bundle-analyzer)
+
+### Desktop Apps
+
+- ![](https://img.shields.io/github/stars/tauri-apps/tauri?style=social) [tauri](https://github.com/tauri-apps/tauri): Tauri is a framework for building tiny, blazing fast binaries for all major desktop platforms. Developers can integrate any front-end framework that compiles to HTML, JS and CSS for building their user interface. The backend of the application is a rust-sourced binary with an API that the front-end can interact with.
+
+  The user interface in Tauri apps currently leverages Cocoa/WebKit on macOS, gtk-webkit2 on Linux and MSHTML (IE10/11) or Webkit via Edge on Windows. Tauri uses (and contributes to) the MIT licensed project that you can find at webview and the related webview organization.
 
 ## Static Sites
 
