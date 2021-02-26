@@ -99,6 +99,7 @@ A collection of **awesome** web components.
   - [Router](#router)
   - [Math](#math)
   - [WebAssembly](#webassembly)
+  - [Admin](#admin)
   - [Contribution](#contribution)
   - [License](#license)
 
@@ -655,6 +656,10 @@ A collection of **awesome** web components.
 
   While Emscripten mostly focuses on compiling C and C++ using Clang, it can be integrated with other LLVM-using compilers (for example, Rust has Emscripten integration, with the wasm32-unknown-emscripten and asmjs-unknown-emscripten targets).
 - <img src="https://img.shields.io/github/stars/wasmerio/wasmer?style=social" height="16"> [Wasmer: Wasmer enables super lightweight containers based on WebAssembly that can run anywhere: from Desktop to the Cloud and IoT devices, and also embedded in any programming language.](https://github.com/wasmerio/wasmer)
+
+## Admin
+
+- ![](https://img.shields.io/github/stars/PanJiaChen/vue-element-admin?style=social) [vue element admin: vue-element-admin is a production-ready front-end solution for admin interfaces. It is based on vue and uses the UI Toolkit element-ui.](https://github.com/PanJiaChen/vue-element-admin)
 
 ## Contribution
 
