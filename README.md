@@ -55,6 +55,7 @@ A collection of **awesome** web components.
   - [Scroll & Parallax](#scroll--parallax)
   - [Search](#search)
   - [Slider|Swiper](#sliderswiper)
+  - [Conversational](#conversational)
   - [Tweening Engine](#tweening-engine)
   - [QRCode](#qrcode)
   - [Emoji](#emoji)
@@ -405,7 +406,7 @@ A collection of **awesome** web components.
 - [👍👍
   ScrollReveal is a JavaScript library for easily animating elements as they enter/leave the viewport. It was designed to be robust and flexible, but hopefully you’ll be surprised below at how easy it is to pick up.](https://github.com/scrollreveal/scrollreveal)
 
-- [Parallax.js: Simple parallax scrolling effect inspired by Spotify.com implemented as a jQuery plugin](https://github.com/pixelcog/parallax.js) ![](https://img.shields.io/github/stars/pixelcog/parallax.js?style=social)
+- ![](https://img.shields.io/github/stars/pixelcog/parallax.js?style=social) [Parallax.js: Simple parallax scrolling effect inspired by Spotify.com implemented as a jQuery plugin](https://github.com/pixelcog/parallax.js)
 - [rellax: Lightweight, vanilla javascript parallax library](https://github.com/dixonandmoe/rellax) ![](https://img.shields.io/github/stars/dixonandmoe/rellax?style=social)
 
 ## Search
@@ -415,6 +416,10 @@ A collection of **awesome** web components.
 ## Slider|Swiper
 
 - [iSlider: Smooth mobile touch slider for Mobile WebApp, HTML5 App, Hybrid App](https://github.com/BE-FE/iSlider)
+
+## Conversational
+
+- ![](https://img.shields.io/github/stars/alibaba/ChatUI?style=social) [ChatUI: The UI design language and React library for Conversational UI](https://github.com/alibaba/ChatUI)
 
 ## Tweening Engine
 
