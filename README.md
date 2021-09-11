@@ -129,6 +129,7 @@ A collection of **awesome** web components.
 ### CSS Utils
 
 - [tailwindcss: Rapidly build modern websites without ever leaving your HTML. A utility-first CSS framework packed with classes like flex, pt-4, text-center and rotate-90 that can be composed to build any design, directly in your markup.](https://tailwindcss.com/) <img src="https://img.shields.io/github/stars/tailwindlabs/tailwindcss?style=social" height="16">
+  - ![](https://img.shields.io/github/stars/windicss/windicss?style=social) [Windi CSS: Next generation utility-first CSS framework. If you are already familiar with Tailwind CSS, think about Windi CSS as an on-demanded alternative to Tailwind, which provides faster load times, fully compatible with Tailwind v2.0 and with a bunch of additional cool features.](https://github.com/windicss/windicss)
 - [Normalize.css - A modern, HTML5-ready alternative to CSS resets. Normalize.css makes browsers render all elements more consistently and in line with modern standards. It precisely targets only the styles that need normalizing.](http://necolas.github.io/normalize.css/) <img src="https://img.shields.io/github/stars/necolas/normalize.css?style=social" height="16">
 - [sanitize.css is a CSS library that provides consistent, cross-browser default styling of HTML elements alongside useful defaults. It is developed alongside normalize.css, which means every normalization is included, and every normalization and opinion are clearly marked and documented.](https://github.com/csstools/sanitize.css) <img src="https://img.shields.io/github/stars/csstools/sanitize.css?style=social" height="16">
 - [CSSFX: Beautifully simple click-to-copy CSS effects](https://github.com/jolaleye/cssfx) <img src="https://img.shields.io/github/stars/jolaleye/cssfx?style=social" height="16">
@@ -136,7 +137,7 @@ A collection of **awesome** web components.
 ### JavaScript Utils
 
 - [createjs: A suite of modular libraries and tools which work together or independently to enable rich interactive content on open web technologies via HTML5.](https://createjs.com/)
-  - [SoundJS: A Javascript library for working with Audio. It provides a consistent API for loading and playing audio on different browsers and devices. Currently supports WebAudio, HTML5 Audio, Cordova / PhoneGap, and a Flash fallback.](https://github.com/CreateJS/SoundJS) ![](https://img.shields.io/github/stars/CreateJS/SoundJS?style=social)
+  - ![](https://img.shields.io/github/stars/CreateJS/SoundJS?style=social) [SoundJS: A Javascript library for working with Audio. It provides a consistent API for loading and playing audio on different browsers and devices. Currently supports WebAudio, HTML5 Audio, Cordova / PhoneGap, and a Flash fallback.](https://github.com/CreateJS/SoundJS)
   - [EaselJS: The Easel Javascript library provides a full, hierarchical display list, a core interaction model, and helper classes to make working with the HTML5 Canvas element much easier.](https://github.com/CreateJS/EaselJS) ![](https://img.shields.io/github/stars/CreateJS/EaselJS?style=social)
   - [PreloadJS: PreloadJS makes preloading assets & getting aggregate progress events easier in JavaScript. It uses XHR2 when available, and falls back to tag-based loading when not.](https://github.com/CreateJS/PreloadJS) ![](https://img.shields.io/github/stars/CreateJS/PreloadJS?style=social)
   - [TweenJS: A simple but powerful tweening / animation library for Javascript. Part of the CreateJS suite of libraries.](https://github.com/CreateJS/TweenJS) ![](https://img.shields.io/github/stars/CreateJS/TweenJS?style=social)
@@ -199,6 +200,7 @@ A collection of **awesome** web components.
 
 ## Icon
 
+- [iconify: Unified icons framework. One library, over 100,000 vector icons. Modern replacement for icon fonts. Fast, easy to use.](https://github.com/iconify)
 - [**Font Awesome** - The iconic font and CSS toolkit](http://fontawesome.io/)
 - [:thumbsup:**cssicon** - icon set made with pure css code, no dependencies, "grab and go" icons](http://cssicon.space/#/)
 - [**ionicons** - The premium icon font for Ionic Framework](http://ionicons.com/)
