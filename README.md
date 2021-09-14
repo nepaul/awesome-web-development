@@ -21,7 +21,6 @@ A collection of **awesome** web components.
     - [Save](#save)
   - [Loader](#loader)
   - [Icon](#icon)
-  - [Video Player](#video-player)
   - [Notification](#notification)
   - [Alert](#alert)
   - [Authentication](#authentication)
@@ -82,6 +81,7 @@ A collection of **awesome** web components.
     - [Desktop Apps](#desktop-apps)
   - [Static Sites](#static-sites)
   - [Audio & Video](#audio--video)
+    - [Video Player](#video-player)
   - [Universal](#universal)
   - [Store](#store)
     - [Web DB](#web-db)
@@ -206,14 +206,6 @@ A collection of **awesome** web components.
 - [**ionicons** - The premium icon font for Ionic Framework](http://ionicons.com/)
 - [**featcher** - a collection of **simply beautiful open source icons**. Each icon is designed on a 24x24 grid with an emphasis on simplicity, consistency and readability](https://github.com/colebemis/feather)
 - [**Titanic** - A collection of animated icons + javascript library.](https://github.com/icons8/titanic)
-
-## Video Player
-
-- [**video.js** - An HTML5 & Flash video player](https://github.com/videojs/video.js)
-- [**jwplayer** - May be the world's most popular embeddable media player](https://github.com/jwplayer/jwplayer)
-- [**APlayer** - A beautiful html5 music player](https://github.com/DIYgod/APlayer)
-- [**Broadway** - A JavaScript H.264 decoder](https://github.com/mbebenita/Broadway)
-- [**flowplayer** - The HTML5 video player for the web](https://github.com/flowplayer/flowplayer)
 
 ## Notification
 
@@ -583,6 +575,14 @@ A collection of **awesome** web components.
 
 - ![](https://img.shields.io/github/stars/ffmpegwasm/ffmpeg.wasm?style=social)  [ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm): is a pure Webassembly / Javascript port of FFmpeg. It enables video & audio record, convert and stream right inside browsers.
 - ![](https://img.shields.io/github/stars/scottschiller/soundmanager2?style=social)  [SoundManager2:A JavaScript Sound API supporting MP3, MPEG4 and HTML5 audio + RTMP, providing reliable cross-browser/platform audio control in as little as 12 KB. BSD licensed.](https://github.com/scottschiller/soundmanager2/)
+
+### Video Player
+
+- [**video.js** - An HTML5 & Flash video player](https://github.com/videojs/video.js)
+- [**jwplayer** - May be the world's most popular embeddable media player](https://github.com/jwplayer/jwplayer)
+- [**APlayer** - A beautiful html5 music player](https://github.com/DIYgod/APlayer)
+- [**Broadway** - A JavaScript H.264 decoder](https://github.com/mbebenita/Broadway)
+- [**flowplayer** - The HTML5 video player for the web](https://github.com/flowplayer/flowplayer)
 
 ## Universal
 
