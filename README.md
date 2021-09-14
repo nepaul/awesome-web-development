@@ -581,7 +581,8 @@ A collection of **awesome** web components.
 
 ## Audio & Video
 
-- [SoundManager2:A JavaScript Sound API supporting MP3, MPEG4 and HTML5 audio + RTMP, providing reliable cross-browser/platform audio control in as little as 12 KB. BSD licensed.](https://github.com/scottschiller/soundmanager2/)
+- ![](https://img.shields.io/github/stars/ffmpegwasm/ffmpeg.wasm?style=social)  [ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm): is a pure Webassembly / Javascript port of FFmpeg. It enables video & audio record, convert and stream right inside browsers.
+- ![](https://img.shields.io/github/stars/scottschiller/soundmanager2?style=social)  [SoundManager2:A JavaScript Sound API supporting MP3, MPEG4 and HTML5 audio + RTMP, providing reliable cross-browser/platform audio control in as little as 12 KB. BSD licensed.](https://github.com/scottschiller/soundmanager2/)
 
 ## Universal
 
