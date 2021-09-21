@@ -82,6 +82,7 @@ A collection of **awesome** web components.
   - [Static Sites](#static-sites)
   - [Audio & Video](#audio--video)
     - [Video Player](#video-player)
+  - [Push Notifications](#push-notifications)
   - [Universal](#universal)
   - [Store](#store)
     - [Web DB](#web-db)
@@ -535,6 +536,7 @@ A collection of **awesome** web components.
 - <img src="https://img.shields.io/github/stars/cucumber/cucumber-js?style=social" height="16"> [Cucumber.js(BBD): Cucumber is a tool for running automated tests written in plain language. Because they're written in plain language, they can be read by anyone on your team. Because they can be read by anyone, you can use them to help improve communication, collaboration and trust on your team.](https://github.com/cucumber/cucumber-js)
 
   Cucumber.js is the JavaScript implementation of Cucumber and runs on the maintained Node.js versions.
+- [k6](https://github.com/grafana/k6): **A modern load testing tool for developers and testers in the DevOps era.** k6is **a modern load testing tool**, building on our years of experience in the load and performance testing industry. It provides a clean, approachable scripting API, local and cloud execution, and flexible configuration.
 
 ## CDN
 
@@ -554,6 +556,7 @@ A collection of **awesome** web components.
 - <img src="https://img.shields.io/github/stars/evanw/esbuild?style=social" height="16"> [esbuild: An extremely fast JavaScript bundle](https://github.com/evanw/esbuild)
 
   <img src="https://github.com/evanw/esbuild/blob/master/images/benchmark.svg">
+- ![](https://img.shields.io/github/stars/swc-project/swc?style=social)  [swc](https://github.com/swc-project/swc): is a super-fast typescript / javascript compiler written in rust. It's a library for rust and javascript at the same time. If you are using swc from rust, see rustdoc and for most users, your entrypoint for using library will be parser.
 
 ### Webpack
 
@@ -562,7 +565,7 @@ A collection of **awesome** web components.
 
 ### Desktop Apps
 
-- ![](https://img.shields.io/github/stars/tauri-apps/tauri?style=social) [tauri](https://github.com/tauri-apps/tauri): Tauri is a framework for building tiny, blazing fast binaries for all major desktop platforms. Developers can integrate any front-end framework that compiles to HTML, JS and CSS for building their user interface. The backend of the application is a rust-sourced binary with an API that the front-end can interact with.
+- ![](https://img.shields.io/github/stars/tauri-apps/tauri?style=social) [tauri](https://github.com/tauri-apps/tauri): Tauri is a framework for building tiny, blazing fast binaries for all major desktop platforms. Developers can integrate any front-end framework that compiles to HTML, JS and CSS for building their user interface. The backend of the application is a **rust-sourced** binary with an API that the front-end can interact with.
 
   The user interface in Tauri apps currently leverages Cocoa/WebKit on macOS, gtk-webkit2 on Linux and MSHTML (IE10/11) or Webkit via Edge on Windows. Tauri uses (and contributes to) the MIT licensed project that you can find at webview and the related webview organization.
 
@@ -584,13 +587,17 @@ A collection of **awesome** web components.
 - [**Broadway** - A JavaScript H.264 decoder](https://github.com/mbebenita/Broadway)
 - [**flowplayer** - The HTML5 video player for the web](https://github.com/flowplayer/flowplayer)
 
+## Push Notifications
+
+- ![](https://img.shields.io/github/stars/Nickersoft/push.js?style=social) [Push](https://github.com/Nickersoft/push.js): is the fastest way to get up and running with Javascript desktop notifications. A fairly new addition to the official specification, the Notification API allows modern browsers such as Chrome, Safari, Firefox, and IE 9+ to push notifications to a user's desktop. Push acts as a cross-browser solution to this API, falling back to use older implementations if the user's browser does not support the new API.
+
 ## Universal
 
 - [Nuxt: Universal Vue.js Applications](https://nuxtjs.org/)
 
 ## Store
 
-- <img src="https://img.shields.io/github/stars/localForage/localForage?style=social" height="16"> [localForage](https://github.com/localForage/localForage): localForage is a fast and simple storage library for JavaScript. localForage improves the offline experience of your web app by using asynchronous storage (IndexedDB or WebSQL) with a simple, localStorage-like API.
+- ![](https://img.shields.io/github/stars/localForage/localForage?style=social)[localForage](https://github.com/localForage/localForage): localForage is a fast and simple storage library for JavaScript. localForage improves the offline experience of your web app by using asynchronous storage (IndexedDB or WebSQL) with a simple, localStorage-like API.
 
   localForage uses localStorage in browsers with no IndexedDB or WebSQL support. See the wiki for detailed compatibility info.
 
