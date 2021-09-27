@@ -583,11 +583,12 @@ A collection of **awesome** web components.
 
 ### Video Player
 
-- [**video.js** - An HTML5 & Flash video player](https://github.com/videojs/video.js)
-- [**jwplayer** - May be the world's most popular embeddable media player](https://github.com/jwplayer/jwplayer)
-- [**APlayer** - A beautiful html5 music player](https://github.com/DIYgod/APlayer)
-- [**Broadway** - A JavaScript H.264 decoder](https://github.com/mbebenita/Broadway)
-- [**flowplayer** - The HTML5 video player for the web](https://github.com/flowplayer/flowplayer)
+- ![](https://img.shields.io/github/stars/videojs/video.js?style=social) [**video.js** - An HTML5 & Flash video player](https://github.com/videojs/video.js)
+- ![](https://img.shields.io/github/stars/DIYgod/DPlayer?style=social) [DPlayer is a lovely HTML5 danmaku video player to help people build video and danmaku easily.](https://github.com/DIYgod/DPlayer)
+- ![](https://img.shields.io/github/stars/DIYgod/APlayer?style=social) [**APlayer** - A beautiful html5 music player](https://github.com/DIYgod/APlayer)
+- ![](https://img.shields.io/github/stars/mbebenita/Broadway?style=social) [**Broadway** - A JavaScript H.264 decoder](https://github.com/mbebenita/Broadway)
+- ![](https://img.shields.io/github/stars/jwplayer/jwplayer?style=social) [**jwplayer** - May be the world's most popular embeddable media player](https://github.com/jwplayer/jwplayer)
+- ![](https://img.shields.io/github/stars/flowplayer/flowplayer?style=social) [**flowplayer** - The HTML5 video player for the web](https://github.com/flowplayer/flowplayer)
 
 ## Push Notifications
 
