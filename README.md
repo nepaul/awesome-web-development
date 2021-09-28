@@ -361,6 +361,8 @@ A collection of **awesome** web components.
 
 ## Editor
 
+- [Backlight](https://backlight.dev/) — with collaboration between developers and designers at heart, Backlight is a very complete coding platform where teams build, document, publish, scale and maintain Design Systems. 
+- [WebComponents.dev](https://webcomponents.dev/) — in-browser IDE to code web components in isolation with 58 templates available, supporting stories and tests.
 - ![](https://img.shields.io/github/stars/codemirror/codemirror?style=social) [CodeMirror](https://github.com/codemirror/codemirror): CodeMirror is a versatile text editor implemented in JavaScript for the browser. It is specialized for editing code, and comes with over 100 language modes and various addons that implement more advanced editing functionality. Every language comes with fully-featured code and syntax highlighting to help with reading and editing complex code. (语雀早期方案)
 - 👍👍👍👍👍 [Editor.js Next generation block styled editor. Free. Use for pleasure.](https://editorjs.io/)
 - [**Ace** - A standalone code editor written in JavaScript](https://github.com/ajaxorg/ace)
