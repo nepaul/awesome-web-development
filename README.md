@@ -10,6 +10,7 @@ A collection of **awesome** web components.
   - [Some Read List](#some-read-list)
     - [JavaScript](#javascript)
   - [Prototypes sites](#prototypes-sites)
+  - [Web Workers](#web-workers)
   - [Utils](#utils)
     - [CSS Utils](#css-utils)
     - [JavaScript Utils](#javascript-utils)
@@ -125,6 +126,18 @@ A collection of **awesome** web components.
 ## Prototypes sites
 
 - [Foundation: The most advanced responsive front-end framework in the world.](https://get.foundation/)
+
+## Web Workers
+
+- ![](https://img.shields.io/github/stars/Builderio/partytown?style=social)  [Partytown is a lazy-loaded 6kb library to help relocate resource intensive scripts into a web worker, and off of the main thread. Its goal is to help speed up sites by dedicating the main thread to your code, and offloading third-party scripts to a web worker.](https://github.com/Builderio/partytown)
+- ![](https://img.shields.io/github/stars/cloudflare/miniflare?style=social)  [Miniflare is a simulator for developing and testing Cloudflare Workers.](https://github.com/cloudflare/miniflare)
+  - 🎉 Fun: develop workers easily with detailed logging, file watching and pretty error pages supporting source maps.
+  - 🔋 Full-featured: supports most Workers features, including KV, Durable Objects, WebSockets, modules and more.
+  - ⚡ Fully-local: test and develop Workers without an internet connection. Reload code on change quickly.
+
+  It's an alternative to wrangler dev, written in TypeScript, that runs your workers in a sandbox implementing Workers' runtime APIs.
+  
+  See <https://miniflare.dev> for more detailed documentation.
 
 ## Utils
 
