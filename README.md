@@ -156,6 +156,7 @@ A collection of **awesome** web components.
   - [EaselJS: The Easel Javascript library provides a full, hierarchical display list, a core interaction model, and helper classes to make working with the HTML5 Canvas element much easier.](https://github.com/CreateJS/EaselJS) ![](https://img.shields.io/github/stars/CreateJS/EaselJS?style=social)
   - [PreloadJS: PreloadJS makes preloading assets & getting aggregate progress events easier in JavaScript. It uses XHR2 when available, and falls back to tag-based loading when not.](https://github.com/CreateJS/PreloadJS) ![](https://img.shields.io/github/stars/CreateJS/PreloadJS?style=social)
   - [TweenJS: A simple but powerful tweening / animation library for Javascript. Part of the CreateJS suite of libraries.](https://github.com/CreateJS/TweenJS) ![](https://img.shields.io/github/stars/CreateJS/TweenJS?style=social)
+- [web-component-decorator](https://github.com/edwinm/web-component-decorator) - Lightweight TypeScript decorators for easier handling of attribute changes and cleaner code
 
 ## Machine Learning & AI
 
