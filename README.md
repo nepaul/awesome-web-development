@@ -47,6 +47,7 @@ A collection of **awesome** web components.
     - [Flip](#flip)
   - [Menus](#menus)
   - [Editor](#editor)
+    - [Markdown](#markdown)
   - [Highlight](#highlight)
   - [Clipboard](#clipboard)
   - [Respond page](#respond-page)
@@ -375,7 +376,7 @@ A collection of **awesome** web components.
 
 ## Editor
 
-- [Backlight](https://backlight.dev/) — with collaboration between developers and designers at heart, Backlight is a very complete coding platform where teams build, document, publish, scale and maintain Design Systems. 
+- [Backlight](https://backlight.dev/) — with collaboration between developers and designers at heart, Backlight is a very complete coding platform where teams build, document, publish, scale and maintain Design Systems.
 - [WebComponents.dev](https://webcomponents.dev/) — in-browser IDE to code web components in isolation with 58 templates available, supporting stories and tests.
 - ![](https://img.shields.io/github/stars/codemirror/codemirror?style=social) [CodeMirror](https://github.com/codemirror/codemirror): CodeMirror is a versatile text editor implemented in JavaScript for the browser. It is specialized for editing code, and comes with over 100 language modes and various addons that implement more advanced editing functionality. Every language comes with fully-featured code and syntax highlighting to help with reading and editing complex code. (语雀早期方案)
 - 👍👍👍👍👍 [Editor.js Next generation block styled editor. Free. Use for pleasure.](https://editorjs.io/)
@@ -385,10 +386,15 @@ A collection of **awesome** web components.
 - [tinymce: The world's most popular JavaScript library for rich text editing. Available for React, Vue and Angular](https://github.com/tinymce/tinymce)
 - 👍✨🌟💗[Microsoft/monaco-editor: A browser based code editor which powers **VS Code**](https://github.com/Microsoft/monaco-editor)
 - [ckeditor: Smart **WYSIWYG** HTML editor](https://ckeditor.com/)
-- ✨✨✨✨✨❤️ [stackedit: In-browser **Markdown** editor](https://github.com/benweet/stackedit)
+
 - [Quill: Your powerful rich text editor.](https://quilljs.com/)
   - [react-quill](https://www.npmjs.com/package/react-quill)
 - [Rete.js: JavaScript(TypeScript) framework for visual programming. Rete is a modular framework for visual programming. Rete allows you to create node-based editor directly in the browser. You can define nodes and workers that allow users to create instructions for processing data in your editor without a single line of code.](https://github.com/retejs/rete) ![](https://img.shields.io/github/stars/retejs/rete?style=social)
+
+### Markdown
+
+- ![](https://img.shields.io/github/stars/benweet/stackedit?style=social) ✨✨✨✨✨❤️ [stackedit: In-browser **Markdown** editor](https://github.com/benweet/stackedit)
+- ![](https://img.shields.io/github/stars/sparksuite/simplemde-markdown-editor?style=social) [SimpleMDE - Markdown Editor](https://github.com/sparksuite/simplemde-markdown-editor): A drop-in JavaScript textarea replacement for writing beautiful and understandable Markdown. The WYSIWYG-esque editor allows users who may be less experienced with Markdown to use familiar toolbar buttons and shortcuts. In addition, the syntax is rendered while editing to clearly show the expected result. Headings are larger, emphasized words are italicized, links are underlined, etc. SimpleMDE is one of the first editors to feature both built-in autosaving and spell checking.
 - ![](https://img.shields.io/github/stars/Vanessa219/vditor?style=social) [Vditor: Vditor 是一款浏览器端的 Markdown 编辑器，支持所见即所得、即时渲染（类似 Typora）和分屏预览模式。它使用 TypeScript 实现，支持原生 JavaScript、Vue、React、Angular，提供桌面版。](https://github.com/Vanessa219/vditor)
 
 ## Highlight
