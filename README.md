@@ -9,6 +9,7 @@ A collection of **awesome** web components.
   - [Guidelines](#guidelines)
   - [Some Read List](#some-read-list)
     - [JavaScript](#javascript)
+  - [Framework](#framework)
   - [Prototypes sites](#prototypes-sites)
   - [Web Workers](#web-workers)
   - [Utils](#utils)
@@ -106,7 +107,7 @@ A collection of **awesome** web components.
   - [Admin](#admin)
   - [Low Code](#low-code)
   - [Node](#node)
-    - [Framework](#framework)
+    - [Framework](#framework-1)
     - [Midddleware](#midddleware)
   - [Contribution](#contribution)
   - [License](#license)
@@ -122,8 +123,12 @@ A collection of **awesome** web components.
 
 ### JavaScript
 
-- [The JavaScript Way: A modern introduction to an essential language.](https://github.com/thejsway/thejsway) ![](https://img.shields.io/github/stars/thejsway/thejsway?style=social)
-- [What the f\*ck JavaScript? A list of funny and tricky JavaScript examples. JavaScript is a great language. It has a simple syntax, large ecosystem and, what is most important, a great community. At the same time, we all know that JavaScript is quite a funny language with tricky parts. Some of them can quickly turn our everyday job into hell, and some of them can make us laugh out loud.](https://github.com/denysdovhan/wtfjs) ![](https://img.shields.io/github/stars/denysdovhan/wtfjs?style=social)
+- ![](https://img.shields.io/github/stars/thejsway/thejsway?style=social) [The JavaScript Way: A modern introduction to an essential language.](https://github.com/thejsway/thejsway)
+- ![](https://img.shields.io/github/stars/denysdovhan/wtfjs?style=social) [What the f\*ck JavaScript? A list of funny and tricky JavaScript examples. JavaScript is a great language. It has a simple syntax, large ecosystem and, what is most important, a great community. At the same time, we all know that JavaScript is quite a funny language with tricky parts. Some of them can quickly turn our everyday job into hell, and some of them can make us laugh out loud.](https://github.com/denysdovhan/wtfjs)
+
+## Framework
+
+- ![](https://img.shields.io/github/stars/sveltejs/svelte?style=social) [sveltejs: a new way to build web applications. It's a compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM.](https://github.com/sveltejs/svelte)
 
 ## Prototypes sites
 
