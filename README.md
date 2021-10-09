@@ -39,7 +39,7 @@ A collection of **awesome** web components.
     - [Vue](#vue)
     - [React](#react)
     - [Out-of-box UI solution](#out-of-box-ui-solution)
-    - [Wechat](#wechat)
+    - [WeChat](#wechat)
     - [Others](#others)
   - [Input](#input)
   - [Modal](#modal)
@@ -341,7 +341,7 @@ A collection of **awesome** web components.
 
 - [ANT DESIGN PRO: An out-of-box UI solution for enterprise applications as a React boilerplate.](https://pro.ant.design/)
 
-### Wechat
+### WeChat
 
 - [MinUI: MinUI 是基于微信小程序自定义组件特性开发而成的一套简洁、易用、高效的组件库，适用场景广，覆盖小程序原生框架，各种小程序组件主流框架等，并且提供了专门的命令行工具](https://github.com/meili/minui)
 - [wxapp-market: 小程序营销组件 大转盘 刮刮乐 老虎机 水果机 九宫格翻纸牌 摇一摇 手势解锁](https://github.com/o2team/wxapp-market)
