@@ -106,6 +106,7 @@ A collection of **awesome** web components.
   - [Admin](#admin)
   - [Low Code](#low-code)
   - [Node](#node)
+    - [Framework](#framework)
     - [Midddleware](#midddleware)
   - [Contribution](#contribution)
   - [License](#license)
@@ -708,6 +709,10 @@ A collection of **awesome** web components.
 - ![](https://img.shields.io/github/stars/artf/grapesjs?style=social) [grapesjs](https://github.com/artf/grapesjs): is a free and open source Web Builder Framework which helps building HTML templates, faster and easily, to be delivered in sites, newsletters or mobile apps. Mainly, GrapesJS was designed to be used inside a CMS to speed up the creation of dynamic templates.
 
 ## Node
+
+### Framework
+
+- ![](https://img.shields.io/github/stars/nestjs/nest?style=social) [nest: A progressive Node.js framework for building efficient and scalable server-side applications.](https://github.com/nestjs/nest)
 
 ### Midddleware
 
