@@ -10,13 +10,13 @@ A collection of **awesome** web components.
   - [Some Read List](#some-read-list)
     - [JavaScript](#javascript)
   - [Framework](#framework)
+    - [Reactive](#reactive)
   - [Prototypes sites](#prototypes-sites)
   - [Web Workers](#web-workers)
   - [Utils](#utils)
     - [CSS Utils](#css-utils)
     - [JavaScript Utils](#javascript-utils)
   - [Machine Learning & AI](#machine-learning--ai)
-  - [Reactive Framework](#reactive-framework)
   - [Chart & Data Visualization](#chart--data-visualization)
   - [File](#file)
     - [Upload](#upload)
@@ -130,6 +130,11 @@ A collection of **awesome** web components.
 
 - ![](https://img.shields.io/github/stars/sveltejs/svelte?style=social) [sveltejs: a new way to build web applications. It's a compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM.](https://github.com/sveltejs/svelte)
 
+### Reactive
+
+- [**ReactiveX** - An API for asynchronous programmingwith observable streams](http://reactivex.io/)
+- <img src="https://img.shields.io/github/stars/cyclejs/cyclejs?style=social" height="16"> [**Cycle.js** - A functional and reactive JavaScript framework for predictable code](https://cycle.js.org/)
+
 ## Prototypes sites
 
 - [Foundation: The most advanced responsive front-end framework in the world.](https://get.foundation/)
@@ -173,11 +178,6 @@ A collection of **awesome** web components.
   Cube.js was designed to work with Serverless Query Engines like AWS Athena and Google BigQuery. Multi-stage querying approach makes it suitable for handling trillions of data points. Most modern RDBMS work with Cube.js as well and can be tuned for adequate performance.
 
   Unlike others, it is not a monolith application, but a set of modules, which does one thing well. Cube.js provides modules to run transformations and modeling in data warehouse, querying and caching, managing API gateway and building UI on top of that.
-
-## Reactive Framework
-
-- [**ReactiveX** - An API for asynchronous programmingwith observable streams](http://reactivex.io/)
-- <img src="https://img.shields.io/github/stars/cyclejs/cyclejs?style=social" height="16"> [**Cycle.js** - A functional and reactive JavaScript framework for predictable code](https://cycle.js.org/)
 
 ## Chart & Data Visualization
 
