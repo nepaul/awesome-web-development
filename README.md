@@ -68,6 +68,7 @@ A collection of **awesome** web components.
   - [PDF](#pdf)
   - [Sheet](#sheet)
   - [Tools](#tools-1)
+    - [TypeScript](#typescript)
     - [Debug](#debug)
     - [APIs & Mock](#apis--mock)
     - [Deploy](#deploy)
@@ -499,14 +500,18 @@ A collection of **awesome** web components.
 - [**BrowserStack** - Instant access to all real mobile and desktop browsers. Say goodbye to your lab of devices and virtual machines.](https://www.browserstack.com/)
 - [**LogRocket** - Records everything users do on your site, helping you reproduce bugs and fix issues faster.](https://logrocket.com/)
 
+### TypeScript
+
+- ![](https://img.shields.io/github/stars/airbnb/ts-migrate?style=social) [ts-migrate is a tool for helping migrate code to TypeScript. It takes a JavaScript, or a partial TypeScript, project in and gives a compiling TypeScript project out.](https://github.com/airbnb/ts-migrate)
+
 ### Debug
 
-- <img src="https://img.shields.io/github/stars/Tencent/vConsole?style=social" height="16"> [vConsole: A lightweight, extendable front-end developer tool for mobile web page.](https://github.com/Tencent/vConsole)
+- ![](https://img.shields.io/github/stars/Tencent/vConsole?style=social) [vConsole: A lightweight, extendable front-end developer tool for mobile web page.](https://github.com/Tencent/vConsole)
 
 ### APIs & Mock
 
 - 👍👍 ✨ [API Blueprint is simple and accessible to everybody involved in the API lifecycle. Its syntax is concise yet expressive. With API Blueprint you can quickly design and prototype APIs to be created or document and test already deployed mission-critical APIs.](https://apiblueprint.org/)
-- <img src="https://img.shields.io/github/stars/slatedocs/slate?style=social" height="16"> [SLATE: Slate helps you create beautiful, intelligent, responsive API documentation.(语雀 部分功能基于此开发)](https://github.com/slatedocs/slate)
+- ![](https://img.shields.io/github/stars/slatedocs/slate?style=social) [SLATE: Slate helps you create beautiful, intelligent, responsive API documentation.(语雀 部分功能基于此开发)](https://github.com/slatedocs/slate)
 
 ### Deploy
 
