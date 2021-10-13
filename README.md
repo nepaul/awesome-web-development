@@ -110,6 +110,7 @@ A collection of **awesome** web components.
   - [Node](#node)
     - [Framework](#framework-1)
     - [Midddleware](#midddleware)
+  - [Open Source apps](#open-source-apps)
   - [Contribution](#contribution)
   - [License](#license)
 
@@ -731,6 +732,10 @@ Our platform enables frontend teams to do their best work.
 - ![](https://img.shields.io/github/stars/chimurai/http-proxy-middleware?style=social) [http-proxy-middleware: Node.js proxying made simple. Configure proxy middleware with ease for connect, express, browser-sync and many more.](https://github.com/chimurai/http-proxy-middleware)
 
   Powered by the popular Nodejitsu [http-proxy](https://github.com/http-party/node-http-proxy)
+
+## Open Source apps
+
+- ![](https://img.shields.io/github/stars/hackjutsu/Lepton?style=social) [Lepton is a lean code snippet manager powered by GitHub Gist.](https://github.com/hackjutsu/Lepton)
 
 ## Contribution
 
