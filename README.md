@@ -516,6 +516,8 @@ A collection of **awesome** web components.
 ### Deploy
 
 - [Now — Global Serverless Deployments. Now makes serverless application deployment easy. Don’t spend time configuring the cloud. Just push your code.](https://zeit.co/now)
+- [Vercel - Develop, Preview, Ship](https://vercel.com/): Vercel combines the best developer experience with an obsessive focus on end-user performance.
+Our platform enables frontend teams to do their best work.
 
 ### Docs
 
