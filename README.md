@@ -224,7 +224,7 @@ A collection of **awesome** web components.
 - [SpinKit: A collection of loading indicators animated with CSS](https://github.com/tobiasahlin/SpinKit) ![](https://img.shields.io/github/stars/tobiasahlin/SpinKit?style=social)
 
 ## Icon
-
+- [icones.js](https://icones.js.org/)
 - [iconify: Unified icons framework. One library, over 100,000 vector icons. Modern replacement for icon fonts. Fast, easy to use.](https://github.com/iconify)
 - [**Font Awesome** - The iconic font and CSS toolkit](http://fontawesome.io/)
 - [:thumbsup:**cssicon** - icon set made with pure css code, no dependencies, "grab and go" icons](http://cssicon.space/#/)
