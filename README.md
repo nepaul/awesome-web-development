@@ -58,6 +58,7 @@ A collection of **awesome** web components.
   - [Scroll & Parallax](#scroll--parallax)
   - [Search](#search)
   - [Slider|Swiper](#sliderswiper)
+  - [Color](#color)
   - [Conversational](#conversational)
   - [Tweening Engine](#tweening-engine)
   - [QRCode](#qrcode)
@@ -229,6 +230,7 @@ A collection of **awesome** web components.
 - [SpinKit: A collection of loading indicators animated with CSS](https://github.com/tobiasahlin/SpinKit) ![](https://img.shields.io/github/stars/tobiasahlin/SpinKit?style=social)
 
 ## Icon
+
 - [icones.js](https://icones.js.org/)
 - [iconify: Unified icons framework. One library, over 100,000 vector icons. Modern replacement for icon fonts. Fast, easy to use.](https://github.com/iconify)
 - [**Font Awesome** - The iconic font and CSS toolkit](http://fontawesome.io/)
@@ -450,6 +452,10 @@ A collection of **awesome** web components.
 ## Slider|Swiper
 
 - [iSlider: Smooth mobile touch slider for Mobile WebApp, HTML5 App, Hybrid App](https://github.com/BE-FE/iSlider)
+
+## Color
+
+- ![](https://img.shields.io/github/stars/casesandberg/react-color?style=social) [react-color](https://github.com/casesandberg/react-color): 1. 13 Different Pickers - Sketch, Photoshop, Chrome and many more; 2.Make Your Own - Use the building block components to make your own
 
 ## Conversational
 
