@@ -112,7 +112,7 @@ A collection of **awesome** web components.
   - [Node](#node)
     - [Framework](#framework-1)
     - [Midddleware](#midddleware)
-  - [Open Source apps](#open-source-apps)
+  - [Open Source Apps](#open-source-apps)
   - [Contribution](#contribution)
   - [License](#license)
 
@@ -752,9 +752,10 @@ Our platform enables frontend teams to do their best work.
 
   Powered by the popular Nodejitsu [http-proxy](https://github.com/http-party/node-http-proxy)
 
-## Open Source apps
+## Open Source Apps
 
 - ![](https://img.shields.io/github/stars/hackjutsu/Lepton?style=social) [Lepton is a lean code snippet manager powered by GitHub Gist.](https://github.com/hackjutsu/Lepton)
+- ![](https://img.shields.io/github/stars/tldraw/tldraw?style=social) [tldraw: a tiny little drawing app](https://github.com/tldraw/tldraw): Try it 👉 [online](https://www.tldraw.com/)
 
 ## Contribution
 
