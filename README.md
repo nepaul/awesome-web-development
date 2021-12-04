@@ -436,7 +436,7 @@ A collection of **awesome** web components.
 
 ## 3D
 
-- [stack.gl](http://stack.gl/)
+- [stack.gl](http://stack.gl/) is an open software ecosystem for WebGL, built on top of browserify and npm. Inspired by the Unix philosophy, stackgl modules "do one thing, and do it well". It is easy to use parts of stackgl à la carte, and because it is written from the bottom up, you can always drill down a layer. Unlike many 3D engines, stackgl emphasizes writing shader code, and provides powerful tools like glslify which bring the modularity and productivity of npm to GLSL!
 - ![](https://img.shields.io/github/stars/mrdoob/three.js?style=social) [**three.js** - A JavaScript 3D Library which makes WebGL simpler.](https://threejs.org/)
 - ![](https://img.shields.io/github/stars/CesiumGS/cesium?style=social) [CesiumJS is a JavaScript library for creating 3D globes and 2D maps in a web browser without a plugin. It uses WebGL for hardware-accelerated graphics, and is cross-platform, cross-browser, and tuned for dynamic-data visualization.](https://github.com/CesiumGS/cesium):
 - ![](https://img.shields.io/github/stars/WhitestormJS/whs.js?style=social) [whs.js: Super-fast 3D framework for Web Applications 🥇 & Games 🎮. Based on Three.js](https://github.com/WhitestormJS/whs.js)
