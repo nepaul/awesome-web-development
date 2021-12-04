@@ -72,6 +72,7 @@ A collection of **awesome** web components.
   - [PDF](#pdf)
   - [Sheet](#sheet)
   - [Tools](#tools-1)
+    - [Models & serializers](#models--serializers)
     - [TypeScript](#typescript)
     - [Debug](#debug)
     - [APIs & Mock](#apis--mock)
@@ -515,6 +516,10 @@ A collection of **awesome** web components.
 - [:+1::+1::+1:**Emmet** - the essential toolkit for web-developers](https://emmet.io/)
 - [**BrowserStack** - Instant access to all real mobile and desktop browsers. Say goodbye to your lab of devices and virtual machines.](https://www.browserstack.com/)
 - [**LogRocket** - Records everything users do on your site, helping you reproduce bugs and fix issues faster.](https://logrocket.com/)
+
+### Models & serializers
+
+- ![](https://img.shields.io/github/stars/quicktype/quicktype?style=social) [quicktype](https://github.com/quicktype/quicktype): generates strongly-typed models and serializers from JSON, JSON Schema, TypeScript, and GraphQL queries, making it a breeze to work with JSON type-safely in many programming languages.
 
 ### TypeScript
 
