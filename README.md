@@ -349,8 +349,9 @@ A collection of **awesome** web components.
 
 ### React
 
-- [evergreen: Evergreen React UI Framework by Segment](https://github.com/segmentio/evergreen)
-- [office-ui-fabric-react: React components for building experiences for Office and Office 365.](https://github.com/OfficeDev/office-ui-fabric-react)
+- ![](https://img.shields.io/github/stars/chakra-ui/chakra-ui?style=social) [chakra-ui](https://github.com/chakra-ui/chakra-ui): Chakra UI provides a set of accessible, reusable, and composable React components that make it super easy to create websites and apps.
+- ![](https://img.shields.io/github/stars/OfficeDev/office-ui-fabric-react?style=social) [office-ui-fabric-react: React components for building experiences for Office and Office 365.](https://github.com/OfficeDev/office-ui-fabric-react)
+- ![](https://img.shields.io/github/stars/segmentio/evergreen?style=social) [evergreen: Evergreen React UI Framework by Segment](https://github.com/segmentio/evergreen)
 
 ### Out-of-box UI solution
 
