@@ -167,6 +167,7 @@ A collection of **awesome** web components.
 - ![](https://img.shields.io/github/stars/jolaleye/cssfx?style=social)  [CSSFX: Beautifully simple click-to-copy CSS effects](https://github.com/jolaleye/cssfx)
 - ![](https://img.shields.io/github/stars/csstools/sanitize.css?style=social) [sanitize.css is a CSS library that provides consistent, cross-browser default styling of HTML elements alongside useful defaults. It is developed alongside normalize.css, which means every normalization is included, and every normalization and opinion are clearly marked and documented.](https://github.com/csstools/sanitize.css)
 - ![](https://img.shields.io/github/stars/windicss/windicss?style=social) [Windi CSS: Next generation utility-first CSS framework. If you are already familiar with Tailwind CSS, think about Windi CSS as an on-demanded alternative to Tailwind, which provides faster load times, fully compatible with Tailwind v2.0 and with a bunch of additional cool features.](https://github.com/windicss/windicss)
+- [Neumorphism.io](https://github.com/adamgiebl/neumorphism): CSS code generator for a new popular design trend called Neumorphism/Soft UI. I hope this will help designers and developers experiment with it and possibly adapt it. Built with React.js
 
 ### JavaScript Utils
 
