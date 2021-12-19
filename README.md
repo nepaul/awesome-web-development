@@ -543,6 +543,7 @@ A collection of **awesome** web components.
 - [Now — Global Serverless Deployments. Now makes serverless application deployment easy. Don’t spend time configuring the cloud. Just push your code.](https://zeit.co/now)
 - [Vercel - Develop, Preview, Ship](https://vercel.com/): Vercel combines the best developer experience with an obsessive focus on end-user performance.
 Our platform enables frontend teams to do their best work.
+- [Heroku](https://www.heroku.com/): Heroku is a cloud platform as a service (PaaS) supporting several programming languages. One of the first cloud platforms, Heroku has been in development since June 2007, when it supported only the Ruby programming language, but now supports Java, Node.js, Scala, Clojure, Python, PHP, and Go. For this reason, Heroku is said to be a polyglot platform as it has features for a developer to build, run and scale applications in a similar manner across most languages. Heroku was acquired by Salesforce.com in 2010 for $212 million
 
 ### Monitor
 
