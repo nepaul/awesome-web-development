@@ -77,6 +77,7 @@ A collection of **awesome** web components.
     - [Debug](#debug)
     - [APIs & Mock](#apis--mock)
     - [Deploy](#deploy)
+    - [Monitor](#monitor)
     - [Docs](#docs)
     - [Images](#images-1)
     - [Icons](#icons)
@@ -542,6 +543,10 @@ A collection of **awesome** web components.
 - [Now — Global Serverless Deployments. Now makes serverless application deployment easy. Don’t spend time configuring the cloud. Just push your code.](https://zeit.co/now)
 - [Vercel - Develop, Preview, Ship](https://vercel.com/): Vercel combines the best developer experience with an obsessive focus on end-user performance.
 Our platform enables frontend teams to do their best work.
+
+### Monitor
+
+- ![](https://img.shields.io/github/stars/openreplay/openreplay?style=social) [openreplay - Session replay for developers](https://github.com/openreplay/openreplay): The most advanced open-source session replay to build delightful web apps.
 
 ### Docs
 
