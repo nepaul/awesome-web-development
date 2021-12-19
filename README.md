@@ -51,6 +51,7 @@ A collection of **awesome** web components.
     - [Flip](#flip)
   - [Menus](#menus)
   - [Editor](#editor)
+    - [Code Highlight](#code-highlight)
     - [Markdown](#markdown)
   - [Highlight](#highlight)
   - [Clipboard](#clipboard)
@@ -412,7 +413,11 @@ A collection of **awesome** web components.
 
 - [Quill: Your powerful rich text editor.](https://quilljs.com/)
   - [react-quill](https://www.npmjs.com/package/react-quill)
-- [Rete.js: JavaScript(TypeScript) framework for visual programming. Rete is a modular framework for visual programming. Rete allows you to create node-based editor directly in the browser. You can define nodes and workers that allow users to create instructions for processing data in your editor without a single line of code.](https://github.com/retejs/rete) ![](https://img.shields.io/github/stars/retejs/rete?style=social)
+- ![](https://img.shields.io/github/stars/retejs/rete?style=social) [Rete.js: JavaScript(TypeScript) framework for visual programming. Rete is a modular framework for visual programming. Rete allows you to create node-based editor directly in the browser. You can define nodes and workers that allow users to create instructions for processing data in your editor without a single line of code.](https://github.com/retejs/rete)
+
+### Code Highlight
+
+- ![](https://img.shields.io/github/stars/shikijs/shiki?style=social)[shiki](https://github.com/shikijs/shiki): a beautiful Syntax Highlighter. [Demo](https://shiki.matsu.io/).
 
 ### Markdown
 
