@@ -777,6 +777,7 @@ Our platform enables frontend teams to do their best work.
 
 ## Open Source Apps
 
+- ![](https://img.shields.io/github/stars/slidevjs/slidev?style=social)  [Slidev](https://github.com/slidevjs/slidev): Presentation slides for developers 🧑‍💻👩‍💻👨‍💻
 - ![](https://img.shields.io/github/stars/hackjutsu/Lepton?style=social) [Lepton is a lean code snippet manager powered by GitHub Gist.](https://github.com/hackjutsu/Lepton)
 - ![](https://img.shields.io/github/stars/tldraw/tldraw?style=social) [tldraw: a tiny little drawing app](https://github.com/tldraw/tldraw): Try it 👉 [online](https://www.tldraw.com/)
 - ![](https://img.shields.io/github/stars/microsoft/clarity?style=social) [microsoft/Clarity](https://github.com/microsoft/clarity): is an open-source behavioral analytics library written in typescript, with two key goals: privacy & performance.
