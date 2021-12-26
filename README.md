@@ -130,6 +130,8 @@ A collection of **awesome** web components.
 
 ## Some Read List
 
+- ![](https://img.shields.io/github/stars/kamranahmedse/developer-roadmap?style=social) [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+
 ### JavaScript
 
 - ![](https://img.shields.io/github/stars/thejsway/thejsway?style=social) [The JavaScript Way: A modern introduction to an essential language.](https://github.com/thejsway/thejsway)
