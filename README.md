@@ -11,6 +11,7 @@ A collection of **awesome** web components.
   - [Guidelines](#guidelines)
   - [Some Read List](#some-read-list)
     - [JavaScript](#javascript)
+    - [API](#api)
   - [Framework](#framework)
     - [Reactive](#reactive)
   - [Prototypes sites](#prototypes-sites)
@@ -136,6 +137,10 @@ A collection of **awesome** web components.
 
 - ![](https://img.shields.io/github/stars/thejsway/thejsway?style=social) [The JavaScript Way: A modern introduction to an essential language.](https://github.com/thejsway/thejsway)
 - ![](https://img.shields.io/github/stars/denysdovhan/wtfjs?style=social) [What the f\*ck JavaScript? A list of funny and tricky JavaScript examples. JavaScript is a great language. It has a simple syntax, large ecosystem and, what is most important, a great community. At the same time, we all know that JavaScript is quite a funny language with tricky parts. Some of them can quickly turn our everyday job into hell, and some of them can make us laugh out loud.](https://github.com/denysdovhan/wtfjs)
+
+### API
+
+- ![](https://img.shields.io/github/stars/postmanlabs/httpbin?style=social) [httpbin](http://httpbin.org/): A tool to feeling RESTFul API.
 
 ## Framework
 
