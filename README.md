@@ -776,6 +776,7 @@ Our platform enables frontend teams to do their best work.
 
 ### Midddleware
 
+- ![](https://img.shields.io/github/stars/prisma/prisma?style=social) [Prisma](https://www.prisma.io/): Next generation ORM for Node.js & TypeScript
 - ![](https://img.shields.io/github/stars/chimurai/http-proxy-middleware?style=social) [http-proxy-middleware: Node.js proxying made simple. Configure proxy middleware with ease for connect, express, browser-sync and many more.](https://github.com/chimurai/http-proxy-middleware)
 
   Powered by the popular Nodejitsu [http-proxy](https://github.com/http-party/node-http-proxy)
