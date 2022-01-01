@@ -787,6 +787,7 @@ Our platform enables frontend teams to do their best work.
 - ![](https://img.shields.io/github/stars/slidevjs/slidev?style=social)  [Slidev](https://github.com/slidevjs/slidev): Presentation slides for developers 🧑‍💻👩‍💻👨‍💻
 - ![](https://img.shields.io/github/stars/hackjutsu/Lepton?style=social) [Lepton is a lean code snippet manager powered by GitHub Gist.](https://github.com/hackjutsu/Lepton)
 - ![](https://img.shields.io/github/stars/tldraw/tldraw?style=social) [tldraw: a tiny little drawing app](https://github.com/tldraw/tldraw): Try it 👉 [online](https://www.tldraw.com/)
+- ![](https://img.shields.io/github/stars/Th3Wall/Fakeflix?style=social) [Fakeflix](https://github.com/Th3Wall/Fakeflix): a Netflix Clone built with React, Redux.
 - ![](https://img.shields.io/github/stars/microsoft/clarity?style=social) [microsoft/Clarity](https://github.com/microsoft/clarity): is an open-source behavioral analytics library written in typescript, with two key goals: privacy & performance.
   It helps you understand how users view and use your website across all modern devices and browsers. Understanding how users navigate, interact and browse your website can provide new insights about your users. Empathizing with your users and seeing where features fail or succeed can help improve your product, grow revenue and improve user retention.
 
