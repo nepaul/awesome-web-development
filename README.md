@@ -10,6 +10,7 @@ A collection of **awesome** web components.
 - [Table of Contents](#table-of-contents)
   - [Guidelines](#guidelines)
   - [Some Read List](#some-read-list)
+    - [WEB Security](#web-security)
     - [JavaScript](#javascript)
     - [API](#api)
   - [Framework](#framework)
@@ -132,6 +133,12 @@ A collection of **awesome** web components.
 ## Some Read List
 
 - ![](https://img.shields.io/github/stars/kamranahmedse/developer-roadmap?style=social) [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+
+### WEB Security
+
+- ![](https://img.shields.io/github/stars/OWASP/CheatSheetSeries?style=social) [OWASP Cheat Sheet Series](https://github.com/OWASP/CheatSheetSeries): the official repository for the Open Web Application Security Project® (OWASP) Cheat Sheet Series project. The project focuses on providing good security practices for builders in order to secure their applications.
+
+In order to read the cheat sheets and reference them, use the project official website. The project details can be viewed on the OWASP main website without the cheat sheets.
 
 ### JavaScript
 
