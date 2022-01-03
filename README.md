@@ -530,6 +530,34 @@ In order to read the cheat sheets and reference them, use the project official w
 
 ## Tools
 
+- ![](https://img.shields.io/github/stars/preactjs/wmr?style=social) [wmr](https://github.com/preactjs/wmr) - The tiny all-in-one development tool for modern web apps, in a single 2mb file with no dependencies.
+
+  All the features you'd expect and more, from development to production:
+
+  🔨   No entry points or pages to configure - just HTML files with `<script type=module>`
+
+  🦦   Safely import "packages" from npm without installation
+
+  📦   Smart bundling and caching for npm dependencies
+
+  ↻   Hot reloading for modules, Preact components and CSS
+
+  ⚡️   Lightning-fast JSX support that you can debug in the browser
+
+  💄   Import CSS files and CSS Modules (*.module.css)
+
+  🔩   Out-of-the-box support for TypeScript
+
+  📂   Static file serving with hot reloading of CSS and images
+
+  🗜   Highly optimized Rollup-based production output (wmr build)
+
+  📑   Crawls and pre-renders your app's pages to static HTML at build time
+
+  🏎   Built-in HTTP2 in dev and prod (wmr serve --http2)
+  
+  🔧   Supports Rollup plugins, even in development where Rollup isn't used
+
 - [**fountainjs** - One Yeoman generator for all your frontend projects](http://fountainjs.io/)
 - [**Sizzy** - A tool for developing responsive websites crazy-fast](https://github.com/kitze/sizzy)
 - [:pencil2:**jsfiddle** - online web developemnt editor](https://jsfiddle.net/)
