@@ -39,6 +39,7 @@ A collection of **awesome** web components.
     - [Lazyload](#lazyload)
     - [Filters](#filters)
     - [Lightbox gallery](#lightbox-gallery)
+    - [Static Code Checking(Lint)](#static-code-checkinglint)
   - [Font](#font)
   - [UI Kits](#ui-kits)
     - [Vue](#vue)
@@ -330,6 +331,16 @@ In order to read the cheat sheets and reference them, use the project official w
 ### Lightbox gallery
 
 - [spotlight: Web's most easy to integrate lightbox gallery library. Super-lightweight, outstanding performance, no dependencies.](https://github.com/nextapps-de/spotlight)
+
+### Static Code Checking(Lint)
+
+- ![](https://img.shields.io/github/stars/conventional-changelog/commitlint?style=social) [commitlint](https://github.com/conventional-changelog/commitlint) - Lint commit messages:
+  
+  🚓 Be a good commitizen
+  
+  📦 Share configuration via npm
+  
+  🤖 Tap into conventional-changelog
 
 ## Font
 
