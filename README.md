@@ -714,6 +714,9 @@ Our platform enables frontend teams to do their best work.
 - ![](https://img.shields.io/github/stars/videojs/video.js?style=social) [**video.js** - An HTML5 & Flash video player](https://github.com/videojs/video.js)
 - ![](https://img.shields.io/github/stars/DIYgod/DPlayer?style=social) [DPlayer is a lovely HTML5 danmaku video player to help people build video and danmaku easily.](https://github.com/DIYgod/DPlayer)
 - ![](https://img.shields.io/github/stars/DIYgod/APlayer?style=social) [**APlayer** - A beautiful html5 music player](https://github.com/DIYgod/APlayer)
+- ![](https://img.shields.io/github/stars/bytedance/xgplayer?style=social) [xgplayer](https://github.com/bytedance/xgplayer)  is a web video and audio player library, designed with separate, detachable UI components. Since everything is componentized. the UI layer is very flexable.
+  xgplayer is bold in its functionality: it gets rid of video loading, buffering, and format support for video dependence. For mp4 that does not support streaming, you can use staged loading. This means load control, seamless switching without artifacts, and video bandwidth savings. It also integrates on-demand and live support for FLV, HLS, and dash.
+
 - ![](https://img.shields.io/github/stars/mbebenita/Broadway?style=social) [**Broadway** - A JavaScript H.264 decoder](https://github.com/mbebenita/Broadway)
 - ![](https://img.shields.io/github/stars/jwplayer/jwplayer?style=social) [**jwplayer** - May be the world's most popular embeddable media player](https://github.com/jwplayer/jwplayer)
 - ![](https://img.shields.io/github/stars/flowplayer/flowplayer?style=social) [**flowplayer** - The HTML5 video player for the web](https://github.com/flowplayer/flowplayer)
