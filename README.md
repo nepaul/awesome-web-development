@@ -186,6 +186,10 @@ In order to read the cheat sheets and reference them, use the project official w
 - ![](https://img.shields.io/github/stars/windicss/windicss?style=social) [Windi CSS: Next generation utility-first CSS framework. If you are already familiar with Tailwind CSS, think about Windi CSS as an on-demanded alternative to Tailwind, which provides faster load times, fully compatible with Tailwind v2.0 and with a bunch of additional cool features.](https://github.com/windicss/windicss)
 - [Neumorphism.io](https://github.com/adamgiebl/neumorphism): CSS code generator for a new popular design trend called Neumorphism/Soft UI. I hope this will help designers and developers experiment with it and possibly adapt it. Built with React.js
 
+**CSS-in-JS:**
+
+- ![](https://img.shields.io/github/stars/emotion-js/emotions?style=social) [emotion - The Next Generation of CSS-in-JS](https://github.com/emotion-js/emotion): Emotion is a performant and flexible CSS-in-JS library. Building on many other CSS-in-JS libraries, it allows you to style apps quickly with string or object styles. It has predictable composition to avoid specificity issues with CSS. With source maps and labels, Emotion has a great developer experience and great performance with heavy caching in production.
+
 ### JavaScript Utils
 
 - [createjs: A suite of modular libraries and tools which work together or independently to enable rich interactive content on open web technologies via HTML5.](https://createjs.com/)
