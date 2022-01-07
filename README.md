@@ -103,7 +103,7 @@ A collection of **awesome** web components.
   - [Polyfill](#polyfill)
   - [Gestures](#gestures)
   - [Screenshots](#screenshots)
-  - [AR](#ar)
+  - [AR & VR](#ar--vr)
   - [Regex](#regex)
   - [Figerprint](#figerprint)
   - [Validation](#validation)
@@ -758,10 +758,19 @@ Our platform enables frontend teams to do their best work.
 
 - 👍✨💗 [html2canvas: Screenshots with JavaScript](https://github.com/niklasvh/html2canvas/)
 
-## AR
+## AR & VR
 
-- [AR.js:
-  Efficient Augmented Reality for the Web - 60fps on mobile!](https://github.com/jeromeetienne/AR.js/)
+- ![](https://img.shields.io/github/stars/jeromeetienne/AR.js?style=social) [AR.js: Efficient Augmented Reality for the Web - 60fps on mobile!](https://github.com/jeromeetienne/AR.js/)
+- ![](https://img.shields.io/github/stars/hiukim/mind-ar-js?style=social) [MindAR](https://github.com/hiukim/mind-ar-js) - For location-based AR and marker-based AR, checkout AR.js <https://github.com/AR-js-org/AR.js>
+
+MindAR is a lightweight library for web augmented reality. Highlighted features include:
+⭐ Support Image tracking and Face tracking
+
+⭐ Written in pure javascript, end-to-end from the underlying computer vision engine to frontend
+
+⭐ Utilize gpu (through webgl) and web worker for performance
+
+⭐ Developer friendly. Easy to setup. With AFRAME extension, you can get your app starts with only 10 lines of codes
 
 ## Regex
 
