@@ -193,11 +193,12 @@ In order to read the cheat sheets and reference them, use the project official w
 
 ### JavaScript Utils
 
+- ![](https://img.shields.io/github/stars/vueuse/vueuse?style=social) [vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities.
 - [createjs: A suite of modular libraries and tools which work together or independently to enable rich interactive content on open web technologies via HTML5.](https://createjs.com/)
   - ![](https://img.shields.io/github/stars/CreateJS/SoundJS?style=social) [SoundJS: A Javascript library for working with Audio. It provides a consistent API for loading and playing audio on different browsers and devices. Currently supports WebAudio, HTML5 Audio, Cordova / PhoneGap, and a Flash fallback.](https://github.com/CreateJS/SoundJS)
-  - [EaselJS: The Easel Javascript library provides a full, hierarchical display list, a core interaction model, and helper classes to make working with the HTML5 Canvas element much easier.](https://github.com/CreateJS/EaselJS) ![](https://img.shields.io/github/stars/CreateJS/EaselJS?style=social)
-  - [PreloadJS: PreloadJS makes preloading assets & getting aggregate progress events easier in JavaScript. It uses XHR2 when available, and falls back to tag-based loading when not.](https://github.com/CreateJS/PreloadJS) ![](https://img.shields.io/github/stars/CreateJS/PreloadJS?style=social)
-  - [TweenJS: A simple but powerful tweening / animation library for Javascript. Part of the CreateJS suite of libraries.](https://github.com/CreateJS/TweenJS) ![](https://img.shields.io/github/stars/CreateJS/TweenJS?style=social)
+  - ![](https://img.shields.io/github/stars/CreateJS/EaselJS?style=social)[EaselJS: The Easel Javascript library provides a full, hierarchical display list, a core interaction model, and helper classes to make working with the HTML5 Canvas element much easier.](https://github.com/CreateJS/EaselJS)
+  - ![](https://img.shields.io/github/stars/CreateJS/PreloadJS?style=social)[PreloadJS: PreloadJS makes preloading assets & getting aggregate progress events easier in JavaScript. It uses XHR2 when available, and falls back to tag-based loading when not.](https://github.com/CreateJS/PreloadJS)
+  - ![](https://img.shields.io/github/stars/CreateJS/TweenJS?style=social)[TweenJS: A simple but powerful tweening / animation library for Javascript. Part of the CreateJS suite of libraries.](https://github.com/CreateJS/TweenJS)
 - [web-component-decorator](https://github.com/edwinm/web-component-decorator) - Lightweight TypeScript decorators for easier handling of attribute changes and cleaner code
 
 ## Designer
@@ -351,7 +352,7 @@ In order to read the cheat sheets and reference them, use the project official w
 
 - ![](https://img.shields.io/github/stars/lxgw/LxgwWenKai?style=social) [LXGW WenKai / 霞鹜文楷](https://github.com/lxgw/LxgwWenKai): An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。
 - ![](https://img.shields.io/github/stars/wordshub/free-font?style=social)  [free-font](https://github.com/wordshub/free-font):  汉字字体制作是一个庞大的工程，不同于西文字库，汉字常用字库表就有 6763 个汉字，GBK标准中共有20902 个汉字，而新出版的 GB_18064，共有六万多个字符。而且汉字的字形相对较为复杂，一套中文字体的完成需要耗费大量专业人士的精力和时间，我们倡导大家使用正版字体，为中文字体的制作创造一个良性的环境。
-  
+
   然而目前国内字体的授权体系还不是那么完善，不同的厂商对不同的使用场景都不同的授权，而授权协议里不那么好理解的专业术语往往也使用户望而却步。对于哪些刚起步的创业公司或者个人来讲动辄几千的授权费用也是一笔不小的开支，这里收录了一些在网上收集整理的可以免费商用的中文字体供大家使用。
 
 ## Datetime & Step
