@@ -459,6 +459,7 @@ In order to read the cheat sheets and reference them, use the project official w
 
 - [Quill: Your powerful rich text editor.](https://quilljs.com/)
   - [react-quill](https://www.npmjs.com/package/react-quill)
+- ![](https://img.shields.io/github/stars/PrismJS/prism?style=social) [PrismJS](https://github.com/PrismJS/prism/) - Prism is a lightweight, robust, and elegant syntax highlighting library. It's a spin-off project from Dabblet.
 - ![](https://img.shields.io/github/stars/retejs/rete?style=social) [Rete.js: JavaScript(TypeScript) framework for visual programming. Rete is a modular framework for visual programming. Rete allows you to create node-based editor directly in the browser. You can define nodes and workers that allow users to create instructions for processing data in your editor without a single line of code.](https://github.com/retejs/rete)
 
 ### Code Highlight
