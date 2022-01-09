@@ -154,6 +154,12 @@ In order to read the cheat sheets and reference them, use the project official w
 ## Framework
 
 - ![](https://img.shields.io/github/stars/sveltejs/svelte?style=social) [sveltejs: a new way to build web applications. It's a compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM.](https://github.com/sveltejs/svelte)
+  - ![](https://img.shields.io/github/stars/sveltejs/kit?style=social)[sveltejs/kit](https://github.com/sveltejs/kit) - The Fastest Way to Build Svelte Apps
+  - 💨 Blazing-Fast Production Sites
+  - 🛠️ SSR, SPA, SSG, and In-Between
+  - ⚡️ Instantly Visible Code Changes
+  - 🔩 Existing Universe of Plugins
+  - 🔑 Fully Typed APIs
 
 ### Reactive
 
