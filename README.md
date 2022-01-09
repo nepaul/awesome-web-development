@@ -41,6 +41,7 @@ A collection of **awesome** web components.
     - [Lightbox gallery](#lightbox-gallery)
     - [Static Code Checking(Lint)](#static-code-checkinglint)
   - [Font](#font)
+  - [Datetime & Step](#datetime--step)
   - [UI Kits](#ui-kits)
     - [Vue](#vue)
     - [React](#react)
@@ -352,6 +353,21 @@ In order to read the cheat sheets and reference them, use the project official w
 - ![](https://img.shields.io/github/stars/wordshub/free-font?style=social)  [free-font](https://github.com/wordshub/free-font):  汉字字体制作是一个庞大的工程，不同于西文字库，汉字常用字库表就有 6763 个汉字，GBK标准中共有20902 个汉字，而新出版的 GB_18064，共有六万多个字符。而且汉字的字形相对较为复杂，一套中文字体的完成需要耗费大量专业人士的精力和时间，我们倡导大家使用正版字体，为中文字体的制作创造一个良性的环境。
   
   然而目前国内字体的授权体系还不是那么完善，不同的厂商对不同的使用场景都不同的授权，而授权协议里不那么好理解的专业术语往往也使用户望而却步。对于哪些刚起步的创业公司或者个人来讲动辄几千的授权费用也是一笔不小的开支，这里收录了一些在网上收集整理的可以免费商用的中文字体供大家使用。
+
+## Datetime & Step
+
+- [react-chrono](https://github.com/prabhuignoto/react-chrono) - A Flexible timeline component for React.
+  ![react-chrono-showcase](https://github.com/prabhuignoto/react-chrono/raw/master/readme-assets/demo3.gif)
+  - 🚥 Render timelines in three different modes (Horizontal, Vertical, Vertical-Alternating).
+  - 📺  Auto play the timeline with the slideshow mode.
+  - 🖼️  Display Images & Videos in the timeline with ease.
+  - ⌨  Keyboard accessible.
+  - 🔧  Render custom content easily.
+  - ⚡  Data driven API.
+  - 🎨  Customize colors with ease.
+  - 🎭  Use custom icons in the timeline.
+  - 💪  Built with Typescript.
+  - 🎨  Styled with emotion.
 
 ## UI Kits
 
