@@ -673,6 +673,17 @@ Our platform enables frontend teams to do their best work.
   - Deterministic. Has a lockfile called pnpm-lock.yaml.
   - Works everywhere. Supports Windows, Linux, and macOS.
   - Battle-tested. Used in production by teams of all sizes since 2016.
+**Source Control**:
+- [simple-git-hooks](https://github.com/toplenboren/simple-git-hooks) - A tool that lets you easily manage git hooks
+  - Zero dependency
+  - Small configuration (1 object in package.json)
+  - Lightweight:
+    | Package                      | Unpacked size | With deps |
+    | ---------------------------- | ------------- | --------- |
+    | husky v4 `4.3.8`             | `53.5 kB`     | `~1 mB`   |
+    | husky v6 `6.0.0`             | `6.86 kB`     | `6.86 kB` |
+    | pre-commit `1.2.2`           | `~80 kB`      | `~850 kB` |
+    | **simple-git-hooks** `2.2.0` | `10.1 kB`     | `10.1 kB` |
 
 ## Mock
 
