@@ -1,6 +1,6 @@
 # Awesome Web Components
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/dependencies-zero-green)
 
 A collection of **awesome** web components.
 
@@ -522,6 +522,7 @@ In order to read the cheat sheets and reference them, use the project official w
 ## Color
 
 - ![](https://img.shields.io/github/stars/casesandberg/react-color?style=social) [react-color](https://github.com/casesandberg/react-color): 1. 13 Different Pickers - Sketch, Photoshop, Chrome and many more; 2.Make Your Own - Use the building block components to make your own
+- ![](https://img.shields.io/github/stars/bgrins/TinyColor?style=social) [TinyColor](https://github.com/bgrins/TinyColor) - TinyColor is a small, fast library for color manipulation and conversion in JavaScript. It allows many forms of input, while providing color conversions and other color utility functions. It has no dependencies.
 
 ## Conversational
 
