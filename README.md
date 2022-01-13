@@ -160,6 +160,14 @@ In order to read the cheat sheets and reference them, use the project official w
   - ⚡️ Instantly Visible Code Changes
   - 🔩 Existing Universe of Plugins
   - 🔑 Fully Typed APIs
+- [mitt](https://github.com/developit/mitt) - Tiny 200b functional event emitter / pubsub.
+  - Microscopic: weighs less than 200 bytes gzipped
+  - Useful: a wildcard "*" event type listens to all events
+  - Familiar: same names & ideas as Node's EventEmitter
+  - Functional: methods don't rely on this
+  - Great Name: somehow mitt wasn't taken
+
+    Mitt was made for the browser, but works in any JavaScript runtime. It has no dependencies and supports IE9+.
 
 ### Reactive
 
