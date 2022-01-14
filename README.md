@@ -233,6 +233,9 @@ In order to read the cheat sheets and reference them, use the project official w
 - [antv: AntV 是蚂蚁金服全新一代数据可视化解决方案，致力于提供一套简单
   方便、专业可靠、无限可能的数据可视化最佳实践。G2 G6 F2 L7...](https://antv.alipay.com/zh-cn/index.html)
 - <img src="https://img.shields.io/github/stars/highcharts/highcharts?style=social" height="16">[**Highcharts** - Interactive JavaScript charts for your web pages](http://www.highcharts.com/)
+- 👍[mermaid](https://github.com/mermaid-js/mermaid) - Mermaid lets you create diagrams and visualizations using text and code.
+It is a Javascript based diagramming and charting tool that renders Markdown-inspired text definitions to create and modify diagrams dynamically.
+![](https://mermaid-js.github.io/mermaid/img/header.png)
 - <img src="https://img.shields.io/github/stars/ecomfe/echarts?style=social" height="16">[**echarts** - An easy of adding intuitive, interactive, and highly customizable charts](https://github.com/ecomfe/echarts)
 - <img src="https://img.shields.io/github/stars/gionkunz/chartist-js?style=social" height="16">[**chartist-js** - Simple responsive charts](https://gionkunz.github.io/chartist-js/)
 - <img src="https://img.shields.io/github/stars/d3/d3?style=social" height="16">[**D3.js** - A JavaScript library for manipulating documents based on data using HTML, SVG and CSS](https://d3js.org/)
