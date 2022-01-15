@@ -861,12 +861,13 @@ MindAR is a lightweight library for web augmented reality. Highlighted features 
 
 ## WebAssembly
 
-- <img src="https://img.shields.io/github/stars/emscripten-core/emscripten?style=social" height="16">  [emscripten: Emscripten compiles C and C++ to WebAssembly using LLVM and Binaryen. Emscripten output can run on the Web, in Node.js, and in wasm runtimes.](https://github.com/emscripten-core/emscripten)
+- ![](https://img.shields.io/github/stars/emscripten-core/emscripten?style=social) [emscripten: Emscripten compiles C and C++ to WebAssembly using LLVM and Binaryen. Emscripten output can run on the Web, in Node.js, and in wasm runtimes.](https://github.com/emscripten-core/emscripten)
   
   Emscripten provides Web support for popular portable APIs such as OpenGL and SDL2, allowing complex graphical native applications to be ported, such as the Unity game engine and Google Earth. It can probably port your codebase, too!
 
   While Emscripten mostly focuses on compiling C and C++ using Clang, it can be integrated with other LLVM-using compilers (for example, Rust has Emscripten integration, with the wasm32-unknown-emscripten and asmjs-unknown-emscripten targets).
-- <img src="https://img.shields.io/github/stars/wasmerio/wasmer?style=social" height="16"> [Wasmer: Wasmer enables super lightweight containers based on WebAssembly that can run anywhere: from Desktop to the Cloud and IoT devices, and also embedded in any programming language.](https://github.com/wasmerio/wasmer)
+- ![](https://img.shields.io/github/stars/wasmerio/wasmer?style=social) [Wasmer: Wasmer enables super lightweight containers based on WebAssembly that can run anywhere: from Desktop to the Cloud and IoT devices, and also embedded in any programming language.](https://github.com/wasmerio/wasmer)
+- ![](https://img.shields.io/github/stars/WasmEdge/WasmEdge?style=social) [WasmEdge](https://github.com/WasmEdge/WasmEdge) - WasmEdge (previously known as SSVM) is a lightweight, high-performance, and extensible WebAssembly runtime for ❗️**cloud native, edge, and decentralized applications**❗️. It is the fastest Wasm VM today. WasmEdge is an official sandbox project hosted by the CNCF. Its use cases include serverless apps, embedded functions, microservices, smart contracts, and IoT devices.
 
 ## Admin
 
