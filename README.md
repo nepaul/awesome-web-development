@@ -8,6 +8,8 @@
 
 A collection of **awesome** web components.
 
+**Show some ❤️ and star the repo to support the project.**
+
 # Table of Contents
 
 - [Awesome Web Components](#awesome-web-components)
