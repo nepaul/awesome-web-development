@@ -82,6 +82,7 @@ A collection of **awesome** web components.
   - [Print](#print)
   - [PDF](#pdf)
   - [Sheet](#sheet)
+  - [Fingerprinting](#fingerprinting)
   - [Tools](#tools-1)
     - [Models & serializers](#models--serializers)
     - [TypeScript](#typescript)
@@ -584,6 +585,13 @@ It is a Javascript based diagramming and charting tool that renders Markdown-ins
 ## Sheet
 
 - ![](https://img.shields.io/github/stars/mengshukeji/luckysheet?style=social) [LuckySheet: 🚀Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.](https://github.com/mengshukeji/luckysheet)
+
+## Fingerprinting
+
+- ![](https://img.shields.io/github/stars/jonasstrehle/supercookie?style=social)[supercookie](https://github.com/jonasstrehle/supercookie) - Supercookie uses favicons to assign a unique identifier to website visitors.
+Unlike traditional tracking methods, this ID can be stored almost persistently and cannot be easily cleared by the user.
+
+  The tracking method works even in the browser's incognito mode and is not cleared by flushing the cache, closing the browser or restarting the operating system, using a VPN or installing AdBlockers. 🍿 Live [demo](https://supercookie.me/).
 
 ## Tools
 
