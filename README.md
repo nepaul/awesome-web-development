@@ -924,6 +924,7 @@ MindAR is a lightweight library for web augmented reality. Highlighted features 
 Your contributions and suggestions are heartily welcome.
 
 Thanks to all the people who already contributed!
+
 <a href="https://github.com/nepaul/awesome-web-components/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=nepaul/awesome-web-components" />
 </a>
