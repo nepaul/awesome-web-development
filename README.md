@@ -167,7 +167,15 @@ In order to read the cheat sheets and reference them, use the project official w
   - ⚡️ Instantly Visible Code Changes
   - 🔩 Existing Universe of Plugins
   - 🔑 Fully Typed APIs
-- [mitt](https://github.com/developit/mitt) - Tiny 200b functional event emitter / pubsub.
+- ![](https://img.shields.io/github/stars/blitz-js/blitz?style=social) [blitz - The Fullstack React Framework](https://github.com/blitz-js/blitz): "Zero-API" Data Layer — Built on Next.js — Inspired by Ruby on Rails
+
+  “Zero-API” data layer lets you import server code directly into your React components instead of having to manually add API endpoints and do client-side fetching and caching.
+
+  New Blitz apps come with all the boring stuff already set up for you! Like ESLint, Prettier, Jest, user sign up, log in, and password reset.
+
+  Provides helpful defaults and conventions for things like routing, file structure, and authentication while also being extremely flexible.
+
+- ![](https://img.shields.io/github/stars/developit/mitt?style=social)[mitt](https://github.com/developit/mitt) - Tiny 200b functional event emitter / pubsub.
   - Microscopic: weighs less than 200 bytes gzipped
   - Useful: a wildcard "*" event type listens to all events
   - Familiar: same names & ideas as Node's EventEmitter
