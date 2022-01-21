@@ -94,6 +94,7 @@ A collection of **awesome** web components.
     - [Images](#images-1)
     - [Icons](#icons)
     - [Project Manage](#project-manage)
+    - [IDE](#ide)
   - [Mock](#mock)
   - [Test](#test)
   - [CDN](#cdn)
@@ -718,6 +719,10 @@ Our platform enables frontend teams to do their best work.
     | husky v6 `6.0.0`             | `6.86 kB`     | `6.86 kB` |
     | pre-commit `1.2.2`           | `~80 kB`      | `~850 kB` |
     | **simple-git-hooks** `2.2.0` | `10.1 kB`     | `10.1 kB` |
+
+### IDE
+
+- ![](https://img.shields.io/github/stars/bytedance/IconPark?style=social) [CodeTour 🗺️](https://github.com/microsoft/codetour) - CodeTour is a Visual Studio Code extension, which allows you to record and play back guided walkthroughs of your codebases. It's like a table of contents, that can make it easier to onboard (or re-board!) to a new project/feature area, visualize bug reports, or understand the context of a code review/PR change. A "code tour" is simply a series of interactive steps, each of which are associated with a specific directory, or file/line, and include a description of the respective code. This allows developers to clone a repo, and then immediately start learning it, without needing to refer to a CONTRIBUTING.md file and/or rely on help from others. Tours can either be checked into a repo, to enable sharing with other contributors, or exported to a "tour file", which allows anyone to replay the same tour, without having to clone any code to do it!
 
 ## Mock
 
