@@ -319,17 +319,33 @@ It is a Javascript based diagramming and charting tool that renders Markdown-ins
 - [❗️ **Velocity.js** - Velocity is an animation engine with the same API as jQuery's *\$.animate()*. It works with and without jQuery. It's incredibly fast, and it features **color animation**, **transforms**, **loops**, **easings**, **SVG support**, and **scrolling**. It is the best of jQuery and CSS transitions combined](http://velocityjs.org/)
 - [**animate.css** - A cross-browser library of CSS animations. As easy to use as an easy thing](https://github.com/daneden/animate.css)
 - [:thumbsup::thumbsup::thumbsup:**AniJS** - A Library to Raise your Web Design without Coding](http://anijs.github.io/)
-- [:thumbsup:**snabbt.js** - Fast animations with Javascript and CSS transforms](https://github.com/daniel-lundin/snabbt.js)
-- [**css-loaders** - A collection of loading spinners animated with CSS](https://github.com/lukehaas/css-loaders)
-- [**Hover.css** - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.](https://github.com/IanLunn/Hover/)
-- [**Odometer** - a Javascript and CSS library for smoothly transitioning numbers](https://github.com/HubSpot/odometer)
-- [💗 💗 anime.js - JavaScript Animation Engine](https://github.com/juliangarnier/anime)
-- [SpriteJS is a cross-platform lightweight 2D render object model. Draw graphics on a canvas through simple object-oriented dom-like API. Vue & React/Preact supported.](https://github.com/spritejs/spritejs)
+
+- ![](https://img.shields.io/github/stars/IanLunn/Hover?style=social) [**Hover.css** - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.](https://github.com/IanLunn/Hover/)
+
+- ![](https://img.shields.io/github/stars/juliangarnier/anime?style=social) [💗 💗 anime.js - JavaScript Animation Engine](https://github.com/juliangarnier/anime)
+- ![](https://img.shields.io/github/stars/chenglou/react-motion?style=social)[React-Motion: A spring that solves your animation problems.](https://github.com/chenglou/react-motion)
+
 - [cssfx: A carefully crafted collection designed with a focus on fluidity, simplicity, and ease of use. Powered by **CSS with minimal markup**. Completely open source and MIT licensed.](https://cssfx.dev/)
-- [countUp.js: Animates a numerical value by counting to it](https://github.com/inorganik/CountUp.js) ![](https://img.shields.io/github/stars/inorganik/CountUp.js?style=social)
-- [dynamics.js: Dynamics.js is a JavaScript library to create physics-based animations](https://github.com/michaelvillar/dynamics.js) ![](https://img.shields.io/github/stars/michaelvillar/dynamics.js?style=social)
-- [React-Motion: A spring that solves your animation problems.](https://github.com/chenglou/react-motion) ![](https://img.shields.io/github/stars/chenglou/react-motion?style=social)
+- ![](https://img.shields.io/github/stars/inorganik/CountUp.js?style=social)[countUp.js: Animates a numerical value by counting to it](https://github.com/inorganik/CountUp.js)
+- ![](https://img.shields.io/github/stars/HubSpot/odometer?style=social) [**Odometer** - a Javascript and CSS library for smoothly transitioning numbers](https://github.com/HubSpot/odometer)
+- ![](https://img.shields.io/github/stars/michaelvillar/dynamics.js?style=social)[dynamics.js: Dynamics.js is a JavaScript library to create physics-based animations](https://github.com/michaelvillar/dynamics.js)
+- ![](https://img.shields.io/github/stars/lukehaas/css-loaders?style=social) [**css-loaders** - A collection of loading spinners animated with CSS](https://github.com/lukehaas/css-loaders)
 - ![](https://img.shields.io/github/stars/tholman/elevator.js?style=social)[elevator.js: Finally, a **"back to top"** button that behaves like a real elevator, by adding elevator music to quietly soothe the awkwardness that can ensue when being smoothly scrolled to the top of the screen.](https://github.com/tholman/elevator.js)
+- ![](https://img.shields.io/github/stars/theatre-js/theatre?style=social) [theatre](https://github.com/theatre-js/theatre) - heatre.js is an animation library for high-fidelity motion graphics. It is designed to help you express detailed animation, enabling you to create intricate movement, and convey nuance.
+
+  Theatre can be used both programmatically and visually.You can use Theatre.js to:
+  - Animate 3D objects made with THREE.js or other 3D libraries
+    ![](https://raw.githubusercontent.com/AriaMinaei/theatre-docs/main/docs/.vuepress/public/preview-3d-short.gif)
+  - Animate HTML/SVG via React or other libraries
+    ![](https://raw.githubusercontent.com/AriaMinaei/theatre-docs/main/docs/.vuepress/public/preview-dom.gif)
+  - Design micro-interactions
+    ![](https://raw.githubusercontent.com/AriaMinaei/theatre-docs/main/docs/.vuepress/public/preview-micro-interaction.gif)
+  - Choreograph generative interactive art
+    ![](https://raw.githubusercontent.com/AriaMinaei/theatre-docs/main/docs/.vuepress/public/preview-generative.gif)
+  - Or animate any other JS variable
+  ![](https://raw.githubusercontent.com/AriaMinaei/theatre-docs/main/docs/.vuepress/public/preview-console.gif)
+- ![](https://img.shields.io/github/stars/daniel-lundin/snabbt.js?style=social) [:thumbsup:**snabbt.js** - Fast animations with Javascript and CSS transforms](https://github.com/daniel-lundin/snabbt.js)
+- ![](https://img.shields.io/github/stars/spritejs/spritejs?style=social) [SpriteJS is a cross-platform lightweight 2D render object model. Draw graphics on a canvas through simple object-oriented dom-like API. Vue & React/Preact supported.](https://github.com/spritejs/spritejs)
 
 ## Images
 
