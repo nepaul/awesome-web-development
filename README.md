@@ -688,10 +688,11 @@ Our platform enables frontend teams to do their best work.
 
 ### Docs
 
-- [ESDoc - Good Documentation for JavaScript](https://github.com/esdoc/esdoc)
-- [docsify: A magical documentation site generator.](https://docsify.js.org)
-- [Docute: Effortless documentation, done right.](https://github.com/leptosia/docute)
+- ![](https://img.shields.io/github/stars/facebook/docusaurus?style=social) [facebook/docusaurus](https://github.com/facebook/docusaurus) - Docusaurus is a project for building, deploying, and maintaining open source project websites easily.
+- ![](https://img.shields.io/github/stars/docsifyjs/docsify?style=social) [docsify: A magical documentation site generator.](https://docsify.js.org)
 - ![](https://img.shields.io/github/stars/documentationjs/documentation?style=social) [documentation.js The documentation system for modern JavaScript](https://github.com/documentationjs/documentation)
+- ![](https://img.shields.io/github/stars/leptosia/docute?style=social) [Docute: Effortless documentation, done right.](https://github.com/leptosia/docute)
+- ![](https://img.shields.io/github/stars/esdoc/esdoc?style=social) [ESDoc - Good Documentation for JavaScript](https://github.com/esdoc/esdoc)
 
 ### Images
 
