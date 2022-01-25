@@ -83,6 +83,7 @@ A collection of **awesome** web components.
   - [PDF](#pdf)
   - [Sheet](#sheet)
   - [Fingerprinting](#fingerprinting)
+  - [Math](#math)
   - [Tools](#tools-1)
     - [Models & serializers](#models--serializers)
     - [TypeScript](#typescript)
@@ -122,7 +123,7 @@ A collection of **awesome** web components.
   - [Functional](#functional)
   - [Record and replay](#record-and-replay)
   - [Router](#router)
-  - [Math](#math)
+  - [Math](#math-1)
   - [WebAssembly](#webassembly)
   - [Admin](#admin)
   - [Low Code](#low-code)
@@ -618,6 +619,18 @@ It is a Javascript based diagramming and charting tool that renders Markdown-ins
 Unlike traditional tracking methods, this ID can be stored almost persistently and cannot be easily cleared by the user.
 
   The tracking method works even in the browser's incognito mode and is not cleared by flushing the cache, closing the browser or restarting the operating system, using a VPN or installing AdBlockers. 🍿 Live [demo](https://supercookie.me/).
+
+## Math
+
+- ![](https://img.shields.io/github/stars/KaTeX/KaTeX?style=social) [KaTeX](https://github.com/KaTeX/KaTeX) - KaTeX is a fast, easy-to-use JavaScript library for TeX math rendering on the web.
+  - Fast: KaTeX renders its math synchronously and doesn't need to reflow the page. See how it compares to a competitor in this speed test.
+  - Print quality: KaTeX's layout is based on Donald Knuth's TeX, the gold standard for math typesetting.
+  - Self contained: KaTeX has no dependencies and can easily be bundled with your website resources.
+  - Server side rendering: KaTeX produces the same output regardless of browser or environment, so you can pre-render expressions using Node.js and send them as plain HTML.
+
+  KaTeX is compatible with all major browsers, including Chrome, Safari, Firefox, Opera, Edge, and IE 11.
+  
+  KaTeX supports much (but not all) of LaTeX and many LaTeX packages.
 
 ## Tools
 
