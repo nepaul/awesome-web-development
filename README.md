@@ -130,6 +130,7 @@ A collection of **awesome** web components.
   - [Node](#node)
     - [Framework](#framework-1)
     - [Midddleware](#midddleware)
+    - [CLI](#cli)
   - [Open Source Apps](#open-source-apps)
   - [Contribution](#contribution)
   - [License](#license)
@@ -949,6 +950,11 @@ MindAR is a lightweight library for web augmented reality. Highlighted features 
 - ![](https://img.shields.io/github/stars/chimurai/http-proxy-middleware?style=social) [http-proxy-middleware: Node.js proxying made simple. Configure proxy middleware with ease for connect, express, browser-sync and many more.](https://github.com/chimurai/http-proxy-middleware)
 
   Powered by the popular Nodejitsu [http-proxy](https://github.com/http-party/node-http-proxy)
+
+### CLI
+
+- ![](https://img.shields.io/github/stars/dominikwilkowski/cfonts?style=social) [cfonts](https://github.com/dominikwilkowski/cfonts) - This is a silly little command line tool for sexy fonts in the console. Give your cli some love
+- .
 
 ## Open Source Apps
 
