@@ -520,6 +520,7 @@ It is a Javascript based diagramming and charting tool that renders Markdown-ins
 ### Markdown
 
 - ![](https://img.shields.io/github/stars/benweet/stackedit?style=social) ✨✨✨✨✨❤️ [stackedit: In-browser **Markdown** editor](https://github.com/benweet/stackedit)
+- 💗 ![](https://img.shields.io/github/stars/markdown-it/markdown-it?style=social) [markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser done right. Fast and easy to extend.
 - ![](https://img.shields.io/github/stars/sparksuite/simplemde-markdown-editor?style=social) [SimpleMDE - Markdown Editor](https://github.com/sparksuite/simplemde-markdown-editor): A drop-in JavaScript textarea replacement for writing beautiful and understandable Markdown. The WYSIWYG-esque editor allows users who may be less experienced with Markdown to use familiar toolbar buttons and shortcuts. In addition, the syntax is rendered while editing to clearly show the expected result. Headings are larger, emphasized words are italicized, links are underlined, etc. SimpleMDE is one of the first editors to feature both built-in autosaving and spell checking.
 - ![](https://img.shields.io/github/stars/Vanessa219/vditor?style=social) [Vditor: Vditor 是一款浏览器端的 Markdown 编辑器，支持所见即所得、即时渲染（类似 Typora）和分屏预览模式。它使用 TypeScript 实现，支持原生 JavaScript、Vue、React、Angular，提供桌面版。](https://github.com/Vanessa219/vditor)
 
