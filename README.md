@@ -232,7 +232,10 @@ In order to read the cheat sheets and reference them, use the project official w
   - ![](https://img.shields.io/github/stars/CreateJS/EaselJS?style=social)[EaselJS: The Easel Javascript library provides a full, hierarchical display list, a core interaction model, and helper classes to make working with the HTML5 Canvas element much easier.](https://github.com/CreateJS/EaselJS)
   - ![](https://img.shields.io/github/stars/CreateJS/PreloadJS?style=social)[PreloadJS: PreloadJS makes preloading assets & getting aggregate progress events easier in JavaScript. It uses XHR2 when available, and falls back to tag-based loading when not.](https://github.com/CreateJS/PreloadJS)
   - ![](https://img.shields.io/github/stars/CreateJS/TweenJS?style=social)[TweenJS: A simple but powerful tweening / animation library for Javascript. Part of the CreateJS suite of libraries.](https://github.com/CreateJS/TweenJS)
-- [web-component-decorator](https://github.com/edwinm/web-component-decorator) - Lightweight TypeScript decorators for easier handling of attribute changes and cleaner code
+- ![](https://img.shields.io/github/stars/nenadmarkus/picojs?style=social)[pico.js & lploc.js](https://github.com/nenadmarkus/picojs)
+  - pico.js: A face-detection library in 200 lines of JavaScript. approximately 200 lines of pure JavaScript;real-time detection demo available at <https://nenadmarkus.com/p/picojs-intro/demo/>
+  - lploc.js: A tiny JavaScript library for real-time localization of eye pupils.
+- ![](https://img.shields.io/github/stars/edwinm/web-component-decorator?style=social)[web-component-decorator](https://github.com/edwinm/web-component-decorator) - Lightweight TypeScript decorators for easier handling of attribute changes and cleaner code
 
 ## Designer
 
