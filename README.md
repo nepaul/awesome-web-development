@@ -703,6 +703,7 @@ Our platform enables frontend teams to do their best work.
 
 ### Monitor
 
+- ![](https://img.shields.io/github/stars/SigNoz/signoz?style=social)[signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥. 👉 Open source Application Performance Monitoring (**APM**) & Observability tool.
 - ![](https://img.shields.io/github/stars/openreplay/openreplay?style=social) [openreplay - Session replay for developers](https://github.com/openreplay/openreplay): The most advanced open-source session replay to build delightful web apps.
 
 ### Docs
