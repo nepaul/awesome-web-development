@@ -15,7 +15,7 @@ A collection of **awesome** web components.
 - [Awesome Web Components](#awesome-web-components)
 - [Table of Contents](#table-of-contents)
   - [Guidelines](#guidelines)
-  - [Some Read List](#some-read-list)
+  - [Some Reading List](#some-reading-list)
     - [WEB Security](#web-security)
     - [JavaScript](#javascript)
     - [API](#api)
@@ -142,9 +142,14 @@ A collection of **awesome** web components.
 - [**mdo code guide** Standards for developing flexible, durable, and sustainable HTML and CSS.](https://github.com/mdo/code-guide) <img src="https://img.shields.io/github/stars/mdo/code-guide?style=social" height="16">
 - [Auto Lab @JingDong: Front-End Coding Guidelines, HTML, CSS, JavaScript, Images, Names](https://guide.aotu.io/index.html)
 
-## Some Read List
+## Some Reading List
 
 - ![](https://img.shields.io/github/stars/kamranahmedse/developer-roadmap?style=social) [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- ![](https://img.shields.io/github/stars/luruke/browser-2020?style=social) [browser-2020](https://github.com/luruke/browser-2020) - This repo contains a non-exhaustive list of less-known features implemented in browsers today.
+
+  This list isn't intended for a technical audience; instead it wants to be a "I didn't know we could do that in a browser!" list.
+
+  In many cases, listed features aren't yet part of the standard, and may only be available on certain browsers or configurations.
 
 ### WEB Security
 
@@ -436,7 +441,7 @@ It is a Javascript based diagramming and charting tool that renders Markdown-ins
   - [**material-ui** - React Components that Implement Google's Material Design](https://github.com/callemall/material-ui)
 - [**bootstrap-material-design** - Material Design for Bootstrap is a theme for Bootstrap 3 which lets you use the new [Google Material Design]in your favorite front-end framework](http://fezvrasta.github.io/bootstrap-material-design/)
 - [**bulma** A **modern** CSS framework based on **Flexbox**](http://bulma.io/)
-- [**Primer CSS** - Primer is the CSS toolkit that powers GitHub's front-end design. It's purposefully limited to common components to provide our developers with the most flexibility, and to keep GitHub uniquely _GitHubby_. It's built with SCSS and available via NPM, so it's easy to include all or part of it within your own project](https://github.com/primer/primer-css)
+- [**Primer CSS** - Primer is the CSS toolkit that powers GitHub's front-end design. It's purposefully limited to common components to provide our developers with the most flexibility, and to keep GitHub uniquely *GitHubby*. It's built with SCSS and available via NPM, so it's easy to include all or part of it within your own project](https://github.com/primer/primer-css)
 - [**Semantic-UI** - A UI component framework based around useful principles from natural language.](https://github.com/semantic-org/semantic-ui/)
 
 ### Vue
