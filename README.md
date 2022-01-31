@@ -401,11 +401,11 @@ It is a Javascript based diagramming and charting tool that renders Markdown-ins
 ### Static Code Checking(Lint)
 
 - ![](https://img.shields.io/github/stars/conventional-changelog/commitlint?style=social) [commitlint](https://github.com/conventional-changelog/commitlint) - Lint commit messages:
-  
+
   🚓 Be a good commitizen
-  
+
   📦 Share configuration via npm
-  
+
   🤖 Tap into conventional-changelog
 
 ## Font
