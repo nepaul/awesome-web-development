@@ -965,7 +965,20 @@ MindAR is a lightweight library for web augmented reality. Highlighted features 
 ### CLI
 
 - ![](https://img.shields.io/github/stars/dominikwilkowski/cfonts?style=social) [cfonts](https://github.com/dominikwilkowski/cfonts) - This is a silly little command line tool for sexy fonts in the console. Give your cli some love
-- .
+- ![](https://img.shields.io/github/stars/vercel/ncc?style=social) [ncc](https://github.com/vercel/ncc) - Simple CLI for compiling a Node.js module into a single file, together with all its dependencies, gcc-style.
+
+  **Motivation**
+  - Publish minimal packages to npm
+  - Only ship relevant app code to serverless environments
+  - Don't waste time configuring bundlers
+  - Generally faster bootup time and less I/O overhead
+  - Compiled language-like experience (e.g.: go)
+
+  **Design goals**
+  - Zero configuration
+  - TypeScript built-in
+  - Only supports Node.js programs as input / output
+  - Support all Node.js patterns and npm modules
 
 ## Open Source Apps
 
