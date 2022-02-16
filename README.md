@@ -829,6 +829,8 @@ Our platform enables frontend teams to do their best work.
 
   JSMpeg can decode 720p Video at 30fps on an iPhone 5S, works in any modern browser (Chrome, Firefox, Safari, Edge) and comes in at just 20kb gzipped.
 
+- ![](https://img.shields.io/github/stars/muaz-khan/RecordRTC?style=social)[RecordRTC](https://github.com/muaz-khan/RecordRTC/): WebRTC JavaScript Library for Audio+Video+Screen+Canvas (2D+3D animation) Recording
+
 - ![](https://img.shields.io/github/stars/scottschiller/soundmanager2?style=social)  [SoundManager2:A JavaScript Sound API supporting MP3, MPEG4 and HTML5 audio + RTMP, providing reliable cross-browser/platform audio control in as little as 12 KB. BSD licensed.](https://github.com/scottschiller/soundmanager2/)
 
 ### Video Player
