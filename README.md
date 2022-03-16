@@ -218,6 +218,7 @@ In order to read the cheat sheets and reference them, use the project official w
 ### CSS Utils
 
 - ![](https://img.shields.io/github/stars/tailwindlabs/tailwindcss?style=social) [tailwindcss: Rapidly build modern websites without ever leaving your HTML. A utility-first CSS framework packed with classes like flex, pt-4, text-center and rotate-90 that can be composed to build any design, directly in your markup.](https://tailwindcss.com/)
+  - ![](https://img.shields.io/github/stars/saadeghi/daisyui?style=social) [daisyui](https://github.com/saadeghi/daisyui) - Tailwind CSS Components: Adds component classes like btn, card and more to Tailwind CSS
 - ![](https://img.shields.io/github/stars/necolas/normalize.css?style=social) [Normalize.css - A modern, HTML5-ready alternative to CSS resets. Normalize.css makes browsers render all elements more consistently and in line with modern standards. It precisely targets only the styles that need normalizing.](http://necolas.github.io/normalize.css/)
 - ![](https://img.shields.io/github/stars/jolaleye/cssfx?style=social)  [CSSFX: Beautifully simple click-to-copy CSS effects](https://github.com/jolaleye/cssfx)
 - ![](https://img.shields.io/github/stars/csstools/sanitize.css?style=social) [sanitize.css is a CSS library that provides consistent, cross-browser default styling of HTML elements alongside useful defaults. It is developed alongside normalize.css, which means every normalization is included, and every normalization and opinion are clearly marked and documented.](https://github.com/csstools/sanitize.css)
