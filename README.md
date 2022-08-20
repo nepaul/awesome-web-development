@@ -442,7 +442,7 @@ It is a Javascript based diagramming and charting tool that renders Markdown-ins
   - [**material-design-lite** - Material Design Components in HTML/CSS/JS](https://github.com/google/material-design-lite)
   - [**Materialize** - A modern responsive front-end framework based on Material Design](http://materializecss.com/)
   - [**material-ui** - React Components that Implement Google's Material Design](https://github.com/callemall/material-ui)
-- [**bootstrap-material-design** - Material Design for Bootstrap is a theme for Bootstrap 3 which lets you use the new [Google Material Design]in your favorite front-end framework](http://fezvrasta.github.io/bootstrap-material-design/)
+- [**bootstrap-material-design** - Material Design for Bootstrap is a theme for Bootstrap 3 which lets you use the new [Google Material Design]in your favorite front-end framework](https://mdbootstrap.com/)
 - [**bulma** A **modern** CSS framework based on **Flexbox**](http://bulma.io/)
 - [**Primer CSS** - Primer is the CSS toolkit that powers GitHub's front-end design. It's purposefully limited to common components to provide our developers with the most flexibility, and to keep GitHub uniquely *GitHubby*. It's built with SCSS and available via NPM, so it's easy to include all or part of it within your own project](https://github.com/primer/primer-css)
 - [**Semantic-UI** - A UI component framework based around useful principles from natural language.](https://github.com/semantic-org/semantic-ui/)
