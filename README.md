@@ -989,9 +989,15 @@ MindAR is a lightweight library for web augmented reality. Highlighted features 
 ## Open Source Apps
 
 - ![](https://img.shields.io/github/stars/marktext/marktext?style=social)  [MarkText - Next generation markdown editor](https://github.com/marktext/marktext): A simple and elegant open-source markdown editor that focused on speed and usability. Available for Linux, macOS and Windows.
+
 - ![](https://img.shields.io/github/stars/slidevjs/slidev?style=social)  [Slidev](https://github.com/slidevjs/slidev): Presentation slides for developers 🧑‍💻👩‍💻👨‍💻
+
 - ![](https://img.shields.io/github/stars/hackjutsu/Lepton?style=social) [Lepton is a lean code snippet manager powered by GitHub Gist.](https://github.com/hackjutsu/Lepton)
+
+- ![](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social) [AFFiNE](https://github.com/toeverything/AFFiNE) - The Next-Gen Knowledge Base to Replace Notion & Miro.
+
 - ![](https://img.shields.io/github/stars/tldraw/tldraw?style=social) [tldraw: a tiny little drawing app](https://github.com/tldraw/tldraw): Try it 👉 [online](https://www.tldraw.com/)
+
 - ![](https://img.shields.io/github/stars/Th3Wall/Fakeflix?style=social) [Fakeflix](https://github.com/Th3Wall/Fakeflix): a Netflix Clone built with React, Redux.
 
 - [](https://img.shields.io/github/stars/Dashibase/lotion?style=social) [lotion](https://github.com/Dashibase/lotion) - An open-source Notion UI built with Vue 3.
