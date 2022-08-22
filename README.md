@@ -998,6 +998,10 @@ MindAR is a lightweight library for web augmented reality. Highlighted features 
 
 - ![](https://img.shields.io/github/stars/tldraw/tldraw?style=social) [tldraw: a tiny little drawing app](https://github.com/tldraw/tldraw): Try it 👉 [online](https://www.tldraw.com/)
 
+- ![](https://img.shields.io/github/stars/AykutSarac/jsonvisio.com?style=social) [jsonvisio.com](https://github.com/AykutSarac/jsonvisio.com) - JSON Visio is a tool that generates graph diagrams from JSON objects. These diagrams are much easier to navigate than the textual format and to make it even more convenient, the tool also allows you to search the nodes. Additionally, the generated diagrams can also be downloaded or clipboard as image.
+
+  You can use the web version at jsonvisio.com or also run it locally as Docker container.
+
 - ![](https://img.shields.io/github/stars/Th3Wall/Fakeflix?style=social) [Fakeflix](https://github.com/Th3Wall/Fakeflix): a Netflix Clone built with React, Redux.
 
 - [](https://img.shields.io/github/stars/Dashibase/lotion?style=social) [lotion](https://github.com/Dashibase/lotion) - An open-source Notion UI built with Vue 3.
