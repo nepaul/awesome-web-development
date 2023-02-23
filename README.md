@@ -27,8 +27,8 @@ A collection of **awesome** web components.
     - [CSS Utils](#css-utils)
     - [JavaScript Utils](#javascript-utils)
   - [Designer](#designer)
-  - [Machine Learning & AI](#machine-learning--ai)
-  - [Chart & Data Visualization](#chart--data-visualization)
+  - [Machine Learning \& AI](#machine-learning--ai)
+  - [Chart \& Data Visualization](#chart--data-visualization)
   - [File](#file)
     - [Upload](#upload)
     - [Save](#save)
@@ -47,7 +47,7 @@ A collection of **awesome** web components.
     - [Lightbox gallery](#lightbox-gallery)
     - [Static Code Checking(Lint)](#static-code-checkinglint)
   - [Font](#font)
-  - [Datetime & Step](#datetime--step)
+  - [Datetime \& Step](#datetime--step)
   - [UI Kits](#ui-kits)
     - [Vue](#vue)
     - [React](#react)
@@ -68,7 +68,7 @@ A collection of **awesome** web components.
   - [Respond page](#respond-page)
   - [Touch](#touch)
   - [3D](#3d)
-  - [Scroll & Parallax](#scroll--parallax)
+  - [Scroll \& Parallax](#scroll--parallax)
   - [Search](#search)
   - [Slider|Swiper](#sliderswiper)
   - [Color](#color)
@@ -85,10 +85,10 @@ A collection of **awesome** web components.
   - [Fingerprinting](#fingerprinting)
   - [Math](#math)
   - [Tools](#tools-1)
-    - [Models & serializers](#models--serializers)
+    - [Models \& serializers](#models--serializers)
     - [TypeScript](#typescript)
     - [Debug](#debug)
-    - [APIs & Mock](#apis--mock)
+    - [APIs \& Mock](#apis--mock)
     - [Deploy](#deploy)
     - [Monitor](#monitor)
     - [Docs](#docs)
@@ -100,11 +100,11 @@ A collection of **awesome** web components.
   - [Test](#test)
   - [CDN](#cdn)
   - [HTTP Client/Request](#http-clientrequest)
-  - [Compile & Pack](#compile--pack)
+  - [Compile \& Pack](#compile--pack)
     - [Webpack](#webpack)
     - [Desktop Apps](#desktop-apps)
   - [Static Sites](#static-sites)
-  - [Audio & Video](#audio--video)
+  - [Audio \& Video](#audio--video)
     - [Video Player](#video-player)
   - [Push Notifications](#push-notifications)
   - [Universal](#universal)
@@ -113,13 +113,13 @@ A collection of **awesome** web components.
   - [Polyfill](#polyfill)
   - [Gestures](#gestures)
   - [Screenshots](#screenshots)
-  - [AR & VR](#ar--vr)
+  - [AR \& VR](#ar--vr)
   - [Regex](#regex)
   - [Figerprint](#figerprint)
   - [Validation](#validation)
   - [Boilerplate](#boilerplate)
   - [Dropload](#dropload)
-  - [Game && Engine](#game--engine)
+  - [Game \&\& Engine](#game--engine)
   - [Functional](#functional)
   - [Record and replay](#record-and-replay)
   - [Router](#router)
@@ -992,19 +992,21 @@ MindAR is a lightweight library for web augmented reality. Highlighted features 
 
 - ![](https://img.shields.io/github/stars/slidevjs/slidev?style=social)  [Slidev](https://github.com/slidevjs/slidev): Presentation slides for developers 🧑‍💻👩‍💻👨‍💻
 
-- ![](https://img.shields.io/github/stars/hackjutsu/Lepton?style=social) [Lepton is a lean code snippet manager powered by GitHub Gist.](https://github.com/hackjutsu/Lepton)
+- ![](https://img.shields.io/github/stars/AykutSarac/jsonvisio.com?style=social) [jsonvisio.com](https://github.com/AykutSarac/jsonvisio.com) - JSON Visio is a tool that generates graph diagrams from JSON objects. These diagrams are much easier to navigate than the textual format and to make it even more convenient, the tool also allows you to search the nodes. Additionally, the generated diagrams can also be downloaded or clipboard as image.
+
+  You can use the web version at jsonvisio.com or also run it locally as Docker container.
 
 - ![](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social) [AFFiNE](https://github.com/toeverything/AFFiNE) - The Next-Gen Knowledge Base to Replace Notion & Miro.
 
 - ![](https://img.shields.io/github/stars/tldraw/tldraw?style=social) [tldraw: a tiny little drawing app](https://github.com/tldraw/tldraw): Try it 👉 [online](https://www.tldraw.com/)
 
-- ![](https://img.shields.io/github/stars/AykutSarac/jsonvisio.com?style=social) [jsonvisio.com](https://github.com/AykutSarac/jsonvisio.com) - JSON Visio is a tool that generates graph diagrams from JSON objects. These diagrams are much easier to navigate than the textual format and to make it even more convenient, the tool also allows you to search the nodes. Additionally, the generated diagrams can also be downloaded or clipboard as image.
-
-  You can use the web version at jsonvisio.com or also run it locally as Docker container.
+- ![](https://img.shields.io/github/stars/hackjutsu/Lepton?style=social) [Lepton is a lean code snippet manager powered by GitHub Gist.](https://github.com/hackjutsu/Lepton)
 
 - ![](https://img.shields.io/github/stars/Th3Wall/Fakeflix?style=social) [Fakeflix](https://github.com/Th3Wall/Fakeflix): a Netflix Clone built with React, Redux.
 
 - [](https://img.shields.io/github/stars/Dashibase/lotion?style=social) [lotion](https://github.com/Dashibase/lotion) - An open-source Notion UI built with Vue 3.
+
+- [](https://img.shields.io/github/stars/wappalyzer/wappalyzer?style=social)  [wappalyzer](https://github.com/wappalyzer/wappalyzer) - Wappalyzer identifies technologies on websites, such as CMS, web frameworks, ecommerce platforms, JavaScript libraries, analytics tools and [more](https://www.wappalyzer.com/technologies).
   
 - ![](https://img.shields.io/github/stars/microsoft/clarity?style=social) [microsoft/Clarity](https://github.com/microsoft/clarity): is an open-source behavioral analytics library written in typescript, with two key goals: privacy & performance.
   It helps you understand how users view and use your website across all modern devices and browsers. Understanding how users navigate, interact and browse your website can provide new insights about your users. Empathizing with your users and seeing where features fail or succeed can help improve your product, grow revenue and improve user retention.
