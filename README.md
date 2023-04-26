@@ -1,4 +1,4 @@
-# Awesome Web Components
+# Awesome Web Development
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![](https://img.shields.io/badge/dependencies-zero-green)
@@ -6,7 +6,7 @@
 [![Pull Requests](https://img.shields.io/github/issues-pr/nepaul/awesome-web-components?logo=github&logoColor=white)](https://github.com/nepaul/awesome-web-components/pulls)
 [![Code size](https://img.shields.io/github/languages/code-size/nepaul/awesome-web-components?logo=github&logoColor=white)](https://github.com/nepaul/awesome-web-components)
 
-A collection of **awesome** web components.
+A collection of **awesome** web development resources.
 
 **Show some ❤️ and star the repo to support the project.**
 
