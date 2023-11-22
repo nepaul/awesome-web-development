@@ -12,7 +12,7 @@ A collection of **awesome** web development resources.
 
 # Table of Contents
 
-- [Awesome Web Components](#awesome-web-components)
+- [Awesome Web Development](#awesome-web-development)
 - [Table of Contents](#table-of-contents)
   - [Guidelines](#guidelines)
   - [Some Reading List](#some-reading-list)
@@ -492,6 +492,8 @@ It is a Javascript based diagramming and charting tool that renders Markdown-ins
 - [**popper.js** - A kickass library to manage your poppers](https://github.com/FezVrasta/popper.js)
 
 ## Drag
+
+- ![](https://img.shields.io/github/stars/Alfred-Skyblue/vue-draggable-plus?style=social) [vue-draggable-plus](https://github.com/Alfred-Skyblue/vue-draggable-plus) - Drag and drop sorting module, support Vue>=v3 or Vue>=2.7
 
 - [**Dragula** - Browser support includes every sane browser and **IE7+**. Framework support includes vanilla JavaScript, Angular, and React](https://github.com/bevacqua/dragula)
 - [Vue.Draggable: Vue component allowing drag-and-drop sorting in sync with View-Model. Based on Sortable.js](https://github.com/SortableJS/Vue.Draggable)
