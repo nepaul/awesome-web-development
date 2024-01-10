@@ -1017,6 +1017,8 @@ MindAR is a lightweight library for web augmented reality. Highlighted features 
 
   We encourage the community to join us in building the best behavioral analytics library, that puts privacy first and prioritizes performance.
 
+- ![](https://img.shields.io/github/stars/Idered/chalk.ist?style=social)  [chalk.ist](https://github.com/Idered/chalk.ist) - Create beautiful images of your source code
+
 ## Contribution
 
 Your contributions and suggestions are heartily welcome.
