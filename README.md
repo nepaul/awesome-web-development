@@ -23,9 +23,9 @@ A collection of **awesome** web development resources.
     - [Reactive](#reactive)
   - [Prototypes sites](#prototypes-sites)
   - [Web Workers](#web-workers)
-  - [Utils](#utils)
-    - [CSS Utils](#css-utils)
-    - [JavaScript Utils](#javascript-utils)
+  - [Utilities](#utilities)
+    - [CSS](#css)
+    - [JavaScript](#javascript-1)
   - [Designer](#designer)
   - [Machine Learning \& AI](#machine-learning--ai)
   - [Chart \& Data Visualization](#chart--data-visualization)
@@ -213,9 +213,9 @@ In order to read the cheat sheets and reference them, use the project official w
   
   See <https://miniflare.dev> for more detailed documentation.
 
-## Utils
+## Utilities
 
-### CSS Utils
+### CSS
 
 - ![](https://img.shields.io/github/stars/tailwindlabs/tailwindcss?style=social) [tailwindcss: Rapidly build modern websites without ever leaving your HTML. A utility-first CSS framework packed with classes like flex, pt-4, text-center and rotate-90 that can be composed to build any design, directly in your markup.](https://tailwindcss.com/)
   - ![](https://img.shields.io/github/stars/saadeghi/daisyui?style=social) [daisyui](https://github.com/saadeghi/daisyui) - Tailwind CSS Components: Adds component classes like btn, card and more to Tailwind CSS
@@ -230,7 +230,7 @@ In order to read the cheat sheets and reference them, use the project official w
 
 - ![](https://img.shields.io/github/stars/emotion-js/emotions?style=social) [emotion - The Next Generation of CSS-in-JS](https://github.com/emotion-js/emotion): Emotion is a performant and flexible CSS-in-JS library. Building on many other CSS-in-JS libraries, it allows you to style apps quickly with string or object styles. It has predictable composition to avoid specificity issues with CSS. With source maps and labels, Emotion has a great developer experience and great performance with heavy caching in production.
 
-### JavaScript Utils
+### JavaScript
 
 - ![](https://img.shields.io/github/stars/vueuse/vueuse?style=social) [vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities.
 - [createjs: A suite of modular libraries and tools which work together or independently to enable rich interactive content on open web technologies via HTML5.](https://createjs.com/)
@@ -241,7 +241,7 @@ In order to read the cheat sheets and reference them, use the project official w
 - ![](https://img.shields.io/github/stars/nenadmarkus/picojs?style=social)[pico.js & lploc.js](https://github.com/nenadmarkus/picojs)
   - pico.js: A face-detection library in 200 lines of JavaScript. approximately 200 lines of pure JavaScript;real-time detection demo available at <https://nenadmarkus.com/p/picojs-intro/demo/>
   - lploc.js: A tiny JavaScript library for real-time localization of eye pupils.
-- ![](https://img.shields.io/github/stars/edwinm/web-component-decorator?style=social)[web-component-decorator](https://github.com/edwinm/web-component-decorator) - Lightweight TypeScript decorators for easier handling of attribute changes and cleaner code
+- ![](https://img.shields.io/github/stars/rayepps/radash?style=social) [radash](https://github.com/rayepps/radash) - unctional utility library - modern, simple, typed, powerful
 
 ## Designer
 
