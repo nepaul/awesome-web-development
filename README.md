@@ -285,6 +285,7 @@ It is a Javascript based diagramming and charting tool that renders Markdown-ins
 
 ### Upload
 
+- <img src="https://img.shields.io/github/stars/react-dropzone/react-dropzone?style=social" height="16"> [react-dropzone](https://github.com/react-dropzone/react-dropzone) - Simple React hook to create a HTML5-compliant drag'n'drop zone for files.
 - [**dropzonejs** - an open source library that provides drag’n’drop file uploads with image previews](http://www.dropzonejs.com/)
 - [**jQuery File Upload Plugin**](https://github.com/blueimp/jQuery-File-Upload)
 - [Web Uploader - 一个以 HTML5 为主 FLASH 为辅, 各种老旧浏览器兼容性好(IE6+ Andorid 4+ IOS 6+)](https://github.com/fex-team/webuploader)
