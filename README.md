@@ -127,7 +127,8 @@ A collection of **awesome** web development resources.
   - [Math](#math-1)
   - [WebAssembly](#webassembly)
   - [Admin](#admin)
-  - [Low Code](#low-code)
+  - [No/Low Code](#nolow-code)
+    - [CMS](#cms)
   - [Node](#node)
     - [Framework](#framework-1)
     - [Midddleware](#midddleware)
@@ -955,10 +956,14 @@ MindAR is a lightweight library for web augmented reality. Highlighted features 
 
 - ![](https://img.shields.io/github/stars/PanJiaChen/vue-element-admin?style=social) [vue element admin: vue-element-admin is a production-ready front-end solution for admin interfaces. It is based on vue and uses the UI Toolkit element-ui.](https://github.com/PanJiaChen/vue-element-admin)
 
-## Low Code
+## No/Low Code
 
 - ![](https://img.shields.io/github/stars/artf/grapesjs?style=social) [grapesjs](https://github.com/artf/grapesjs): is a free and open source Web Builder Framework which helps building HTML templates, faster and easily, to be delivered in sites, newsletters or mobile apps. Mainly, GrapesJS was designed to be used inside a CMS to speed up the creation of dynamic templates.
 - ![](https://img.shields.io/github/stars/ly525/luban-h5?style=social) [luban-h5](https://github.com/ly525/luban-h5): Mobile Page Builder&Generator with Drag&Drop
+
+### CMS
+
+- ![](https://img.shields.io/github/stars/strapi/strapi?style=social) [strapi](https://github.com/strapi/strapi): Strapi is a free and open-source headless CMS. It’s 100% JavaScript, fully customizable, and developer-first.
 
 ## Node
 
