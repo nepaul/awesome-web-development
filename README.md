@@ -16,7 +16,7 @@ A collection of **awesome** web development resources.
 - [Table of Contents](#table-of-contents)
   - [Guidelines](#guidelines)
   - [Some Reading List](#some-reading-list)
-    - [WEB Security](#web-security)
+    - [Web Security](#web-security)
     - [JavaScript](#javascript)
     - [API](#api)
   - [Framework](#framework)
@@ -153,7 +153,7 @@ A collection of **awesome** web development resources.
 
   In many cases, listed features aren't yet part of the standard, and may only be available on certain browsers or configurations.
 
-### WEB Security
+### Web Security
 
 - ![](https://img.shields.io/github/stars/OWASP/CheatSheetSeries?style=social) [OWASP Cheat Sheet Series](https://github.com/OWASP/CheatSheetSeries): the official repository for the Open Web Application Security Project® (OWASP) Cheat Sheet Series project. The project focuses on providing good security practices for builders in order to secure their applications.
 
