@@ -134,6 +134,7 @@ A collection of **awesome** web development resources.
     - [Midddleware](#midddleware)
     - [CLI](#cli)
   - [Open Source Apps](#open-source-apps)
+  - [News and Training](#news-and-training)
   - [Contribution](#contribution)
   - [License](#license)
 
@@ -1035,6 +1036,24 @@ MindAR is a lightweight library for web augmented reality. Highlighted features 
   We encourage the community to join us in building the best behavioral analytics library, that puts privacy first and prioritizes performance.
 
 - ![](https://img.shields.io/github/stars/Idered/chalk.ist?style=social)  [chalk.ist](https://github.com/Idered/chalk.ist) - Create beautiful images of your source code
+
+## News and Training
+
+- [CSS-Tricks](https://css-tricks.com/) - A “website about making websites”
+
+- [Frontend Dogma](https://frontenddogma.com/) - News and tools for frontend (and web) developers
+
+- [Frontend Focus](https://frontendfoc.us/) - A weekly newsletter for frontend developers
+
+- [Frontend Masters](https://frontendmasters.com/blog/) - Web development articles
+
+- [MDN Web Docs](https://developer.mozilla.org/) - Resources for web developers
+
+- [SitePoint](https://www.sitepoint.com/blog/) - Updates on current web development trends and technologies
+
+- [Smashing Magazine](https://www.smashingmagazine.com/) - Magazine for web designers and developers
+
+- [WebGlossary.info](https://webglossary.info/) - A glossary of (thousands of) web development terms
 
 ## Contribution
 
