@@ -116,7 +116,7 @@ A collection of **awesome** web development resources.
   - [Screenshots](#screenshots)
   - [AR \& VR](#ar--vr)
   - [Regex](#regex)
-  - [Figerprint](#figerprint)
+  - [Fingerprint](#fingerprint)
   - [Validation](#validation)
   - [Boilerplate](#boilerplate)
   - [Dropload](#dropload)
@@ -906,7 +906,7 @@ MindAR is a lightweight library for web augmented reality. Highlighted features 
 
 - [XRegExp provides augmented (and extensible) JavaScript regular expressions. You get modern syntax and flags beyond what browsers support natively. XRegExp is also a regex utility belt with tools to make your grepping and parsing easier, while freeing you from regex cross-browser inconsistencies and other annoyances.XRegExp supports all native ES6 regular expression syntax. It supports ES5+ browsers, and you can use it with Node.js or as a RequireJS module.](https://github.com/slevithan/xregexp)
 
-## Figerprint
+## Fingerprint
 
 - [Fingerprintjs2: odern & flexible browser fingerprinting library](http://valve.github.io/fingerprintjs2/)
 
