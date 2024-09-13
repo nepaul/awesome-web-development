@@ -134,6 +134,7 @@ A collection of **awesome** web development resources.
     - [Midddleware](#midddleware)
     - [CLI](#cli)
   - [Open Source Apps](#open-source-apps)
+  - [Landing page templates](#landing-page-templates)
   - [Contribution](#contribution)
   - [License](#license)
 
@@ -1035,6 +1036,10 @@ MindAR is a lightweight library for web augmented reality. Highlighted features 
   We encourage the community to join us in building the best behavioral analytics library, that puts privacy first and prioritizes performance.
 
 - ![](https://img.shields.io/github/stars/Idered/chalk.ist?style=social)  [chalk.ist](https://github.com/Idered/chalk.ist) - Create beautiful images of your source code
+
+## Landing page templates
+
+- ![](https://img.shields.io/github/stars/all-in-aigc/pagen-ai-landing-page-template?style=social) [Pagen AI Landing Page Template](https://github.com/all-in-aigc/pagen-ai-landing-page-template) - It is built with Next.js and Shadcn UI.
 
 ## Contribution
 
