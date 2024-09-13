@@ -1027,7 +1027,7 @@ MindAR is a lightweight library for web augmented reality. Highlighted features 
 - [](https://img.shields.io/github/stars/Dashibase/lotion?style=social) [lotion](https://github.com/Dashibase/lotion) - An open-source Notion UI built with Vue 3.
 
 - [](https://img.shields.io/github/stars/wappalyzer/wappalyzer?style=social)  [wappalyzer](https://github.com/wappalyzer/wappalyzer) - Wappalyzer identifies technologies on websites, such as CMS, web frameworks, ecommerce platforms, JavaScript libraries, analytics tools and [more](https://www.wappalyzer.com/technologies).
-  
+
 - ![](https://img.shields.io/github/stars/microsoft/clarity?style=social) [microsoft/Clarity](https://github.com/microsoft/clarity): is an open-source behavioral analytics library written in typescript, with two key goals: privacy & performance.
   It helps you understand how users view and use your website across all modern devices and browsers. Understanding how users navigate, interact and browse your website can provide new insights about your users. Empathizing with your users and seeing where features fail or succeed can help improve your product, grow revenue and improve user retention.
 
