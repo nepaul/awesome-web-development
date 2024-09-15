@@ -57,7 +57,7 @@ A collection of **awesome** web development resources.
   - [Input](#input)
   - [Modal](#modal)
   - [Popper](#popper)
-  - [Drag](#drag)
+  - [Drag and Drop](#drag-and-drop)
     - [Flip](#flip)
   - [Menus](#menus)
   - [Editor](#editor)
@@ -495,7 +495,9 @@ It is a Javascript based diagramming and charting tool that renders Markdown-ins
 - [**webui-popover** - A lightWeight popover plugin with jquery, enchance the popover plugin of bootstrap with some awesome new features. It works well with bootstrap, but bootstrap is not necessary!](https://github.com/sandywalker/webui-popover)
 - [**popper.js** - A kickass library to manage your poppers](https://github.com/FezVrasta/popper.js)
 
-## Drag
+## Drag and Drop
+
+- ![](https://img.shields.io/github/stars/TahaSh/swapy?style=social) [swapy](https://github.com/TahaSh/swapy) - A framework-agnostic tool that converts any layout into a drag-to-swap one with just a few lines of code
 
 - ![](https://img.shields.io/github/stars/Alfred-Skyblue/vue-draggable-plus?style=social) [vue-draggable-plus](https://github.com/Alfred-Skyblue/vue-draggable-plus) - Drag and drop sorting module, support Vue>=v3 or Vue>=2.7
 
@@ -768,6 +770,7 @@ Our platform enables frontend teams to do their best work.
   - Zero dependency
   - Small configuration (1 object in package.json)
   - Lightweight:
+
     | Package                      | Unpacked size | With deps |
     | ---------------------------- | ------------- | --------- |
     | husky v4 `4.3.8`             | `53.5 kB`     | `~1 mB`   |
