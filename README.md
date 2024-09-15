@@ -241,7 +241,7 @@ In order to read the cheat sheets and reference them, use the project official w
 
 **CSS-in-JS:**
 
-- ![](https://img.shields.io/github/stars/emotion-js/emotions?style=social) [emotion - The Next Generation of CSS-in-JS](https://github.com/emotion-js/emotion): Emotion is a performant and flexible CSS-in-JS library. Building on many other CSS-in-JS libraries, it allows you to style apps quickly with string or object styles. It has predictable composition to avoid specificity issues with CSS. With source maps and labels, Emotion has a great developer experience and great performance with heavy caching in production.
+- ![](https://img.shields.io/github/stars/emotion-js/emotion?style=social) [emotion - The Next Generation of CSS-in-JS](https://github.com/emotion-js/emotion): Emotion is a performant and flexible CSS-in-JS library. Building on many other CSS-in-JS libraries, it allows you to style apps quickly with string or object styles. It has predictable composition to avoid specificity issues with CSS. With source maps and labels, Emotion has a great developer experience and great performance with heavy caching in production.
 
 ### JavaScript
 
