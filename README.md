@@ -135,6 +135,7 @@ A collection of **awesome** web development resources.
     - [CLI](#cli)
   - [Open Source Apps](#open-source-apps)
   - [Landing page templates](#landing-page-templates)
+  - [Commerce Apps](#commerce-apps)
   - [Contribution](#contribution)
   - [License](#license)
 
@@ -1043,6 +1044,10 @@ MindAR is a lightweight library for web augmented reality. Highlighted features 
 ## Landing page templates
 
 - ![](https://img.shields.io/github/stars/all-in-aigc/pagen-ai-landing-page-template?style=social) [Pagen AI Landing Page Template](https://github.com/all-in-aigc/pagen-ai-landing-page-template) - It is built with Next.js and Shadcn UI.
+
+## Commerce Apps
+
+- ![](https://img.shields.io/github/stars/yournextstore/yournextstore?style=social) [yournextstore](https://github.com/yournextstore/yournextstore) - Modern Commerce with Next.js and Stripe as the backend.
 
 ## Contribution
 
