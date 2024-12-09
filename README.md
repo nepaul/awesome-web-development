@@ -329,6 +329,7 @@ It is a Javascript based diagramming and charting tool that renders Markdown-ins
 
 - [**toastr** - A Javascript library fo non-blocking notifications](https://github.com/CodeSeven/toastr)
 - [Angular Toastr](https://github.com/Foxandxss/angular-toastr)
+- [sonner](https://github.com/emilkowalski/sonner) is an opinionated toast component for React..
 
 ## Alert
 
