@@ -25,6 +25,7 @@ A collection of **awesome** web development resources.
   - [Web Workers](#web-workers)
   - [Utilities](#utilities)
     - [CSS](#css)
+      - [Neumorphism](#neumorphism)
     - [JavaScript](#javascript-1)
   - [Designer](#designer)
   - [Machine Learning \& AI](#machine-learning--ai)
@@ -57,7 +58,7 @@ A collection of **awesome** web development resources.
   - [Input](#input)
   - [Modal](#modal)
   - [Popper](#popper)
-  - [Drag](#drag)
+  - [Drag and Drop](#drag-and-drop)
     - [Flip](#flip)
   - [Menus](#menus)
   - [Editor](#editor)
@@ -135,6 +136,8 @@ A collection of **awesome** web development resources.
     - [CLI](#cli)
   - [Open Source Apps](#open-source-apps)
   - [News and Training](#news-and-training)
+  - [Landing page templates](#landing-page-templates)
+  - [Commerce Apps](#commerce-apps)
   - [Contribution](#contribution)
   - [License](#license)
 
@@ -226,12 +229,20 @@ In order to read the cheat sheets and reference them, use the project official w
 - ![](https://img.shields.io/github/stars/jolaleye/cssfx?style=social)  [CSSFX: Beautifully simple click-to-copy CSS effects](https://github.com/jolaleye/cssfx)
 - ![](https://img.shields.io/github/stars/csstools/sanitize.css?style=social) [sanitize.css is a CSS library that provides consistent, cross-browser default styling of HTML elements alongside useful defaults. It is developed alongside normalize.css, which means every normalization is included, and every normalization and opinion are clearly marked and documented.](https://github.com/csstools/sanitize.css)
 - ![](https://img.shields.io/github/stars/windicss/windicss?style=social) [Windi CSS: Next generation utility-first CSS framework. If you are already familiar with Tailwind CSS, think about Windi CSS as an on-demanded alternative to Tailwind, which provides faster load times, fully compatible with Tailwind v2.0 and with a bunch of additional cool features.](https://github.com/windicss/windicss)
-- [Neumorphism.io](https://github.com/adamgiebl/neumorphism): CSS code generator for a new popular design trend called Neumorphism/Soft UI. I hope this will help designers and developers experiment with it and possibly adapt it. Built with React.js
+
 - ![](https://img.shields.io/github/stars/codeAdrian/clay.css?style=social) 💗❤️[clay.css](https://github.com/codeAdrian/clay.css) - Micro CSS util class for applying inflated fluffy 3D claymorphism styles to elements. Fully customizable and extensible with CSS variables. SASS mixin is also included for even more styling options.
+
+#### Neumorphism
+
+- ![](https://img.shields.io/github/stars/adamgiebl/neumorphism?style=social) [neumorphism.io](https://github.com/adamgiebl/neumorphism): CSS code generator for a new popular design trend called Neumorphism/Soft UI. I hope this will help designers and developers experiment with it and possibly adapt it. Built with React.js
+
+- ![](https://img.shields.io/github/stars/AKAspanion/ui-neumorphism?style=social) [ui-neumorphism](https://github.com/AKAspanion/ui-neumorphism) - 📕 React component library designed on the "new skeuomorphism" or "neumorphism" UI/UX trend.
+
+- ![](https://img.shields.io/github/stars/sambeevors/tailwindcss-neumorphism?style=social) [tailwindcss-neumorphism](https://github.com/sambeevors/tailwindcss-neumorphism) - Generate soft UI CSS code using tailwindcss
 
 **CSS-in-JS:**
 
-- ![](https://img.shields.io/github/stars/emotion-js/emotions?style=social) [emotion - The Next Generation of CSS-in-JS](https://github.com/emotion-js/emotion): Emotion is a performant and flexible CSS-in-JS library. Building on many other CSS-in-JS libraries, it allows you to style apps quickly with string or object styles. It has predictable composition to avoid specificity issues with CSS. With source maps and labels, Emotion has a great developer experience and great performance with heavy caching in production.
+- ![](https://img.shields.io/github/stars/emotion-js/emotion?style=social) [emotion - The Next Generation of CSS-in-JS](https://github.com/emotion-js/emotion): Emotion is a performant and flexible CSS-in-JS library. Building on many other CSS-in-JS libraries, it allows you to style apps quickly with string or object styles. It has predictable composition to avoid specificity issues with CSS. With source maps and labels, Emotion has a great developer experience and great performance with heavy caching in production.
 
 ### JavaScript
 
@@ -319,6 +330,7 @@ It is a Javascript based diagramming and charting tool that renders Markdown-ins
 
 - [**toastr** - A Javascript library fo non-blocking notifications](https://github.com/CodeSeven/toastr)
 - [Angular Toastr](https://github.com/Foxandxss/angular-toastr)
+- [sonner](https://github.com/emilkowalski/sonner) is an opinionated toast component for React..
 
 ## Alert
 
@@ -495,7 +507,9 @@ It is a Javascript based diagramming and charting tool that renders Markdown-ins
 - [**webui-popover** - A lightWeight popover plugin with jquery, enchance the popover plugin of bootstrap with some awesome new features. It works well with bootstrap, but bootstrap is not necessary!](https://github.com/sandywalker/webui-popover)
 - [**popper.js** - A kickass library to manage your poppers](https://github.com/FezVrasta/popper.js)
 
-## Drag
+## Drag and Drop
+
+- ![](https://img.shields.io/github/stars/TahaSh/swapy?style=social) [swapy](https://github.com/TahaSh/swapy) - A framework-agnostic tool that converts any layout into a drag-to-swap one with just a few lines of code
 
 - ![](https://img.shields.io/github/stars/Alfred-Skyblue/vue-draggable-plus?style=social) [vue-draggable-plus](https://github.com/Alfred-Skyblue/vue-draggable-plus) - Drag and drop sorting module, support Vue>=v3 or Vue>=2.7
 
@@ -768,6 +782,7 @@ Our platform enables frontend teams to do their best work.
   - Zero dependency
   - Small configuration (1 object in package.json)
   - Lightweight:
+
     | Package                      | Unpacked size | With deps |
     | ---------------------------- | ------------- | --------- |
     | husky v4 `4.3.8`             | `53.5 kB`     | `~1 mB`   |
@@ -1027,7 +1042,7 @@ MindAR is a lightweight library for web augmented reality. Highlighted features 
 - [](https://img.shields.io/github/stars/Dashibase/lotion?style=social) [lotion](https://github.com/Dashibase/lotion) - An open-source Notion UI built with Vue 3.
 
 - [](https://img.shields.io/github/stars/wappalyzer/wappalyzer?style=social)  [wappalyzer](https://github.com/wappalyzer/wappalyzer) - Wappalyzer identifies technologies on websites, such as CMS, web frameworks, ecommerce platforms, JavaScript libraries, analytics tools and [more](https://www.wappalyzer.com/technologies).
-  
+
 - ![](https://img.shields.io/github/stars/microsoft/clarity?style=social) [microsoft/Clarity](https://github.com/microsoft/clarity): is an open-source behavioral analytics library written in typescript, with two key goals: privacy & performance.
   It helps you understand how users view and use your website across all modern devices and browsers. Understanding how users navigate, interact and browse your website can provide new insights about your users. Empathizing with your users and seeing where features fail or succeed can help improve your product, grow revenue and improve user retention.
 
@@ -1054,6 +1069,14 @@ MindAR is a lightweight library for web augmented reality. Highlighted features 
 - [Smashing Magazine](https://www.smashingmagazine.com/) - Magazine for web designers and developers
 
 - [WebGlossary.info](https://webglossary.info/) - A glossary of (thousands of) web development terms
+
+## Landing page templates
+
+- ![](https://img.shields.io/github/stars/all-in-aigc/pagen-ai-landing-page-template?style=social) [Pagen AI Landing Page Template](https://github.com/all-in-aigc/pagen-ai-landing-page-template) - It is built with Next.js and Shadcn UI.
+
+## Commerce Apps
+
+- ![](https://img.shields.io/github/stars/yournextstore/yournextstore?style=social) [yournextstore](https://github.com/yournextstore/yournextstore) - Modern Commerce with Next.js and Stripe as the backend.
 
 ## Contribution
 
