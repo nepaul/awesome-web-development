@@ -16,7 +16,7 @@ A collection of **awesome** web development resources.
 - [Table of Contents](#table-of-contents)
   - [Guidelines](#guidelines)
   - [Some Reading List](#some-reading-list)
-    - [WEB Security](#web-security)
+    - [Web Security](#web-security)
     - [JavaScript](#javascript)
     - [API](#api)
   - [Framework](#framework)
@@ -117,7 +117,7 @@ A collection of **awesome** web development resources.
   - [Screenshots](#screenshots)
   - [AR \& VR](#ar--vr)
   - [Regex](#regex)
-  - [Figerprint](#figerprint)
+  - [Fingerprint](#fingerprint)
   - [Validation](#validation)
   - [Boilerplate](#boilerplate)
   - [Dropload](#dropload)
@@ -135,6 +135,7 @@ A collection of **awesome** web development resources.
     - [Midddleware](#midddleware)
     - [CLI](#cli)
   - [Open Source Apps](#open-source-apps)
+  - [News and Training](#news-and-training)
   - [Landing page templates](#landing-page-templates)
   - [Commerce Apps](#commerce-apps)
   - [Contribution](#contribution)
@@ -156,7 +157,7 @@ A collection of **awesome** web development resources.
 
   In many cases, listed features aren't yet part of the standard, and may only be available on certain browsers or configurations.
 
-### WEB Security
+### Web Security
 
 - ![](https://img.shields.io/github/stars/OWASP/CheatSheetSeries?style=social) [OWASP Cheat Sheet Series](https://github.com/OWASP/CheatSheetSeries): the official repository for the Open Web Application Security Project® (OWASP) Cheat Sheet Series project. The project focuses on providing good security practices for builders in order to secure their applications.
 
@@ -921,7 +922,7 @@ MindAR is a lightweight library for web augmented reality. Highlighted features 
 
 - [XRegExp provides augmented (and extensible) JavaScript regular expressions. You get modern syntax and flags beyond what browsers support natively. XRegExp is also a regex utility belt with tools to make your grepping and parsing easier, while freeing you from regex cross-browser inconsistencies and other annoyances.XRegExp supports all native ES6 regular expression syntax. It supports ES5+ browsers, and you can use it with Node.js or as a RequireJS module.](https://github.com/slevithan/xregexp)
 
-## Figerprint
+## Fingerprint
 
 - [Fingerprintjs2: odern & flexible browser fingerprinting library](http://valve.github.io/fingerprintjs2/)
 
@@ -1050,6 +1051,24 @@ MindAR is a lightweight library for web augmented reality. Highlighted features 
   We encourage the community to join us in building the best behavioral analytics library, that puts privacy first and prioritizes performance.
 
 - ![](https://img.shields.io/github/stars/Idered/chalk.ist?style=social)  [chalk.ist](https://github.com/Idered/chalk.ist) - Create beautiful images of your source code
+
+## News and Training
+
+- [CSS-Tricks](https://css-tricks.com/) - A “website about making websites”
+
+- [Frontend Dogma](https://frontenddogma.com/) - News and tools for frontend (and web) developers
+
+- [Frontend Focus](https://frontendfoc.us/) - A weekly newsletter for frontend developers
+
+- [Frontend Masters](https://frontendmasters.com/blog/) - Web development articles
+
+- [MDN Web Docs](https://developer.mozilla.org/) - Resources for web developers
+
+- [SitePoint](https://www.sitepoint.com/blog/) - Updates on current web development trends and technologies
+
+- [Smashing Magazine](https://www.smashingmagazine.com/) - Magazine for web designers and developers
+
+- [WebGlossary.info](https://webglossary.info/) - A glossary of (thousands of) web development terms
 
 ## Landing page templates
 
