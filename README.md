@@ -229,8 +229,9 @@ In order to read the cheat sheets and reference them, use the project official w
 - ![](https://img.shields.io/github/stars/jolaleye/cssfx?style=social)  [CSSFX: Beautifully simple click-to-copy CSS effects](https://github.com/jolaleye/cssfx)
 - ![](https://img.shields.io/github/stars/csstools/sanitize.css?style=social) [sanitize.css is a CSS library that provides consistent, cross-browser default styling of HTML elements alongside useful defaults. It is developed alongside normalize.css, which means every normalization is included, and every normalization and opinion are clearly marked and documented.](https://github.com/csstools/sanitize.css)
 - ![](https://img.shields.io/github/stars/windicss/windicss?style=social) [Windi CSS: Next generation utility-first CSS framework. If you are already familiar with Tailwind CSS, think about Windi CSS as an on-demanded alternative to Tailwind, which provides faster load times, fully compatible with Tailwind v2.0 and with a bunch of additional cool features.](https://github.com/windicss/windicss)
-
 - ![](https://img.shields.io/github/stars/codeAdrian/clay.css?style=social) 💗❤️[clay.css](https://github.com/codeAdrian/clay.css) - Micro CSS util class for applying inflated fluffy 3D claymorphism styles to elements. Fully customizable and extensible with CSS variables. SASS mixin is also included for even more styling options.
+
+- [**CodeFronts**: Hand-coded, copy-paste CSS components, layouts, and effects — plus an in-browser playground.](https://codefronts.com/)
 
 #### Neumorphism
 
