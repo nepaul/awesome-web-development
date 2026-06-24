@@ -980,6 +980,7 @@ MindAR is a lightweight library for web augmented reality. Highlighted features 
 ### CMS
 
 - ![](https://img.shields.io/github/stars/strapi/strapi?style=social) [strapi](https://github.com/strapi/strapi): Strapi is a free and open-source headless CMS. It’s 100% JavaScript, fully customizable, and developer-first.
+- ![](https://img.shields.io/github/stars/hpakdaman/unfoldcms?style=social) [UnfoldCMS](https://github.com/hpakdaman/unfoldcms): Self-hosted CMS built on Laravel 12 + React 19 + shadcn/ui. Headless REST API v1 (42 endpoints), HMAC-signed webhooks, and native integrations for Next.js, Astro, SvelteKit, and Nuxt. One-time pricing, no subscriptions.
 
 ## Node
 
