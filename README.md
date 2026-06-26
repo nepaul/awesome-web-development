@@ -392,6 +392,7 @@ It is a Javascript based diagramming and charting tool that renders Markdown-ins
  [webp2jpg-online: Online image format converter, jpeg, jpg, PNG, Gif, webp, svg, ICO, bmp files into Jpeg, PNG, webp, ICO, gif files. The conversion can be done locally without uploading the file Online picture format converter, can convert jpeg, jpg, png, gif, webp, svg, ico, bmp files into jpeg, png, webp, ico, gif files. No need to upload files, conversion can be done locally](https://github.com/renzhezhilu/webp2jpg-online)
 - ![](https://img.shields.io/github/stars/joe-bell/plaiceholder?style=social)
  [plaiceholder](https://github.com/joe-bell/plaiceholder): "Plaiceholder" is a collection of Node.js helpers for creating low quality image placeholders, with several approaches to choose from: 1. CSS (recommended); 2. SVG; 3. Base64; 4. Blurehash; 5. Blurehash to CSS(Experimental 🧪)
+ - [Fixzi](https://fixzi.com) - Browser-based API response validator with JSON/XML validation, JWT decoding, Base64 encoding/decoding, and developer utilities.
 
 ### Sprite
 
