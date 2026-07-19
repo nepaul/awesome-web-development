@@ -609,6 +609,7 @@ It is a Javascript based diagramming and charting tool that renders Markdown-ins
 ## Conversational
 
 - ![](https://img.shields.io/github/stars/alibaba/ChatUI?style=social) [ChatUI: The UI design language and React library for Conversational UI](https://github.com/alibaba/ChatUI)
+- ![](https://img.shields.io/github/stars/Simon-He95/markstream-vue?style=social) [Markstream](https://github.com/Simon-He95/markstream-vue) - Streaming Markdown renderer for AI chat interfaces with Vue, React, Svelte, and Angular packages.
 
 ## Tweening Engine
 
