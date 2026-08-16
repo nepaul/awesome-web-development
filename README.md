@@ -147,6 +147,7 @@ A collection of **awesome** web development resources.
 
 - [**mdo code guide** Standards for developing flexible, durable, and sustainable HTML and CSS.](https://github.com/mdo/code-guide) <img src="https://img.shields.io/github/stars/mdo/code-guide?style=social" height="16">
 - [Auto Lab @JingDong: Front-End Coding Guidelines, HTML, CSS, JavaScript, Images, Names](https://guide.aotu.io/index.html)
+- [Production Readiness Checklist](https://github.com/MarinJursic/production-readiness-checklist) - Technology-neutral checks for reviewing web applications before production.
 
 ## Some Reading List
 
