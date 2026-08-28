@@ -708,6 +708,7 @@ Unlike traditional tracking methods, this ID can be stored almost persistently a
 - [:+1::+1::+1:**Emmet** - the essential toolkit for web-developers](https://emmet.io/)
 - [**BrowserStack** - Instant access to all real mobile and desktop browsers. Say goodbye to your lab of devices and virtual machines.](https://www.browserstack.com/)
 - [**LogRocket** - Records everything users do on your site, helping you reproduce bugs and fix issues faster.](https://logrocket.com/)
+- [**Nutilz** - Free browser-based developer utilities: regex tester, JSON formatter, converters, and calculators. No sign-up required.](https://nutilz.com)
 
 ### Models & serializers
 
