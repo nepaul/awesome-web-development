@@ -715,6 +715,7 @@ Unlike traditional tracking methods, this ID can be stored almost persistently a
 
 ### TypeScript
 
+- [The Concise TypeScript Book](https://github.com/gibbok/typescript-book) - Free and open-source TypeScript book covering fundamentals through advanced concepts, with 10,300+ stars on GitHub.
 - ![](https://img.shields.io/github/stars/airbnb/ts-migrate?style=social) [ts-migrate is a tool for helping migrate code to TypeScript. It takes a JavaScript, or a partial TypeScript, project in and gives a compiling TypeScript project out.](https://github.com/airbnb/ts-migrate)
 
 ### Debug
