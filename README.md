@@ -750,6 +750,7 @@ Our platform enables frontend teams to do their best work.
 
 - 👍👍 [Make images smaller using best-in-class codecs, right in the browser. by GoogleChormeLabs](https://squoosh.app/)
 - [TinyPNG client for Mac](https://github.com/kyleduo/TinyPNG4Mac)
+- [FileOnTap HEIC to PDF](https://fileontap.com/heic-to-pdf/) - Free browser-local HEIC to PDF converter, no uploads.
 
 ### Icons
 
