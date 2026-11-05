@@ -1064,6 +1064,8 @@ MindAR is a lightweight library for web augmented reality. Highlighted features 
 
 - [MDN Web Docs](https://developer.mozilla.org/) - Resources for web developers
 
+- [Open Source Analytics](https://opensource-analytics.com/) - Editorial reviews of privacy-friendly, self-hosted web analytics
+
 - [SitePoint](https://www.sitepoint.com/blog/) - Updates on current web development trends and technologies
 
 - [Smashing Magazine](https://www.smashingmagazine.com/) - Magazine for web designers and developers
