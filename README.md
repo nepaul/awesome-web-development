@@ -390,6 +390,7 @@ It is a Javascript based diagramming and charting tool that renders Markdown-ins
 
 - ![](https://img.shields.io/github/stars/renzhezhilu/webp2jpg-online?style=social)
  [webp2jpg-online: Online image format converter, jpeg, jpg, PNG, Gif, webp, svg, ICO, bmp files into Jpeg, PNG, webp, ICO, gif files. The conversion can be done locally without uploading the file Online picture format converter, can convert jpeg, jpg, png, gif, webp, svg, ico, bmp files into jpeg, png, webp, ico, gif files. No need to upload files, conversion can be done locally](https://github.com/renzhezhilu/webp2jpg-online)
+- [SnapShrink WebP to PNG](https://getsnapshrink.com/webp-to-png/): Batch WebP to PNG converter that runs entirely in your browser — no uploads, no signup. Drop WebP files, download PNGs or one ZIP. First 10 images per session free.
 - ![](https://img.shields.io/github/stars/joe-bell/plaiceholder?style=social)
  [plaiceholder](https://github.com/joe-bell/plaiceholder): "Plaiceholder" is a collection of Node.js helpers for creating low quality image placeholders, with several approaches to choose from: 1. CSS (recommended); 2. SVG; 3. Base64; 4. Blurehash; 5. Blurehash to CSS(Experimental 🧪)
 
