@@ -980,6 +980,8 @@ MindAR is a lightweight library for web augmented reality. Highlighted features 
 ### CMS
 
 - ![](https://img.shields.io/github/stars/strapi/strapi?style=social) [strapi](https://github.com/strapi/strapi): Strapi is a free and open-source headless CMS. It’s 100% JavaScript, fully customizable, and developer-first.
+- [SkyScribe](https://skyscribe.app): A writing and website-building CMS for the AT Protocol. Articles are saved as open [site.standard](https://standard.site) records in the author's own Bluesky account (PDS), not in a vendor database, and can be published as a hosted site or pulled into your own site with the SkyScribe SDK below.
+- ![](https://img.shields.io/github/stars/ACregan/skyscribe-sdk?style=social) [SkyScribe SDK](https://github.com/ACregan/skyscribe-sdk): Fetch and display blog content stored on the AT Protocol (the network behind Bluesky) in any website, using the open [site.standard](https://standard.site) records. A dependency-free TypeScript core with React, Vue, Angular, Next, Nuxt and React Router adapters. Works with content from SkyScribe or any other site.standard editor. [Docs](https://sdk.skyscribe.app)
 
 ## Node
 
